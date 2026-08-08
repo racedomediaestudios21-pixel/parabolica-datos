@@ -1,0 +1,38 @@
+name: Actualizar datos del panel
+
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Consultar tvguia.es y Spotify
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: npm run fetch
+
+      - name: Guardar los datos en el repositorio
+        run: |
+          git config user.name "Robot Parabolica"
+          git config user.email "actions@github.com"
+          git add data/*.json
+          git diff --quiet --cached || git commit -m "Actualización automática de datos"
+          git push

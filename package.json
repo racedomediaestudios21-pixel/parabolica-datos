@@ -1,0 +1,13 @@
+{
+  "name": "parabolica-datos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Datos automáticos (parrilla TV + música) para el panel de La Parabólica TV",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0"
+  }
+}

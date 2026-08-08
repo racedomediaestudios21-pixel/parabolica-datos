@@ -28,11 +28,11 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: npm run fetch
-
       - name: Guardar los datos en el repositorio
         run: |
           git config user.name "Robot Parabolica"
           git config user.email "actions@github.com"
           git add data/*.json
           git diff --quiet --cached || git commit -m "Actualización automática de datos"
+          git pull --rebase origin main
           git push

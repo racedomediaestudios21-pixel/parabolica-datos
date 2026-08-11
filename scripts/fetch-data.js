@@ -1,17 +1,12 @@
 /**
  * Este script lo ejecuta GitHub Actions solo, cada hora.
- * Descarga la programación real de tvguia.es y los últimos lanzamientos
- * de Spotify (mercado España), y los guarda como archivos JSON en /data.
- * El panel HTML lee esos JSON directamente desde GitHub (raw.githubusercontent.com),
- * que sí permite ser leído desde el navegador (a diferencia de tvguia.es o Spotify).
+ * Descarga la programación real de tvguia.es y la guarda como JSON en /data.
+ * El panel HTML lee ese JSON directamente desde GitHub (raw.githubusercontent.com).
  */
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
-
-const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
-const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 
 const TVGUIA_CHANNELS = {
   la1: 'la-1', la2: 'la-2', ant3: 'antena-3', cuatro: 'cuatro',
@@ -27,17 +22,15 @@ function guessGenre(title) {
   return 'Programa';
 }
 
-function colorFor(seed) {
-  const palette = ['#e51c23', '#f0a83a', '#3ecf8e', '#7d3ac1', '#00a8e8', '#ff7a00', '#c8102e', '#0a3d62', '#39a935', '#d63384'];
-  let hash = 0;
-  for (const ch of String(seed)) hash = (hash * 31 + ch.charCodeAt(0)) % palette.length;
-  return palette[hash];
-}
-
 async function fetchChannelSchedule(slug) {
   const url = `https://www.tvguia.es/tv/programacion-${slug}`;
   const { data: html } = await axios.get(url, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; ParabolicaPanel/1.0)' },
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      'Accept-Language': 'es-ES,es;q=0.9',
+      'Referer': 'https://www.tvguia.es/',
+    },
     timeout: 15000,
   });
   const $ = cheerio.load(html);
@@ -47,6 +40,7 @@ async function fetchChannelSchedule(slug) {
     const match = text.match(/(\d{1,2}:\d{2})\s*(.+)/);
     if (match) items.push({ time: match[1], title: match[2].replace(/^[►◄+]\s*/, '').trim() });
   });
+  console.log(`  (debug ${slug}) status ok, HTML: ${html.length} caracteres, programas encontrados: ${items.length}`);
   return items;
 }
 
@@ -66,57 +60,41 @@ async function buildParrilla() {
   return { channels, updatedAt: new Date().toISOString() };
 }
 
-async function getSpotifyToken() {
-  if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET) {
-    throw new Error('Faltan los secretos SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET en GitHub');
+async function fetchAudiencias() {
+  const url = 'https://barloventocomunicacion.es/audiencias-tv-ayer/';
+  const { data: html } = await axios.get(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+      'Accept-Language': 'es-ES,es;q=0.9',
+    },
+    timeout: 15000,
+  });
+  const $ = cheerio.load(html);
+  const bodyText = $('body').text();
+
+  // "Ránking diario de cadenas" aparece como líneas sueltas tipo "La1 / 10,3%"
+  const ranking = [];
+  const rankMatches = bodyText.matchAll(/([A-Za-zÀ-ÿ0-9º.\s]{2,35}?)\s*\/\s*(\d{1,2}(?:,\d)?)\s*%/g);
+  const seen = new Set();
+  for (const m of rankMatches) {
+    const name = m[1].trim();
+    const share = parseFloat(m[2].replace(',', '.'));
+    if (name.length < 2 || seen.has(name) || share > 100) continue;
+    seen.add(name);
+    ranking.push({ name, share, color: colorFor(name) });
+    if (ranking.length >= 12) break;
   }
-  const basic = Buffer.from(`${SPOTIFY_CLIENT_ID}:${SPOTIFY_CLIENT_SECRET}`).toString('base64');
-  const res = await axios.post(
-    'https://accounts.spotify.com/api/token',
-    'grant_type=client_credentials',
-    { headers: { Authorization: `Basic ${basic}`, 'Content-Type': 'application/x-www-form-urlencoded' } }
-  );
-  return res.data.access_token;
+  ranking.sort((a, b) => b.share - a.share);
+
+  console.log(`  (debug audiencias) HTML: ${html.length} caracteres, filas de ránking encontradas: ${ranking.length}`);
+  return { ranking, updatedAt: new Date().toISOString() };
 }
 
-async function buildMusica() {
-  const token = await getSpotifyToken();
-  const headers = { Authorization: `Bearer ${token}` };
-
-  const releasesRes = await axios.get('https://api.spotify.com/v1/browse/new-releases?country=ES&limit=20', { headers });
-  const releases = releasesRes.data.albums.items.map(album => ({
-    artist: album.artists.map(a => a.name).join(', '),
-    track: album.name,
-    date: album.release_date,
-    tags: ['spotify'],
-    color: colorFor(album.id),
-    url: album.external_urls.spotify,
-  }));
-
-  let top10 = [];
-  try {
-    const searchRes = await axios.get(
-      'https://api.spotify.com/v1/search?q=Los%2040%20Principales&type=playlist&market=ES&limit=1',
-      { headers }
-    );
-    const playlistId = searchRes.data.playlists?.items?.[0]?.id;
-    if (playlistId) {
-      const tracksRes = await axios.get(
-        `https://api.spotify.com/v1/playlists/${playlistId}/tracks?market=ES&limit=10`,
-        { headers }
-      );
-      top10 = tracksRes.data.items.map((it, idx) => ({
-        pos: idx + 1, delta: 0,
-        artist: it.track?.artists?.map(a => a.name).join(', ') || '—',
-        track: it.track?.name || '—',
-        color: colorFor(it.track?.id || idx),
-      }));
-    }
-  } catch (err) {
-    console.error('Aviso: no se pudo construir el top10:', err.message);
-  }
-
-  return { releases, top10, updatedAt: new Date().toISOString() };
+function colorFor(seed) {
+  const palette = ['#e51c23', '#f0a83a', '#3ecf8e', '#7d3ac1', '#00a8e8', '#ff7a00', '#c8102e', '#0a3d62', '#39a935', '#d63384'];
+  let hash = 0;
+  for (const ch of String(seed)) hash = (hash * 31 + ch.charCodeAt(0)) % palette.length;
+  return palette[hash];
 }
 
 async function main() {
@@ -132,11 +110,11 @@ async function main() {
   }
 
   try {
-    const musica = await buildMusica();
-    fs.writeFileSync(path.join(outDir, 'musica.json'), JSON.stringify(musica, null, 2));
-    console.log(`✓ musica.json guardado (${musica.releases.length} lanzamientos)`);
+    const audiencias = await fetchAudiencias();
+    fs.writeFileSync(path.join(outDir, 'audiencias.json'), JSON.stringify(audiencias, null, 2));
+    console.log(`✓ audiencias.json guardado (${audiencias.ranking.length} cadenas)`);
   } catch (err) {
-    console.error('✗ Error generando musica.json:', err.message);
+    console.error('✗ Error generando audiencias.json:', err.message);
   }
 }
 

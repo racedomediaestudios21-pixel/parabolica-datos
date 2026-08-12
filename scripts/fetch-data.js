@@ -158,12 +158,34 @@ async function main() {
     console.error('✗ Error generando parrilla.json:', err.message);
   }
 
+  let audiencias = null;
   try {
-    const audiencias = await fetchAudiencias();
+    audiencias = await fetchAudiencias();
     fs.writeFileSync(path.join(outDir, 'audiencias.json'), JSON.stringify(audiencias, null, 2));
     console.log(`✓ audiencias.json guardado (${audiencias.ranking.length} cadenas)`);
   } catch (err) {
     console.error('✗ Error generando audiencias.json:', err.message);
+  }
+
+  // Histórico: guardamos un snapshot por día (se queda con los últimos 30 días).
+  // Así el panel puede pintar la evolución de audiencias en el tiempo.
+  if (audiencias && audiencias.ranking.length) {
+    try {
+      const historialPath = path.join(outDir, 'audiencias-historial.json');
+      let historial = [];
+      if (fs.existsSync(historialPath)) {
+        try { historial = JSON.parse(fs.readFileSync(historialPath, 'utf8')); } catch (e) { historial = []; }
+      }
+      const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+      const entry = { date: today, ranking: audiencias.ranking.slice(0, 8) };
+      historial = historial.filter(h => h.date !== today); // evita duplicar si corre varias veces el mismo día
+      historial.push(entry);
+      historial = historial.slice(-30);
+      fs.writeFileSync(historialPath, JSON.stringify(historial, null, 2));
+      console.log(`✓ audiencias-historial.json actualizado (${historial.length} días guardados)`);
+    } catch (err) {
+      console.error('✗ Error actualizando el histórico de audiencias:', err.message);
+    }
   }
 
   try {

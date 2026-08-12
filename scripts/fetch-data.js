@@ -118,6 +118,34 @@ async function fetchAudiencias() {
   return { ranking, updatedAt: new Date().toISOString() };
 }
 
+async function fetchNoticias() {
+  const url = 'https://laparabolica.tv/';
+  const { data: html } = await axios.get(url, {
+    headers: { ...BROWSER_HEADERS, Referer: 'https://www.google.com/' },
+    timeout: 15000,
+  });
+  const $ = cheerio.load(html);
+
+  const items = [];
+  const seen = new Set();
+  $('a[href^="https://laparabolica.tv/"]').each((_, el) => {
+    const href = $(el).attr('href');
+    const text = $(el).text().trim();
+    // Descartamos enlaces de navegación (secciones, autores, la home) y quedarnos
+    // solo con enlaces a artículos reales, con un titular de longitud razonable.
+    if (!href || seen.has(href)) return;
+    if (/\/(secciones|author)\//.test(href)) return;
+    if (href === url || href === url.slice(0, -1)) return;
+    if (text.length < 20 || text.length > 160) return;
+    seen.add(href);
+    items.push({ t: text, u: href });
+    if (items.length >= 10) return false;
+  });
+
+  console.log(`  (debug noticias) status ok, HTML: ${html.length} caracteres, titulares encontrados: ${items.length}`);
+  return { items, updatedAt: new Date().toISOString() };
+}
+
 async function main() {
   const outDir = path.join(__dirname, '..', 'data');
   fs.mkdirSync(outDir, { recursive: true });
@@ -136,6 +164,14 @@ async function main() {
     console.log(`✓ audiencias.json guardado (${audiencias.ranking.length} cadenas)`);
   } catch (err) {
     console.error('✗ Error generando audiencias.json:', err.message);
+  }
+
+  try {
+    const noticias = await fetchNoticias();
+    fs.writeFileSync(path.join(outDir, 'noticias.json'), JSON.stringify(noticias, null, 2));
+    console.log(`✓ noticias.json guardado (${noticias.items.length} titulares)`);
+  } catch (err) {
+    console.error('✗ Error generando noticias.json:', err.message);
   }
 }
 

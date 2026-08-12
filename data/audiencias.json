@@ -1,45 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Ránking diario de cadenas\n\n\n\n\nA3",
+      "name": "Antena 3",
       "share": 12.6,
-      "color": "#c8102e"
-    },
-    {
-      "name": "La1",
-      "share": 11.7,
       "color": "#3ecf8e"
     },
     {
-      "name": "TEMATICAS PAGO",
+      "name": "La 1",
+      "share": 11.7,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
       "share": 11.1,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "AUT",
-      "share": 8.6,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "T5",
-      "share": 7.9,
       "color": "#0a3d62"
     },
     {
-      "name": "CUATRO",
+      "name": "Autonómicas (FORTA)",
+      "share": 8.6,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 7.9,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
       "share": 6.1,
       "color": "#3ecf8e"
     },
     {
-      "name": "LA SEXTA",
+      "name": "laSexta",
       "share": 5.1,
       "color": "#3ecf8e"
     },
     {
-      "name": "La2",
+      "name": "La 2",
       "share": 4,
-      "color": "#7d3ac1"
+      "color": "#ff7a00"
     }
   ],
-  "updatedAt": "2026-08-12T09:47:41.940Z"
+  "dataDate": "2026-08-11",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 1799000,
+    "share": 21.5
+  },
+  "minutoOro": {
+    "time": "14:57",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2172000
+  },
+  "prime": [
+    {
+      "chan": "La1",
+      "prog": "VIAJE AL CENTRO DE LA TELE <70 MOMENTOS MITICOS(2 PARTE)>",
+      "share": 9.8,
+      "viewers": 9.130002
+    },
+    {
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 11.8,
+      "viewers": 8.390004
+    },
+    {
+      "chan": "La1",
+      "prog": "DOG HOUSE",
+      "share": 10.4,
+      "viewers": 7.070007
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "VIAJEROS CUATRO <TARRAGONA>",
+      "share": 5.1,
+      "viewers": 4.660009
+    },
+    {
+      "chan": "FDF",
+      "prog": "CINE <REGRESO AL FUTURO>",
+      "share": 5.4,
+      "viewers": 0.349
+    }
+  ],
+  "consumoMin": 136,
+  "espectadoresTotales": {
+    "viewers": 22458000,
+    "percent": 47.2
+  },
+  "updatedAt": "2026-08-12T11:26:09.938Z"
 }

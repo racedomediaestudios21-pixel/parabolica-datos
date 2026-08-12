@@ -3,14 +3,14 @@
     "date": "2026-08-12",
     "ranking": [
       {
-        "name": "Ránking diario de cadenas\n\n\n\n\nLa1",
-        "share": 12.5,
-        "color": "#3ecf8e"
+        "name": "Ránking diario de cadenas\n\n\n\n\nA3",
+        "share": 12.6,
+        "color": "#c8102e"
       },
       {
-        "name": "A3",
-        "share": 12.4,
-        "color": "#c8102e"
+        "name": "La1",
+        "share": 11.7,
+        "color": "#3ecf8e"
       },
       {
         "name": "TEMATICAS PAGO",
@@ -19,27 +19,27 @@
       },
       {
         "name": "AUT",
-        "share": 8.8,
+        "share": 8.6,
         "color": "#00a8e8"
       },
       {
         "name": "T5",
-        "share": 8.6,
+        "share": 7.9,
         "color": "#0a3d62"
       },
       {
-        "name": "LA SEXTA",
-        "share": 5.4,
+        "name": "CUATRO",
+        "share": 6.1,
         "color": "#3ecf8e"
       },
       {
-        "name": "CUATRO",
-        "share": 5.3,
+        "name": "LA SEXTA",
+        "share": 5.1,
         "color": "#3ecf8e"
       },
       {
         "name": "La2",
-        "share": 3.9,
+        "share": 4,
         "color": "#7d3ac1"
       }
     ]

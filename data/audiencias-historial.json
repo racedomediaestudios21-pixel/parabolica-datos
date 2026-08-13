@@ -98,45 +98,90 @@
     "date": "2026-08-12",
     "ranking": [
       {
-        "name": "Ránking diario de cadenas\n\n\n\n\nA3",
-        "share": 12.6,
-        "color": "#c8102e"
+        "name": "La 1",
+        "share": 14.8,
+        "color": "#00a8e8"
       },
       {
-        "name": "La1",
-        "share": 11.7,
+        "name": "Antena 3",
+        "share": 12.2,
         "color": "#3ecf8e"
       },
       {
-        "name": "TEMATICAS PAGO",
-        "share": 11.1,
-        "color": "#00a8e8"
+        "name": "Autonómicas (FORTA)",
+        "share": 10.7,
+        "color": "#e51c23"
       },
       {
-        "name": "AUT",
-        "share": 8.6,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "T5",
-        "share": 7.9,
+        "name": "Temáticas de Pago",
+        "share": 9.7,
         "color": "#0a3d62"
       },
       {
-        "name": "CUATRO",
-        "share": 6.1,
+        "name": "Telecinco",
+        "share": 7.7,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 5.7,
         "color": "#3ecf8e"
       },
       {
-        "name": "LA SEXTA",
-        "share": 5.1,
+        "name": "laSexta",
+        "share": 5,
         "color": "#3ecf8e"
       },
       {
-        "name": "La2",
-        "share": 4,
-        "color": "#7d3ac1"
+        "name": "La 2",
+        "share": 3.3,
+        "color": "#ff7a00"
       }
-    ]
+    ],
+    "masVisto": {
+      "prog": "AQUI LA TIERRA:ESPECIAL ECLIPSE#VIVETUECLIPSE",
+      "chan": "La1",
+      "time": "20:24",
+      "viewers": 2131000,
+      "share": 27.3
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 9.6,
+        "viewers": 8.150003
+      },
+      {
+        "chan": "Antena3",
+        "prog": "¡SALTA!",
+        "share": 9.4,
+        "viewers": 5.140005
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5.1,
+        "viewers": 4.420007
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "VIAJEROS CUATRO <SINGAPUR>",
+        "share": 6.6,
+        "viewers": 4.090009
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "SANDOKAN <LA MUERTE DE UN PIRATA>",
+        "share": 6.4,
+        "viewers": 0.398
+      }
+    ],
+    "consumoMin": 135,
+    "espectadoresTotales": {
+      "viewers": 22487000,
+      "percent": 47.3
+    }
   }
 ]

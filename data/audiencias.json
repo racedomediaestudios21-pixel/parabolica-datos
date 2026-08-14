@@ -1,91 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "La 1",
-      "share": 14.8,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Antena 3",
-      "share": 12.2,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 10.7,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 9.7,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Telecinco",
-      "share": 7.7,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 5.7,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 5,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.3,
-      "color": "#ff7a00"
-    }
-  ],
+  "ranking": [],
   "dataDate": null,
-  "masVisto": {
-    "prog": "AQUI LA TIERRA:ESPECIAL ECLIPSE#VIVETUECLIPSE",
-    "chan": "La1",
-    "time": "20:24",
-    "viewers": 2131000,
-    "share": 27.3
-  },
+  "masVisto": null,
   "minutoOro": null,
-  "prime": [
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 9.6,
-      "viewers": 8.150003
-    },
-    {
-      "chan": "Antena3",
-      "prog": "¡SALTA!",
-      "share": 9.4,
-      "viewers": 5.140005
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.1,
-      "viewers": 4.420007
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "VIAJEROS CUATRO <SINGAPUR>",
-      "share": 6.6,
-      "viewers": 4.090009
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "SANDOKAN <LA MUERTE DE UN PIRATA>",
-      "share": 6.4,
-      "viewers": 0.398
-    }
-  ],
-  "consumoMin": 135,
-  "espectadoresTotales": {
-    "viewers": 22487000,
-    "percent": 47.3
-  },
-  "updatedAt": "2026-08-13T22:24:28.470Z"
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-08-14T05:18:40.005Z"
 }

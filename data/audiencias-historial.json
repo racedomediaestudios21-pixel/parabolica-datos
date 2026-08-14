@@ -183,5 +183,100 @@
       "viewers": 22487000,
       "percent": 47.3
     }
+  },
+  {
+    "date": "2026-08-13",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 12.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 11.8,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.6,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.9,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 7.9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 5.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 1758000,
+      "share": 21
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2073000
+    },
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 9.8,
+        "viewers": 8.510003
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <CLARA GALLE,CLAUDIA SALAS Y PAULA USERO>",
+        "share": 8,
+        "viewers": 6.930005
+      },
+      {
+        "chan": "La1",
+        "prog": "ORDENA TU VIDA",
+        "share": 9.1,
+        "viewers": 4.940007
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "ELLA,MALDITA ALMA",
+        "share": 7.5,
+        "viewers": 4.740009
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "VIAJEROS CUATRO <ALAVA>",
+        "share": 5.3,
+        "viewers": 0.454
+      }
+    ],
+    "consumoMin": 134,
+    "espectadoresTotales": {
+      "viewers": 22193000,
+      "percent": 46.7
+    }
   }
 ]

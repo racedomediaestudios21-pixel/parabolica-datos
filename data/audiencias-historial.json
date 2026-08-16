@@ -278,5 +278,100 @@
       "viewers": 22193000,
       "percent": 46.7
     }
+  },
+  {
+    "date": "2026-08-14",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 12.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 12.2,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "La 1",
+        "share": 11.7,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.5,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 7.8,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 5.4,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 1910000,
+      "share": 22.1
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2179000
+    },
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 9.8,
+        "viewers": 7.830002
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EL PELICULON <A TODO TREN 2>",
+        "share": 8.7,
+        "viewers": 6.760005
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EL BLOCKBUSTER <LARGO WINCH:EL PRECIO DEL DINERO>",
+        "share": 5.6,
+        "viewers": 4.390007
+      },
+      {
+        "chan": "Antena3",
+        "prog": "CINE <TENEMOS QUE HABLAR(2016)>",
+        "share": 7.8,
+        "viewers": 3.910009
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EQUIPO DE INVESTIGACION <EL CRIMEN DEL DOMINGO DE RAMOS>",
+        "share": 4.4,
+        "viewers": 0.352
+      }
+    ],
+    "consumoMin": 132,
+    "espectadoresTotales": {
+      "viewers": 21810000,
+      "percent": 45.9
+    }
   }
 ]

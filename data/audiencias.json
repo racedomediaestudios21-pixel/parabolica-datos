@@ -2,37 +2,37 @@
   "ranking": [
     {
       "name": "Temáticas de Pago",
-      "share": 14.1,
+      "share": 13.9,
       "color": "#0a3d62"
     },
     {
       "name": "Antena 3",
-      "share": 11,
+      "share": 11.4,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 10,
+      "share": 9.8,
       "color": "#00a8e8"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.7,
+      "share": 8.9,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 8.1,
+      "share": 7.1,
       "color": "#39a935"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.6,
+      "color": "#3ecf8e"
     },
     {
       "name": "Cuatro",
       "share": 5.5,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 4.5,
       "color": "#3ecf8e"
     },
     {
@@ -41,56 +41,51 @@
       "color": "#ff7a00"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-08-16",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
     "chan": "Antena3",
     "time": "14:59",
-    "viewers": 1489000,
-    "share": 20.2
+    "viewers": 1760000,
+    "share": 21.7
   },
-  "minutoOro": {
-    "time": "14:57",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 1642000
-  },
+  "minutoOro": null,
   "prime": [
     {
-      "chan": "Telecinco",
-      "prog": "CINE 5 ESTRELLAS <MAÑANA ES HOY>",
-      "share": 11.3,
-      "viewers": 8.610002
-    },
-    {
       "chan": "La1",
-      "prog": "INFORME SEMANAL",
-      "share": 7.8,
-      "viewers": 6.150004
+      "prog": "PELICULA DE LA SEMANA <ROBIN HOOD.FORAJIDO,HEROE,LEYENDA>",
+      "share": 12.1,
+      "viewers": 10.710002
     },
     {
-      "chan": "Antena3",
-      "prog": "ATRAPA UN MILLON",
-      "share": 10.1,
-      "viewers": 4.680006
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 8,
+      "viewers": 6.570004
     },
     {
       "chan": "Cuatro",
-      "prog": "EL BLOCKBUSTER <HARRY POTTER Y EL MISTERIO DEL PRINCIPE>",
-      "share": 4.4,
-      "viewers": 3.180008
+      "prog": "CUARTO MILENIO",
+      "share": 4.7,
+      "viewers": 3.870006
     },
     {
-      "chan": "La Sexta",
-      "prog": "LASEXTA _XPLICA/.",
-      "share": 4.7,
-      "viewers": 30.20001
+      "chan": "La2",
+      "prog": "TRICICLE 40",
+      "share": 4.2,
+      "viewers": 3.730008
+    },
+    {
+      "chan": "La2",
+      "prog": "D.REG(ME METO EN UN JARDIN) <MARC GIRO>",
+      "share": 3.7,
+      "viewers": 33.80001
     }
   ],
-  "consumoMin": 132,
+  "consumoMin": 143,
   "espectadoresTotales": {
-    "viewers": 21325000,
-    "percent": 44.8
+    "viewers": 22498000,
+    "percent": 47.3
   },
-  "updatedAt": "2026-08-17T08:08:59.879Z"
+  "updatedAt": "2026-08-17T10:51:08.549Z"
 }

@@ -1,96 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "La 1",
-      "share": 12.5,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Antena 3",
-      "share": 12.5,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 12,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.3,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 7.9,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 5.4,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.1,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.9,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-08-17",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 1897000,
-    "share": 22.6
-  },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2033000
-  },
-  "prime": [
-    {
-      "chan": "La1",
-      "prog": "GRAND PRIX",
-      "share": 13.8,
-      "viewers": 10.610002
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 12.3,
-      "viewers": 8.360004
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 8.9,
-      "viewers": 7.450006
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.6,
-      "viewers": 5.040008
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.1,
-      "viewers": 48.80001
-    }
-  ],
-  "consumoMin": 137,
-  "espectadoresTotales": {
-    "viewers": 22697000,
-    "percent": 47.7
-  },
-  "updatedAt": "2026-08-18T22:56:40.673Z"
+  "ranking": [],
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-08-18T23:52:11.812Z"
 }

@@ -653,5 +653,95 @@
       "viewers": 22697000,
       "percent": 47.7
     }
+  },
+  {
+    "date": "2026-08-18",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 12.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 11.9,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.9,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.2,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 7.7,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 4.1,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 1912000,
+      "share": 22.6
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 12.5,
+        "viewers": 8.490003
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <LEONOR LAVADO Y JESULIN DE UBRIQUE>",
+        "share": 8.8,
+        "viewers": 7.490005
+      },
+      {
+        "chan": "La1",
+        "prog": "DOG HOUSE",
+        "share": 10.3,
+        "viewers": 6.400007
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 6.2,
+        "viewers": 5.110009
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "CINE 5 ESTRELLAS <PISANDONOS LOS TACONES>",
+        "share": 6.3,
+        "viewers": 0.405
+      }
+    ],
+    "consumoMin": 134,
+    "espectadoresTotales": {
+      "viewers": 22177000,
+      "percent": 46.6
+    }
   }
 ]

@@ -1,96 +1,46 @@
 {
-  "ranking": [
-    {
-      "name": "Antena 3",
-      "share": 12.3,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 11.7,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "La 1",
-      "share": 11.4,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 9.4,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8.4,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 5.6,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 4.7,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.9,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-08-20",
+  "ranking": [],
+  "dataDate": "2026-08-21",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 1981000,
-    "share": 23.5
+    "viewers": 1744000,
+    "share": 21.8
   },
   "minutoOro": {
     "time": "14:56",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2232000
+    "viewers": 1985000
   },
   "prime": [
     {
       "chan": "Telecinco",
       "prog": "FIRST DATES",
-      "share": 10.4,
-      "viewers": 9.550002
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <LUIS ZAHERA>",
-      "share": 7.5,
-      "viewers": 6.990005
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "VIAJEROS CUATRO <CANTABRIA>",
-      "share": 6.2,
-      "viewers": 5.670007
+      "share": 9.2,
+      "viewers": 7.350003
     },
     {
       "chan": "La1",
-      "prog": "ORDENA TU VIDA",
-      "share": 8.9,
-      "viewers": 5.190009
+      "prog": "VIAJE AL CENTRO DE LA TELE <FAMOSOS TAN JOVENES>",
+      "share": 8.3,
+      "viewers": 6.640006
     },
     {
-      "chan": "Cuatro",
-      "prog": "VIAJEROS CUATRO <BURGOS>",
-      "share": 5.4,
-      "viewers": 0.5
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 6.1,
+      "viewers": 4.770008
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "LASEXTA COLUMNA <AZNAR’96:AQUELLA ESPAÑA DE JOSE MARI>",
+      "share": 4.4,
+      "viewers": 34.60001
     }
   ],
-  "consumoMin": 137,
-  "espectadoresTotales": {
-    "viewers": 22729000,
-    "percent": 47.8
-  },
-  "updatedAt": "2026-08-22T05:05:20.612Z"
+  "consumoMin": 129,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-08-22T07:47:12.718Z"
 }

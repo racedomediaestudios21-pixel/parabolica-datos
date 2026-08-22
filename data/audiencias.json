@@ -1,46 +1,10 @@
 {
   "ranking": [],
-  "dataDate": "2026-08-21",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 1744000,
-    "share": 21.8
-  },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 1985000
-  },
-  "prime": [
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 9.2,
-      "viewers": 7.350003
-    },
-    {
-      "chan": "La1",
-      "prog": "VIAJE AL CENTRO DE LA TELE <FAMOSOS TAN JOVENES>",
-      "share": 8.3,
-      "viewers": 6.640006
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 6.1,
-      "viewers": 4.770008
-    },
-    {
-      "chan": "La Sexta",
-      "prog": "LASEXTA COLUMNA <AZNAR’96:AQUELLA ESPAÑA DE JOSE MARI>",
-      "share": 4.4,
-      "viewers": 34.60001
-    }
-  ],
-  "consumoMin": 129,
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
   "espectadoresTotales": null,
-  "updatedAt": "2026-08-22T21:50:59.022Z"
+  "updatedAt": "2026-08-22T22:54:09.318Z"
 }

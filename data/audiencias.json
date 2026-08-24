@@ -1,91 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Temáticas de Pago",
-      "share": 16.2,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Antena 3",
-      "share": 11.3,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 10,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.6,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 6.9,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 5.6,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 4.8,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.4,
-      "color": "#ff7a00"
-    }
-  ],
+  "ranking": [],
   "dataDate": null,
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-    "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 1694000,
-    "share": 21.8
-  },
+  "masVisto": null,
   "minutoOro": null,
-  "prime": [
-    {
-      "chan": "Antena3",
-      "prog": "ATRAPA UN MILLON",
-      "share": 8.3,
-      "viewers": 6.540003
-    },
-    {
-      "chan": "La1",
-      "prog": "LA NOCHE DE CARMEN MACHI <THI MAI,RUMBO A VIETNAM>",
-      "share": 7.5,
-      "viewers": 6.070005
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "CINE 5 ESTRELLAS <¡VAYA VACACIONES!(2023)>",
-      "share": 6.4,
-      "viewers": 5.180007
-    },
-    {
-      "chan": "Antena3",
-      "prog": "ATRAPA UN MILLON",
-      "share": 9.4,
-      "viewers": 4.420009
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "FIRST DATES",
-      "share": 4,
-      "viewers": 0.307
-    }
-  ],
-  "consumoMin": 130,
-  "espectadoresTotales": {
-    "viewers": 21477000,
-    "percent": 45.2
-  },
-  "updatedAt": "2026-08-24T03:34:04.974Z"
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-08-24T06:01:59.778Z"
 }

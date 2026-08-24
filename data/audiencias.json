@@ -1,10 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
-  "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-08-24T06:01:59.778Z"
+  "ranking": [
+    {
+      "name": "Temáticas de Pago",
+      "share": 16.2,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "La 1",
+      "share": 10.2,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Antena 3",
+      "share": 10.1,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.5,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 7,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
+      "share": 6.1,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 4.9,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.5,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-08-23",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "chan": "Antena3",
+    "time": "14:59",
+    "viewers": 1560000,
+    "share": 18.9
+  },
+  "minutoOro": {
+    "time": "14:57",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 1784000
+  },
+  "prime": [
+    {
+      "chan": "La1",
+      "prog": "PELICULA DE LA SEMANA <DESPIERTA LA FURIA>",
+      "share": 10.3,
+      "viewers": 9.140002
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 7.5,
+      "viewers": 6.180004
+    },
+    {
+      "chan": "La2",
+      "prog": "LA AMIGA ESTUPENDA <EL DINERO>",
+      "share": 5.9,
+      "viewers": 4.870006
+    },
+    {
+      "chan": "La2",
+      "prog": "LA AMIGA ESTUPENDA <METAMORFOSIS>",
+      "share": 8.5,
+      "viewers": 4.790008
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "CUARTO MILENIO",
+      "share": 4.9,
+      "viewers": 42.90001
+    }
+  ],
+  "consumoMin": 142,
+  "espectadoresTotales": {
+    "viewers": 22785000,
+    "percent": 47.9
+  },
+  "updatedAt": "2026-08-24T08:29:49.290Z"
 }

@@ -1033,38 +1033,38 @@
         "color": "#0a3d62"
       },
       {
-        "name": "Antena 3",
-        "share": 11.3,
-        "color": "#3ecf8e"
-      },
-      {
         "name": "La 1",
-        "share": 10,
+        "share": 10.2,
         "color": "#00a8e8"
       },
       {
+        "name": "Antena 3",
+        "share": 10.1,
+        "color": "#3ecf8e"
+      },
+      {
         "name": "Autonómicas (FORTA)",
-        "share": 8.6,
+        "share": 8.5,
         "color": "#e51c23"
       },
       {
         "name": "Telecinco",
-        "share": 6.9,
+        "share": 7,
         "color": "#39a935"
       },
       {
         "name": "Cuatro",
-        "share": 5.6,
+        "share": 6.1,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 4.8,
+        "share": 4.9,
         "color": "#3ecf8e"
       },
       {
         "name": "La 2",
-        "share": 3.4,
+        "share": 3.5,
         "color": "#ff7a00"
       }
     ],
@@ -1072,46 +1072,51 @@
       "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
       "chan": "Antena3",
       "time": "14:59",
-      "viewers": 1694000,
-      "share": 21.8
+      "viewers": 1560000,
+      "share": 18.9
     },
-    "minutoOro": null,
+    "minutoOro": {
+      "time": "14:57",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 1784000
+    },
     "prime": [
       {
-        "chan": "Antena3",
-        "prog": "ATRAPA UN MILLON",
-        "share": 8.3,
-        "viewers": 6.540003
-      },
-      {
         "chan": "La1",
-        "prog": "LA NOCHE DE CARMEN MACHI <THI MAI,RUMBO A VIETNAM>",
-        "share": 7.5,
-        "viewers": 6.070005
+        "prog": "PELICULA DE LA SEMANA <DESPIERTA LA FURIA>",
+        "share": 10.3,
+        "viewers": 9.140002
       },
       {
         "chan": "Telecinco",
-        "prog": "CINE 5 ESTRELLAS <¡VAYA VACACIONES!(2023)>",
-        "share": 6.4,
-        "viewers": 5.180007
+        "prog": "FIRST DATES",
+        "share": 7.5,
+        "viewers": 6.180004
       },
       {
-        "chan": "Antena3",
-        "prog": "ATRAPA UN MILLON",
-        "share": 9.4,
-        "viewers": 4.420009
+        "chan": "La2",
+        "prog": "LA AMIGA ESTUPENDA <EL DINERO>",
+        "share": 5.9,
+        "viewers": 4.870006
+      },
+      {
+        "chan": "La2",
+        "prog": "LA AMIGA ESTUPENDA <METAMORFOSIS>",
+        "share": 8.5,
+        "viewers": 4.790008
       },
       {
         "chan": "Cuatro",
-        "prog": "FIRST DATES",
-        "share": 4,
-        "viewers": 0.307
+        "prog": "CUARTO MILENIO",
+        "share": 4.9,
+        "viewers": 42.90001
       }
     ],
-    "consumoMin": 130,
+    "consumoMin": 142,
     "espectadoresTotales": {
-      "viewers": 21477000,
-      "percent": 45.2
+      "viewers": 22785000,
+      "percent": 47.9
     }
   }
 ]

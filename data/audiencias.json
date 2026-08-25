@@ -2,95 +2,95 @@
   "ranking": [
     {
       "name": "Temáticas de Pago",
-      "share": 16.2,
+      "share": 12.5,
       "color": "#0a3d62"
     },
     {
-      "name": "La 1",
-      "share": 10.2,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Antena 3",
-      "share": 10.1,
+      "share": 12.1,
       "color": "#3ecf8e"
     },
     {
+      "name": "La 1",
+      "share": 12,
+      "color": "#00a8e8"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.5,
+      "share": 8.2,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 7,
+      "share": 7.9,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 6.1,
+      "share": 5.4,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 4.9,
+      "share": 5.2,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.5,
+      "share": 5,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-08-23",
+  "dataDate": "2026-08-24",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 1560000,
-    "share": 18.9
+    "time": "14:58",
+    "viewers": 1917000,
+    "share": 21.4
   },
   "minutoOro": {
     "time": "14:57",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 1784000
+    "viewers": 2176000
   },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "PELICULA DE LA SEMANA <DESPIERTA LA FURIA>",
-      "share": 10.3,
-      "viewers": 9.140002
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <ANTONIO OROZCO,LUIS FONSI Y EDURNE>",
+      "share": 8.6,
+      "viewers": 8.580003
     },
     {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 7.5,
-      "viewers": 6.180004
-    },
-    {
-      "chan": "La2",
-      "prog": "LA AMIGA ESTUPENDA <EL DINERO>",
-      "share": 5.9,
-      "viewers": 4.870006
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 12.1,
+      "viewers": 8.250005
     },
     {
       "chan": "La2",
-      "prog": "LA AMIGA ESTUPENDA <METAMORFOSIS>",
-      "share": 8.5,
-      "viewers": 4.790008
+      "prog": "CIFRAS Y LETRAS",
+      "share": 6.8,
+      "viewers": 6.950007
     },
     {
       "chan": "Cuatro",
-      "prog": "CUARTO MILENIO",
-      "share": 4.9,
-      "viewers": 42.90001
+      "prog": "VIAJEROS CUATRO <COSTA DEL SOL>",
+      "share": 6.5,
+      "viewers": 6.590009
+    },
+    {
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 25.2,
+      "viewers": 0.409
     }
   ],
-  "consumoMin": 142,
+  "consumoMin": 145,
   "espectadoresTotales": {
-    "viewers": 22785000,
-    "percent": 47.9
+    "viewers": 23603000,
+    "percent": 49.6
   },
-  "updatedAt": "2026-08-25T05:51:11.222Z"
+  "updatedAt": "2026-08-25T08:22:03.268Z"
 }

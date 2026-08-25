@@ -1,10 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
-  "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-08-25T23:02:21.091Z"
+  "ranking": [
+    {
+      "name": "Temáticas de Pago",
+      "share": 12.5,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Antena 3",
+      "share": 12.1,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 1",
+      "share": 12,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.2,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 7.9,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
+      "share": 5.4,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.2,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 5,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-08-24",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 1917000,
+    "share": 21.4
+  },
+  "minutoOro": {
+    "time": "14:57",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2176000
+  },
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <ANTONIO OROZCO,LUIS FONSI Y EDURNE>",
+      "share": 8.6,
+      "viewers": 8.580003
+    },
+    {
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 12.1,
+      "viewers": 8.250005
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 6.8,
+      "viewers": 6.950007
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "VIAJEROS CUATRO <COSTA DEL SOL>",
+      "share": 6.5,
+      "viewers": 6.590009
+    },
+    {
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 25.2,
+      "viewers": 0.409
+    }
+  ],
+  "consumoMin": 145,
+  "espectadoresTotales": {
+    "viewers": 23603000,
+    "percent": 49.6
+  },
+  "updatedAt": "2026-08-25T23:56:04.014Z"
 }

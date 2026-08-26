@@ -1,96 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 12.5,
-      "color": "#0a3d62"
-    },
-    {
       "name": "Antena 3",
-      "share": 12.1,
+      "share": 13,
       "color": "#3ecf8e"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 12.7,
+      "color": "#0a3d62"
+    },
+    {
       "name": "La 1",
-      "share": 12,
+      "share": 12.6,
       "color": "#00a8e8"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.2,
+      "share": 8.4,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 7.9,
+      "share": 8,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 5.4,
+      "share": 5.8,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.2,
+      "share": 5.3,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 5,
+      "share": 3.8,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-08-24",
+  "dataDate": "2026-08-25",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 1917000,
-    "share": 21.4
+    "viewers": 2088000,
+    "share": 23.3
   },
   "minutoOro": {
-    "time": "14:57",
+    "time": "14:56",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2176000
+    "viewers": 2311000
   },
   "prime": [
     {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <ANTONIO OROZCO,LUIS FONSI Y EDURNE>",
-      "share": 8.6,
-      "viewers": 8.580003
+      "chan": "La1",
+      "prog": "VIAJE AL CENTRO DE LA TELE <70 MOMENTOS DE HUMOR>",
+      "share": 10.2,
+      "viewers": 9.660002
     },
     {
       "chan": "Antena3",
       "prog": "EN TIERRA LEJANA",
-      "share": 12.1,
-      "viewers": 8.250005
+      "share": 14,
+      "viewers": 8.870004
+    },
+    {
+      "chan": "La1",
+      "prog": "DOG HOUSE",
+      "share": 11.4,
+      "viewers": 7.780007
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 6.8,
-      "viewers": 6.950007
+      "share": 5.8,
+      "viewers": 5.320009
     },
     {
-      "chan": "Cuatro",
-      "prog": "VIAJEROS CUATRO <COSTA DEL SOL>",
-      "share": 6.5,
-      "viewers": 6.590009
-    },
-    {
-      "chan": "TV3",
-      "prog": "TELENOTICIES VESPRE",
-      "share": 25.2,
-      "viewers": 0.409
+      "chan": "Telecinco",
+      "prog": "CINE 5 ESTRELLAS <ES POR TU BIEN>",
+      "share": 7.8,
+      "viewers": 0.486
     }
   ],
-  "consumoMin": 145,
+  "consumoMin": 139,
   "espectadoresTotales": {
-    "viewers": 23603000,
-    "percent": 49.6
+    "viewers": 23647000,
+    "percent": 49.7
   },
-  "updatedAt": "2026-08-26T05:54:30.076Z"
+  "updatedAt": "2026-08-26T08:24:06.944Z"
 }

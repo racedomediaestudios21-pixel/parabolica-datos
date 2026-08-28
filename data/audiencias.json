@@ -1,96 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Antena 3",
-      "share": 13,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 12.7,
+      "share": 13.1,
       "color": "#0a3d62"
     },
     {
+      "name": "Antena 3",
+      "share": 12,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "La 1",
-      "share": 12.6,
+      "share": 11.6,
       "color": "#00a8e8"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.4,
+      "share": 8.6,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 8,
+      "share": 8.2,
       "color": "#39a935"
     },
     {
-      "name": "Cuatro",
-      "share": 5.8,
+      "name": "laSexta",
+      "share": 5.7,
       "color": "#3ecf8e"
     },
     {
-      "name": "laSexta",
-      "share": 5.3,
+      "name": "Cuatro",
+      "share": 5.5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.8,
+      "share": 4.3,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-08-25",
+  "dataDate": null,
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2088000,
-    "share": 23.3
+    "viewers": 1941000,
+    "share": 21.7
   },
   "minutoOro": {
-    "time": "14:56",
+    "time": "14:57",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2311000
+    "viewers": 2085000
   },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "VIAJE AL CENTRO DE LA TELE <70 MOMENTOS DE HUMOR>",
-      "share": 10.2,
-      "viewers": 9.660002
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 10.8,
+      "viewers": 10.340002
     },
     {
       "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 14,
-      "viewers": 8.870004
-    },
-    {
-      "chan": "La1",
-      "prog": "DOG HOUSE",
-      "share": 11.4,
-      "viewers": 7.780007
+      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <LOS MORANCOS>",
+      "share": 7.3,
+      "viewers": 7.110005
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 5.8,
-      "viewers": 5.320009
+      "share": 6.5,
+      "viewers": 6.380007
     },
     {
-      "chan": "Telecinco",
-      "prog": "CINE 5 ESTRELLAS <ES POR TU BIEN>",
-      "share": 7.8,
-      "viewers": 0.486
+      "chan": "La1",
+      "prog": "MAESTROS DE LA COSTURA CELEBRITY",
+      "share": 9.4,
+      "viewers": 5.210009
+    },
+    {
+      "chan": "Antena3",
+      "prog": "¡SALTA!",
+      "share": 7.6,
+      "viewers": 0.494
     }
   ],
-  "consumoMin": 139,
+  "consumoMin": 142,
   "espectadoresTotales": {
-    "viewers": 23647000,
+    "viewers": 23657000,
     "percent": 49.7
   },
-  "updatedAt": "2026-08-26T14:28:55.193Z"
+  "updatedAt": "2026-08-28T01:02:39.741Z"
 }

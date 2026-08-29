@@ -1,90 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Temáticas de Pago",
-      "share": 12.9,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Antena 3",
-      "share": 12.4,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 11.7,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.3,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 6.1,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.3,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.8,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-08-28",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 1872000,
-    "share": 21.8
-  },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2216000
-  },
-  "prime": [
-    {
-      "chan": "Antena3",
-      "prog": "EL PELICULON <LA FAMILIA BENETON>",
-      "share": 10.4,
-      "viewers": 8.320002
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "EL BLOCKBUSTER <ATRAPADOS EN EL ABISMO>",
-      "share": 7,
-      "viewers": 5.890005
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.2,
-      "viewers": 4.410007
-    },
-    {
-      "chan": "Antena3",
-      "prog": "CINE <SEÑOR,DAME PACIENCIA>",
-      "share": 9.2,
-      "viewers": 3.900009
-    }
-  ],
-  "consumoMin": 136,
-  "espectadoresTotales": {
-    "viewers": 23151000,
-    "percent": 48.7
-  },
-  "updatedAt": "2026-08-29T10:10:39.844Z"
+  "ranking": [],
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-08-29T11:10:33.535Z"
 }

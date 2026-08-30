@@ -1492,5 +1492,100 @@
       "viewers": 23151000,
       "percent": 48.7
     }
+  },
+  {
+    "date": "2026-08-29",
+    "ranking": [
+      {
+        "name": "Temáticas de Pago",
+        "share": 15.6,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Antena 3",
+        "share": 10.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 10.4,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 6.3,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 5.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 4.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 4.5,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+      "chan": "Antena3",
+      "time": "14:59",
+      "viewers": 1788000,
+      "share": 22
+    },
+    "minutoOro": {
+      "time": "14:57",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2113000
+    },
+    "prime": [
+      {
+        "chan": "La1",
+        "prog": "INFORME SEMANAL",
+        "share": 10,
+        "viewers": 7.940002
+      },
+      {
+        "chan": "La1",
+        "prog": "LA AMIGA ESTUPENDA <EL DESBORDAMIENTO>",
+        "share": 8.3,
+        "viewers": 6.770004
+      },
+      {
+        "chan": "La1",
+        "prog": "LA AMIGA ESTUPENDA <LOS ZAPATOS>",
+        "share": 7.9,
+        "viewers": 6.140006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "CINE 5 ESTRELLAS <AL OTRO BARRIO>",
+        "share": 6.4,
+        "viewers": 4.930008
+      },
+      {
+        "chan": "La2",
+        "prog": "MALAS LENGUAS NOCHE",
+        "share": 6.4,
+        "viewers": 39.70001
+      }
+    ],
+    "consumoMin": 134,
+    "espectadoresTotales": {
+      "viewers": 22181000,
+      "percent": 46.6
+    }
   }
 ]

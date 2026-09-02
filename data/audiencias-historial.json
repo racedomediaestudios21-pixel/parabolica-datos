@@ -1682,5 +1682,100 @@
       "viewers": 24438000,
       "percent": 51.4
     }
+  },
+  {
+    "date": "2026-09-01",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 12.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.8,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "La 1",
+        "share": 11.6,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.5,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 8.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.2,
+        "color": "#e51c23"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 4.3,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 1925000,
+      "share": 21.7
+    },
+    "minutoOro": {
+      "time": "21:03",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2377000
+    },
+    "prime": [
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 10.4,
+        "viewers": 10.620002
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 9.1,
+        "viewers": 9.230004
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 10.9,
+        "viewers": 8.090006
+      },
+      {
+        "chan": "La1",
+        "prog": "DOG HOUSE",
+        "share": 9.9,
+        "viewers": 7.580008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 6.5,
+        "viewers": 67.80001
+      }
+    ],
+    "consumoMin": 146,
+    "espectadoresTotales": {
+      "viewers": 25394000,
+      "percent": 53.4
+    }
   }
 ]

@@ -1,85 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Antena 3",
-      "share": 12.7,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 12.2,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 11.2,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.7,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8.3,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 8,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.1,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 4.2,
-      "color": "#ff7a00"
-    }
-  ],
+  "ranking": [],
   "dataDate": null,
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2058000,
-    "share": 23.3
-  },
+  "masVisto": null,
   "minutoOro": null,
-  "prime": [
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 11.6,
-      "viewers": 11.810002
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 8.9,
-      "viewers": 9.160005
-    },
-    {
-      "chan": "Antena3",
-      "prog": "LA MESA",
-      "share": 13.1,
-      "viewers": 7.420007
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.4,
-      "viewers": 5.710009
-    }
-  ],
-  "consumoMin": 144,
-  "espectadoresTotales": {
-    "viewers": 25306000,
-    "percent": 53.2
-  },
-  "updatedAt": "2026-09-03T17:17:47.079Z"
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-09-03T18:21:50.714Z"
 }

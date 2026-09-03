@@ -2,33 +2,33 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 12.3,
+      "share": 12.7,
       "color": "#3ecf8e"
     },
     {
-      "name": "Temáticas de Pago",
-      "share": 11.8,
-      "color": "#0a3d62"
-    },
-    {
       "name": "La 1",
-      "share": 11.6,
+      "share": 12.2,
       "color": "#00a8e8"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 11.2,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.7,
+      "color": "#e51c23"
+    },
+    {
       "name": "Telecinco",
-      "share": 8.5,
+      "share": 8.3,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 8.2,
+      "share": 8,
       "color": "#3ecf8e"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.2,
-      "color": "#e51c23"
     },
     {
       "name": "laSexta",
@@ -37,60 +37,49 @@
     },
     {
       "name": "La 2",
-      "share": 4.3,
+      "share": 4.2,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-01",
+  "dataDate": null,
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 1925000,
-    "share": 21.7
+    "viewers": 2058000,
+    "share": 23.3
   },
-  "minutoOro": {
-    "time": "21:03",
-    "chan": "Antena3",
-    "prog": "PASAPALABRA",
-    "viewers": 2377000
-  },
+  "minutoOro": null,
   "prime": [
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 10.4,
-      "viewers": 10.620002
+      "share": 11.6,
+      "viewers": 11.810002
     },
     {
       "chan": "Telecinco",
       "prog": "FIRST DATES",
-      "share": 9.1,
-      "viewers": 9.230004
+      "share": 8.9,
+      "viewers": 9.160005
     },
     {
       "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 10.9,
-      "viewers": 8.090006
-    },
-    {
-      "chan": "La1",
-      "prog": "DOG HOUSE",
-      "share": 9.9,
-      "viewers": 7.580008
+      "prog": "LA MESA",
+      "share": 13.1,
+      "viewers": 7.420007
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 6.5,
-      "viewers": 67.80001
+      "share": 5.4,
+      "viewers": 5.710009
     }
   ],
-  "consumoMin": 146,
+  "consumoMin": 144,
   "espectadoresTotales": {
-    "viewers": 25394000,
-    "percent": 53.4
+    "viewers": 25306000,
+    "percent": 53.2
   },
-  "updatedAt": "2026-09-03T08:20:35.932Z"
+  "updatedAt": "2026-09-03T09:19:38.165Z"
 }

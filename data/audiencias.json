@@ -1,96 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Antena 3",
-      "share": 12.7,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 12.4,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 11,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Cuatro",
-      "share": 8.9,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.2,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8.1,
-      "color": "#39a935"
-    },
-    {
-      "name": "laSexta",
-      "share": 4.8,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.9,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-09-03",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 1996000,
-    "share": 22.4
-  },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2251000
-  },
-  "prime": [
-    {
-      "chan": "La1",
-      "prog": "VIAJE AL CENTRO DE LA TELE <70 ARTISTA DEL VERANO(2 PARTE)>",
-      "share": 11.3,
-      "viewers": 11.460003
-    },
-    {
-      "chan": "Antena3",
-      "prog": "LAS HIJAS DE LA CRIADA <LA VENGANZA DE RENATA>",
-      "share": 12,
-      "viewers": 9.790005
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <ZENDAYA Y TOM HOLLAND>",
-      "share": 9.3,
-      "viewers": 9.420007
-    },
-    {
-      "chan": "La1",
-      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <ANTOÑITO MOLINA-MIGUEL RELLAN-ANTONIO REGUERA>",
-      "share": 11.5,
-      "viewers": 8.690009
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.5,
-      "viewers": 0.563
-    }
-  ],
-  "consumoMin": 147,
-  "espectadoresTotales": {
-    "viewers": 25106000,
-    "percent": 52.8
-  },
-  "updatedAt": "2026-09-04T09:26:11.361Z"
+  "ranking": [],
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-09-04T10:22:26.482Z"
 }

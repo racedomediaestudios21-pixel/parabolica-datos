@@ -7,79 +7,90 @@
     },
     {
       "name": "La 1",
-      "share": 12.2,
+      "share": 12.4,
       "color": "#00a8e8"
     },
     {
       "name": "Temáticas de Pago",
-      "share": 11.2,
+      "share": 11,
       "color": "#0a3d62"
     },
     {
+      "name": "Cuatro",
+      "share": 8.9,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.7,
+      "share": 8.2,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 8.3,
+      "share": 8.1,
       "color": "#39a935"
     },
     {
-      "name": "Cuatro",
-      "share": 8,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "laSexta",
-      "share": 5.1,
+      "share": 4.8,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 4.2,
+      "share": 3.9,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-09-03",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2058000,
-    "share": 23.3
+    "viewers": 1996000,
+    "share": 22.4
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2251000
+  },
   "prime": [
     {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 11.6,
-      "viewers": 11.810002
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 8.9,
-      "viewers": 9.160005
+      "chan": "La1",
+      "prog": "VIAJE AL CENTRO DE LA TELE <70 ARTISTA DEL VERANO(2 PARTE)>",
+      "share": 11.3,
+      "viewers": 11.460003
     },
     {
       "chan": "Antena3",
-      "prog": "LA MESA",
-      "share": 13.1,
-      "viewers": 7.420007
+      "prog": "LAS HIJAS DE LA CRIADA <LA VENGANZA DE RENATA>",
+      "share": 12,
+      "viewers": 9.790005
+    },
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <ZENDAYA Y TOM HOLLAND>",
+      "share": 9.3,
+      "viewers": 9.420007
+    },
+    {
+      "chan": "La1",
+      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <ANTOÑITO MOLINA-MIGUEL RELLAN-ANTONIO REGUERA>",
+      "share": 11.5,
+      "viewers": 8.690009
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 5.4,
-      "viewers": 5.710009
+      "share": 5.5,
+      "viewers": 0.563
     }
   ],
-  "consumoMin": 144,
+  "consumoMin": 147,
   "espectadoresTotales": {
-    "viewers": 25306000,
-    "percent": 53.2
+    "viewers": 25106000,
+    "percent": 52.8
   },
-  "updatedAt": "2026-09-04T06:26:01.441Z"
+  "updatedAt": "2026-09-04T07:21:38.126Z"
 }

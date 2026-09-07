@@ -2152,7 +2152,7 @@
     "ranking": [
       {
         "name": "Temáticas de Pago",
-        "share": 16.3,
+        "share": 17.1,
         "color": "#0a3d62"
       },
       {
@@ -2162,32 +2162,32 @@
       },
       {
         "name": "La 1",
-        "share": 9.8,
+        "share": 9.7,
         "color": "#00a8e8"
       },
       {
         "name": "Autonómicas (FORTA)",
-        "share": 7.8,
+        "share": 8.1,
         "color": "#e51c23"
       },
       {
         "name": "Telecinco",
-        "share": 7.6,
+        "share": 6.4,
         "color": "#39a935"
       },
       {
         "name": "Cuatro",
-        "share": 6.8,
+        "share": 5.9,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 4.6,
+        "share": 5.1,
         "color": "#3ecf8e"
       },
       {
         "name": "La 2",
-        "share": 3.3,
+        "share": 3.7,
         "color": "#ff7a00"
       }
     ],
@@ -2195,51 +2195,51 @@
       "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
       "chan": "Antena3",
       "time": "14:59",
-      "viewers": 1851000,
-      "share": 22
+      "viewers": 1881000,
+      "share": 20.7
     },
     "minutoOro": {
       "time": "14:57",
       "chan": "Antena3",
       "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2108000
+      "viewers": 2076000
     },
     "prime": [
       {
+        "chan": "Antena3",
+        "prog": "EL SECRETO",
+        "share": 12.5,
+        "viewers": 10.810002
+      },
+      {
         "chan": "Telecinco",
-        "prog": "CINE 5 ESTRELLAS <ODIO EL VERANO>",
-        "share": 9.8,
-        "viewers": 7.570002
-      },
-      {
-        "chan": "La1",
-        "prog": "LA AMIGA ESTUPENDA <EL NUEVO APELLIDO>",
-        "share": 11.7,
-        "viewers": 6.530004
-      },
-      {
-        "chan": "La1",
-        "prog": "LA AMIGA ESTUPENDA <LOS PROMETIDOS>",
-        "share": 7.3,
-        "viewers": 5.890006
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "EL BLOCKBUSTER <A SANGRE FRIA(2019)>",
-        "share": 6.8,
-        "viewers": 5.300008
-      },
-      {
-        "chan": "Cuatro",
         "prog": "FIRST DATES",
-        "share": 5.2,
-        "viewers": 40.00001
+        "share": 6.3,
+        "viewers": 6.240004
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "SALVADOS <LA ALCALDESA,ACTO I,MASCLETA>",
+        "share": 5.5,
+        "viewers": 5.640006
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "CUARTO MILENIO",
+        "share": 5,
+        "viewers": 4.730008
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "SALVADOS <SOLA EN EL MAR>",
+        "share": 4.7,
+        "viewers": 33.90001
       }
     ],
-    "consumoMin": 139,
+    "consumoMin": 156,
     "espectadoresTotales": {
-      "viewers": 23528000,
-      "percent": 49.5
+      "viewers": 25299000,
+      "percent": 53.2
     }
   }
 ]

@@ -1,96 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 17.1,
-      "color": "#0a3d62"
-    },
-    {
       "name": "Antena 3",
-      "share": 10.9,
+      "share": 14.6,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 9.7,
+      "share": 12.7,
       "color": "#00a8e8"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 10.7,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.1,
+      "share": 8.6,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 6.4,
+      "share": 8.4,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 5.9,
+      "share": 6.3,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.1,
+      "share": 5.7,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.7,
+      "share": 3.8,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-06",
+  "dataDate": "2026-09-07",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 1881000,
-    "share": 20.7
+    "time": "14:58",
+    "viewers": 2022000,
+    "share": 22.1
   },
   "minutoOro": {
-    "time": "14:57",
+    "time": "14:56",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2076000
+    "viewers": 2251000
   },
   "prime": [
     {
       "chan": "Antena3",
+      "prog": "EL HORMIGUERO <CARLOS ALSINA Y RAFA LATORRE>",
+      "share": 17.9,
+      "viewers": 18.930002
+    },
+    {
+      "chan": "Antena3",
       "prog": "EL SECRETO",
-      "share": 12.5,
-      "viewers": 10.810002
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 6.3,
-      "viewers": 6.240004
-    },
-    {
-      "chan": "La Sexta",
-      "prog": "SALVADOS <LA ALCALDESA,ACTO I,MASCLETA>",
-      "share": 5.5,
-      "viewers": 5.640006
+      "share": 13.6,
+      "viewers": 9.760004
     },
     {
       "chan": "Cuatro",
-      "prog": "CUARTO MILENIO",
-      "share": 5,
-      "viewers": 4.730008
+      "prog": "HORIZONTE",
+      "share": 8.3,
+      "viewers": 8.970006
     },
     {
-      "chan": "La Sexta",
-      "prog": "SALVADOS <SOLA EN EL MAR>",
-      "share": 4.7,
-      "viewers": 33.90001
+      "chan": "La1",
+      "prog": "MASTERCHEF CELEBRITY LEGENDS",
+      "share": 12.5,
+      "viewers": 6.510008
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4.6,
+      "viewers": 52.10001
     }
   ],
-  "consumoMin": 156,
+  "consumoMin": 151,
   "espectadoresTotales": {
-    "viewers": 25299000,
-    "percent": 53.2
+    "viewers": 25878000,
+    "percent": 54.4
   },
-  "updatedAt": "2026-09-08T05:51:08.970Z"
+  "updatedAt": "2026-09-08T11:07:42.020Z"
 }

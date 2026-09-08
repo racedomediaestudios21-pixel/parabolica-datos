@@ -2241,5 +2241,100 @@
       "viewers": 25299000,
       "percent": 53.2
     }
+  },
+  {
+    "date": "2026-09-07",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 14.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.7,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.7,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.6,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.4,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2022000,
+      "share": 22.1
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2251000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <CARLOS ALSINA Y RAFA LATORRE>",
+        "share": 17.9,
+        "viewers": 18.930002
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EL SECRETO",
+        "share": 13.6,
+        "viewers": 9.760004
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 8.3,
+        "viewers": 8.970006
+      },
+      {
+        "chan": "La1",
+        "prog": "MASTERCHEF CELEBRITY LEGENDS",
+        "share": 12.5,
+        "viewers": 6.510008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4.6,
+        "viewers": 52.10001
+      }
+    ],
+    "consumoMin": 151,
+    "espectadoresTotales": {
+      "viewers": 25878000,
+      "percent": 54.4
+    }
   }
 ]

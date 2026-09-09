@@ -1,10 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
-  "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-09-09T07:19:30.244Z"
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 13.6,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 12.9,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "La 1",
+      "share": 11.7,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 9,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Cuatro",
+      "share": 7.6,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Telecinco",
+      "share": 6.7,
+      "color": "#39a935"
+    },
+    {
+      "name": "laSexta",
+      "share": 5,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 4.2,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-09-08",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 1972000,
+    "share": 21.2
+  },
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2279000
+  },
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <LUIS DE LA FUENTE>",
+      "share": 13.8,
+      "viewers": 15.230002
+    },
+    {
+      "chan": "Antena3",
+      "prog": "EL SECRETO",
+      "share": 12.9,
+      "viewers": 9.990004
+    },
+    {
+      "chan": "La1",
+      "prog": "DOG HOUSE",
+      "share": 10.9,
+      "viewers": 7.600006
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "CODIGO 10",
+      "share": 11.7,
+      "viewers": 6.780008
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 4.8,
+      "viewers": 54.20001
+    }
+  ],
+  "consumoMin": 157,
+  "espectadoresTotales": {
+    "viewers": 26556000,
+    "percent": 55.8
+  },
+  "updatedAt": "2026-09-09T12:55:15.332Z"
 }

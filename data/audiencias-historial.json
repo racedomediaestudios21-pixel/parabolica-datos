@@ -2431,5 +2431,94 @@
       "viewers": 26556000,
       "percent": 55.8
     }
+  },
+  {
+    "date": "2026-09-09",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 12.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 12.4,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "La 1",
+        "share": 12.3,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.6,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.4,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.4,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.4,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 4.1,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2068000,
+      "share": 22.5
+    },
+    "minutoOro": {
+      "time": "14:57",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2486000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <PAULA ECHEVARRIA>",
+        "share": 12.6,
+        "viewers": 13.990002
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 9.5,
+        "viewers": 10.750005
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 13.1,
+        "viewers": 8.160008
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 5.6,
+        "viewers": 63.70001
+      }
+    ],
+    "consumoMin": 157,
+    "espectadoresTotales": {
+      "viewers": 26368000,
+      "percent": 55.4
+    }
   }
 ]

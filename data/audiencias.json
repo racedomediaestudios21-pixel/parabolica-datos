@@ -1,10 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
-  "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-09-11T04:26:23.761Z"
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 14,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 1",
+      "share": 11.9,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 9.9,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Telecinco",
+      "share": 8.9,
+      "color": "#39a935"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.5,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Cuatro",
+      "share": 7.7,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.2,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.8,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-09-10",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2010000,
+    "share": 22.6
+  },
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2372000
+  },
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <ESTER EXPOSITO>",
+      "share": 13.8,
+      "viewers": 14.930002
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
+      "share": 9.3,
+      "viewers": 10.030005
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "HORIZONTE",
+      "share": 11.7,
+      "viewers": 8.120007
+    },
+    {
+      "chan": "La1",
+      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <JESUS VAZQUEZ-MARIA ROSA CALAF>",
+      "share": 10.5,
+      "viewers": 7.220009
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 5.1,
+      "viewers": 0.575
+    }
+  ],
+  "consumoMin": 148,
+  "espectadoresTotales": {
+    "viewers": 25734000,
+    "percent": 54.1
+  },
+  "updatedAt": "2026-09-11T09:32:35.823Z"
 }

@@ -1,10 +1,91 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 12.9,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 12.7,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "La 1",
+      "share": 12.1,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.6,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 8.3,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
+      "share": 5.8,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.7,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 2.8,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-09-11",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 1976000,
+    "share": 22.8
+  },
   "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-09-12T05:38:19.589Z"
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL PELICULON <SIN INSTRUCCIONES>",
+      "share": 12.7,
+      "viewers": 10.670002
+    },
+    {
+      "chan": "La1",
+      "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
+      "share": 10.3,
+      "viewers": 8.430004
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "EQUIPO DE INVESTIGACION <LA RUTA DE LA FRUTA BARATA>",
+      "share": 6.2,
+      "viewers": 5.580006
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "FIRST DATES",
+      "share": 6.1,
+      "viewers": 5.510008
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <LOS TRES MOSQUETEROS:D’ARTAGNAN>",
+      "share": 4.7,
+      "viewers": 37.40001
+    }
+  ],
+  "consumoMin": 144,
+  "espectadoresTotales": {
+    "viewers": 25173000,
+    "percent": 52.9
+  },
+  "updatedAt": "2026-09-12T10:36:40.106Z"
 }

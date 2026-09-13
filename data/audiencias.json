@@ -1,91 +1,90 @@
 {
   "ranking": [
     {
-      "name": "Antena 3",
-      "share": 12.9,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 12.7,
+      "share": 16.3,
       "color": "#0a3d62"
     },
     {
+      "name": "Antena 3",
+      "share": 11,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "La 1",
-      "share": 12.1,
+      "share": 10.7,
       "color": "#00a8e8"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.6,
+      "share": 7.5,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 8.3,
+      "share": 6.6,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 5.8,
+      "share": 5.9,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.7,
+      "share": 5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 2.8,
+      "share": 3.1,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-11",
+  "dataDate": null,
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 1976000,
-    "share": 22.8
+    "time": "14:59",
+    "viewers": 1780000,
+    "share": 21.1
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:57",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2024000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL PELICULON <SIN INSTRUCCIONES>",
-      "share": 12.7,
-      "viewers": 10.670002
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 11,
+      "viewers": 9.550002
     },
     {
-      "chan": "La1",
-      "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
-      "share": 10.3,
-      "viewers": 8.430004
+      "chan": "Telecinco",
+      "prog": "CINE 5 ESTRELLAS <MENUDAS PIEZAS>",
+      "share": 8,
+      "viewers": 6.930004
     },
     {
-      "chan": "La Sexta",
-      "prog": "EQUIPO DE INVESTIGACION <LA RUTA DE LA FRUTA BARATA>",
-      "share": 6.2,
-      "viewers": 5.580006
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "FIRST DATES",
-      "share": 6.1,
-      "viewers": 5.510008
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 9.4,
+      "viewers": 5.210009
     },
     {
       "chan": "Cuatro",
-      "prog": "EL BLOCKBUSTER <LOS TRES MOSQUETEROS:D’ARTAGNAN>",
-      "share": 4.7,
-      "viewers": 37.40001
+      "prog": "EL BLOCKBUSTER <LOS TRES MOSQUETEROS:MILADY>",
+      "share": 5.1,
+      "viewers": 0.417
     }
   ],
-  "consumoMin": 144,
+  "consumoMin": 146,
   "espectadoresTotales": {
-    "viewers": 25173000,
-    "percent": 52.9
+    "viewers": 24360000,
+    "percent": 51.2
   },
-  "updatedAt": "2026-09-13T05:57:52.346Z"
+  "updatedAt": "2026-09-13T11:40:15.842Z"
 }

@@ -2705,42 +2705,42 @@
     "ranking": [
       {
         "name": "Temáticas de Pago",
-        "share": 16.3,
+        "share": 17.8,
         "color": "#0a3d62"
       },
       {
         "name": "Antena 3",
-        "share": 11,
+        "share": 9.9,
         "color": "#3ecf8e"
       },
       {
         "name": "La 1",
-        "share": 10.7,
+        "share": 9.8,
         "color": "#00a8e8"
       },
       {
-        "name": "Autonómicas (FORTA)",
-        "share": 7.5,
-        "color": "#e51c23"
-      },
-      {
         "name": "Telecinco",
-        "share": 6.6,
+        "share": 9.1,
         "color": "#39a935"
       },
       {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.4,
+        "color": "#e51c23"
+      },
+      {
         "name": "Cuatro",
-        "share": 5.9,
+        "share": 5.7,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 5,
+        "share": 4.6,
         "color": "#3ecf8e"
       },
       {
         "name": "La 2",
-        "share": 3.1,
+        "share": 3.9,
         "color": "#ff7a00"
       }
     ],
@@ -2748,45 +2748,45 @@
       "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
       "chan": "Antena3",
       "time": "14:59",
-      "viewers": 1780000,
-      "share": 21.1
+      "viewers": 1764000,
+      "share": 19.4
     },
     "minutoOro": {
       "time": "14:57",
       "chan": "Antena3",
       "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2024000
+      "viewers": 1964000
     },
     "prime": [
       {
-        "chan": "Antena3",
-        "prog": "LA RULETA DE LA SUERTE NOCHE",
-        "share": 11,
-        "viewers": 9.550002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "CINE 5 ESTRELLAS <MENUDAS PIEZAS>",
-        "share": 8,
-        "viewers": 6.930004
-      },
-      {
-        "chan": "Antena3",
-        "prog": "LA RULETA DE LA SUERTE NOCHE",
-        "share": 9.4,
-        "viewers": 5.210009
+        "chan": "La1",
+        "prog": "PELICULA DE LA SEMANA <JURADO N°2>",
+        "share": 12.1,
+        "viewers": 11.750002
       },
       {
         "chan": "Cuatro",
-        "prog": "EL BLOCKBUSTER <LOS TRES MOSQUETEROS:MILADY>",
-        "share": 5.1,
-        "viewers": 0.417
+        "prog": "CUARTO MILENIO",
+        "share": 6.8,
+        "viewers": 6.610005
+      },
+      {
+        "chan": "TV3",
+        "prog": "TELENOTICIES VESPRE",
+        "share": 27.7,
+        "viewers": 4.630008
+      },
+      {
+        "chan": "La2",
+        "prog": "IMPRESCINDIBLES",
+        "share": 3.6,
+        "viewers": 37.00001
       }
     ],
-    "consumoMin": 146,
+    "consumoMin": 158,
     "espectadoresTotales": {
-      "viewers": 24360000,
-      "percent": 51.2
+      "viewers": 26243000,
+      "percent": 55.2
     }
   }
 ]

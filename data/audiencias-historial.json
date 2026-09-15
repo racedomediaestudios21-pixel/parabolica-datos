@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "ranking": [
-      {
-        "name": "La 1",
-        "share": 14.8,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 12.2,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 10.7,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 9.7,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 7.7,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 5.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.3,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "AQUI LA TIERRA:ESPECIAL ECLIPSE#VIVETUECLIPSE",
-      "chan": "La1",
-      "time": "20:24",
-      "viewers": 2131000,
-      "share": 27.3
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 9.6,
-        "viewers": 8.150003
-      },
-      {
-        "chan": "Antena3",
-        "prog": "¡SALTA!",
-        "share": 9.4,
-        "viewers": 5.140005
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.1,
-        "viewers": 4.420007
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "VIAJEROS CUATRO <SINGAPUR>",
-        "share": 6.6,
-        "viewers": 4.090009
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "SANDOKAN <LA MUERTE DE UN PIRATA>",
-        "share": 6.4,
-        "viewers": 0.398
-      }
-    ],
-    "consumoMin": 135,
-    "espectadoresTotales": {
-      "viewers": 22487000,
-      "percent": 47.3
-    }
-  },
-  {
     "date": "2026-08-13",
     "ranking": [
       {
@@ -2787,6 +2697,96 @@
     "espectadoresTotales": {
       "viewers": 26243000,
       "percent": 55.2
+    }
+  },
+  {
+    "date": "2026-09-14",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 15,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.3,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.7,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.7,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.3,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2221000,
+      "share": 24.5
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "ENTREVISTA <JUAN VIVAS>",
+        "share": 17,
+        "viewers": 20.940002
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "ENTREVISTA <PEDRO SANCHEZ>",
+        "share": 12,
+        "viewers": 14.690004
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 9.3,
+        "viewers": 11.030006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 8.6,
+        "viewers": 10.050008
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EN EL PUNTO DE MIRA <FUNCIONARIOS SIN CONTROL>",
+        "share": 10.8,
+        "viewers": 80.70001
+      }
+    ],
+    "consumoMin": 153,
+    "espectadoresTotales": {
+      "viewers": 26335000,
+      "percent": 55.4
     }
   }
 ]

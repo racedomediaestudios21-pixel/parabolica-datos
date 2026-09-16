@@ -2,90 +2,95 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 15,
+      "share": 14.5,
       "color": "#3ecf8e"
     },
     {
-      "name": "La 1",
-      "share": 12.3,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 10.7,
+      "share": 12,
       "color": "#0a3d62"
     },
     {
+      "name": "La 1",
+      "share": 11.3,
+      "color": "#00a8e8"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.7,
+      "share": 8.8,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 8.3,
+      "share": 8.7,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 7.7,
+      "share": 7.9,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.8,
+      "share": 5.5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.8,
+      "share": 3.9,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-14",
+  "dataDate": "2026-09-15",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2221000,
-    "share": 24.5
+    "viewers": 2122000,
+    "share": 23.7
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "21:04",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2418000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "ENTREVISTA <JUAN VIVAS>",
-      "share": 17,
-      "viewers": 20.940002
+      "prog": "EL HORMIGUERO <JOSE CORONADO Y MARTIÑO RIVAS>",
+      "share": 12.9,
+      "viewers": 14.560002
     },
     {
-      "chan": "La Sexta",
-      "prog": "ENTREVISTA <PEDRO SANCHEZ>",
-      "share": 12,
-      "viewers": 14.690004
+      "chan": "La1",
+      "prog": "LA REVUELTA <FRANCO COLAPINTO-JORDI SAVALL>",
+      "share": 9.2,
+      "viewers": 10.620004
+    },
+    {
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 14.3,
+      "viewers": 8.710006
     },
     {
       "chan": "La Sexta",
       "prog": "EL INTERMEDIO",
-      "share": 9.3,
-      "viewers": 11.030006
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 8.6,
-      "viewers": 10.050008
+      "share": 5.8,
+      "viewers": 6.650008
     },
     {
       "chan": "Cuatro",
-      "prog": "EN EL PUNTO DE MIRA <FUNCIONARIOS SIN CONTROL>",
-      "share": 10.8,
-      "viewers": 80.70001
+      "prog": "CODIGO 10",
+      "share": 10.9,
+      "viewers": 0.619
     }
   ],
-  "consumoMin": 153,
+  "consumoMin": 151,
   "espectadoresTotales": {
-    "viewers": 26335000,
-    "percent": 55.4
+    "viewers": 26544000,
+    "percent": 55.8
   },
-  "updatedAt": "2026-09-16T07:36:11.216Z"
+  "updatedAt": "2026-09-16T13:25:47.646Z"
 }

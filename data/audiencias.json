@@ -2,95 +2,89 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 14.5,
+      "share": 13.8,
       "color": "#3ecf8e"
     },
     {
-      "name": "Temáticas de Pago",
-      "share": 12,
-      "color": "#0a3d62"
-    },
-    {
       "name": "La 1",
-      "share": 11.3,
+      "share": 11.9,
       "color": "#00a8e8"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 11.8,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.8,
+      "share": 9,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 8.7,
+      "share": 8.6,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 7.9,
+      "share": 7.3,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.5,
+      "share": 5.3,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.9,
+      "share": 3.6,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-15",
+  "dataDate": null,
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2122000,
-    "share": 23.7
+    "viewers": 2083000,
+    "share": 23.8
   },
   "minutoOro": {
-    "time": "21:04",
+    "time": "14:55",
     "chan": "Antena3",
-    "prog": "PASAPALABRA",
-    "viewers": 2418000
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2569000
   },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <JOSE CORONADO Y MARTIÑO RIVAS>",
-      "share": 12.9,
-      "viewers": 14.560002
+      "prog": "EL HORMIGUERO <PABLO LOPEZ>",
+      "share": 12.1,
+      "viewers": 13.780002
     },
     {
-      "chan": "La1",
-      "prog": "LA REVUELTA <FRANCO COLAPINTO-JORDI SAVALL>",
-      "share": 9.2,
-      "viewers": 10.620004
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 9.8,
+      "viewers": 11.270004
     },
     {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 14.3,
-      "viewers": 8.710006
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 14,
+      "viewers": 8.220007
     },
     {
-      "chan": "La Sexta",
-      "prog": "EL INTERMEDIO",
-      "share": 5.8,
-      "viewers": 6.650008
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "CODIGO 10",
-      "share": 10.9,
-      "viewers": 0.619
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 5.1,
+      "viewers": 58.90001
     }
   ],
-  "consumoMin": 151,
+  "consumoMin": 150,
   "espectadoresTotales": {
-    "viewers": 26544000,
-    "percent": 55.8
+    "viewers": 26292000,
+    "percent": 55.3
   },
-  "updatedAt": "2026-09-17T06:01:16.895Z"
+  "updatedAt": "2026-09-17T11:31:57.433Z"
 }

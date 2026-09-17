@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "t": "La Cartelera: Resident Evil, la película que tienes que ver este fin de semana",
+      "u": "https://laparabolica.tv/resident-evil-estrenos-cine-18-septiembre-2026/"
+    },
+    {
+      "t": "Los discos de la semana: Miley estrena nueva era y Pablo López rompe seis años de silencio",
+      "u": "https://laparabolica.tv/miley-bass-persuades-discos-viernes-18-septiembre-2026/"
+    },
+    {
       "t": "Shakira inaugura su residencia en Madrid: la guía completa de sus doce noches en el Macondo Park",
       "u": "https://laparabolica.tv/shakira-madrid-residencia-guia-fechas-precios-recinto-artistas/"
     },
@@ -15,14 +23,6 @@
     {
       "t": "Antena 3 arrasa el lunes con una jornada histórica",
       "u": "https://laparabolica.tv/antena-3-arrasa-el-lunes-con-una-jornada-historica/"
-    },
-    {
-      "t": "A debate: El Futuro de España en Eurovisión",
-      "u": "https://laparabolica.tv/rtve-eurovision-2027-regreso-espana-benidorm-fest/"
-    },
-    {
-      "t": "Los 10 grandes lanzamientos musicales del 13 de septiembre",
-      "u": "https://laparabolica.tv/lanzamientos-musicales-13-septiembre-2026/"
     },
     {
       "t": "«Supervivientes All Stars» vuelve esta noche a Telecinco",
@@ -41,5 +41,5 @@
       "u": "https://laparabolica.tv/la-mesa-cristina-pardo-antena3-analisis/"
     }
   ],
-  "updatedAt": "2026-09-17T20:11:34.606Z"
+  "updatedAt": "2026-09-17T23:30:05.931Z"
 }

@@ -2,89 +2,95 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 13.8,
+      "share": 13.9,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 11.9,
+      "share": 12.2,
       "color": "#00a8e8"
     },
     {
       "name": "Temáticas de Pago",
-      "share": 11.8,
+      "share": 10.3,
       "color": "#0a3d62"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 9,
-      "color": "#e51c23"
-    },
-    {
       "name": "Telecinco",
-      "share": 8.6,
+      "share": 9,
       "color": "#39a935"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.8,
+      "color": "#e51c23"
+    },
+    {
       "name": "Cuatro",
-      "share": 7.3,
+      "share": 7.7,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.3,
+      "share": 5.5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.6,
+      "share": 4.1,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-09-17",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2083000,
-    "share": 23.8
+    "time": "14:57",
+    "viewers": 2150000,
+    "share": 24
   },
   "minutoOro": {
-    "time": "14:55",
+    "time": "14:56",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2569000
+    "viewers": 2406000
   },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <PABLO LOPEZ>",
-      "share": 12.1,
-      "viewers": 13.780002
+      "prog": "EL HORMIGUERO <JULIO IGLESIAS JR.>",
+      "share": 15,
+      "viewers": 16.400002
+    },
+    {
+      "chan": "La1",
+      "prog": "LA REVUELTA <MARIA VALVERDE>",
+      "share": 9.5,
+      "viewers": 10.570004
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "HORIZONTE",
+      "share": 11.4,
+      "viewers": 7.730006
     },
     {
       "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 9.8,
-      "viewers": 11.270004
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
+      "prog": "SUPERVIVIENTES ALL STARS",
       "share": 14,
-      "viewers": 8.220007
+      "viewers": 7.120008
     },
     {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5.1,
-      "viewers": 58.90001
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 6.1,
+      "viewers": 68.00001
     }
   ],
-  "consumoMin": 150,
+  "consumoMin": 148,
   "espectadoresTotales": {
-    "viewers": 26292000,
-    "percent": 55.3
+    "viewers": 25805000,
+    "percent": 54.3
   },
-  "updatedAt": "2026-09-18T04:30:34.151Z"
+  "updatedAt": "2026-09-18T09:36:31.783Z"
 }

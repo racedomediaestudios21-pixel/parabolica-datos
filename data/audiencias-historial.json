@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "ranking": [
-      {
-        "name": "La 1",
-        "share": 12.5,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 12.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 12,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.3,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 7.9,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 5.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.1,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.9,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 1897000,
-      "share": 22.6
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2033000
-    },
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "GRAND PRIX",
-        "share": 13.8,
-        "viewers": 10.610002
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 12.3,
-        "viewers": 8.360004
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 8.9,
-        "viewers": 7.450006
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.6,
-        "viewers": 5.040008
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.1,
-        "viewers": 48.80001
-      }
-    ],
-    "consumoMin": 137,
-    "espectadoresTotales": {
-      "viewers": 22697000,
-      "percent": 47.7
-    }
-  },
-  {
     "date": "2026-08-18",
     "ranking": [
       {
@@ -2786,6 +2691,95 @@
     "espectadoresTotales": {
       "viewers": 25662000,
       "percent": 54
+    }
+  },
+  {
+    "date": "2026-09-19",
+    "ranking": [
+      {
+        "name": "Temáticas de Pago",
+        "share": 17,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Antena 3",
+        "share": 10.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 9.8,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 7.8,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Telecinco",
+        "share": 6.6,
+        "color": "#39a935"
+      },
+      {
+        "name": "laSexta",
+        "share": 4.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+      "chan": "Antena3",
+      "time": "14:59",
+      "viewers": 1750000,
+      "share": 21.7
+    },
+    "minutoOro": {
+      "time": "14:57",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2106000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "LA RULETA DE LA SUERTE NOCHE",
+        "share": 10.6,
+        "viewers": 9.310002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EL BLOCKBUSTER <OBJETIVO:WASHINGTON D.C.>",
+        "share": 9,
+        "viewers": 7.290004
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "CINE 5 ESTRELLAS <WOLFGANG>",
+        "share": 8,
+        "viewers": 6.840006
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "FIRST DATES",
+        "share": 4.9,
+        "viewers": 43.40001
+      }
+    ],
+    "consumoMin": 141,
+    "espectadoresTotales": {
+      "viewers": 24572000,
+      "percent": 51.7
     }
   }
 ]

@@ -1,96 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Antena 3",
-      "share": 14.5,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 12.1,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 11.4,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 9,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8.6,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 6.3,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.4,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.4,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-09-18",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2229000,
-    "share": 24.9
-  },
-  "minutoOro": {
-    "time": "14:57",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2451000
-  },
-  "prime": [
-    {
-      "chan": "La1",
-      "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
-      "share": 11,
-      "viewers": 11.160002
-    },
-    {
-      "chan": "La1",
-      "prog": "LORCA,LAS HORAS PERDIDAS",
-      "share": 11.4,
-      "viewers": 9.730004
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 9.2,
-      "viewers": 9.300006
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "¡DE VIERNES!",
-      "share": 10.8,
-      "viewers": 6.370008
-    },
-    {
-      "chan": "La Sexta",
-      "prog": "EQUIPO DE INVESTIGACION <OPERACION»GARBANZO NEGRO»>",
-      "share": 4.9,
-      "viewers": 47.60001
-    }
-  ],
-  "consumoMin": 147,
-  "espectadoresTotales": {
-    "viewers": 25662000,
-    "percent": 54
-  },
-  "updatedAt": "2026-09-20T06:03:19.491Z"
+  "ranking": [],
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-09-20T11:14:45.943Z"
 }

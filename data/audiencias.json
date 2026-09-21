@@ -2,89 +2,90 @@
   "ranking": [
     {
       "name": "Temáticas de Pago",
-      "share": 17,
+      "share": 17.9,
       "color": "#0a3d62"
     },
     {
-      "name": "Antena 3",
-      "share": 10.6,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "La 1",
-      "share": 9.8,
+      "share": 10.2,
       "color": "#00a8e8"
     },
     {
+      "name": "Antena 3",
+      "share": 9.6,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 7.8,
+      "share": 8.3,
       "color": "#e51c23"
     },
     {
-      "name": "Cuatro",
-      "share": 7.2,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Telecinco",
-      "share": 6.6,
+      "share": 7.1,
       "color": "#39a935"
     },
     {
-      "name": "laSexta",
-      "share": 4.7,
+      "name": "Cuatro",
+      "share": 6.4,
       "color": "#3ecf8e"
     },
     {
-      "name": "La 2",
-      "share": 3.8,
-      "color": "#ff7a00"
+      "name": "laSexta",
+      "share": 4.5,
+      "color": "#3ecf8e"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-09-20",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
     "chan": "Antena3",
     "time": "14:59",
-    "viewers": 1750000,
-    "share": 21.7
+    "viewers": 1716000,
+    "share": 19.1
   },
   "minutoOro": {
     "time": "14:57",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2106000
+    "viewers": 1817000
   },
   "prime": [
     {
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE NOCHE",
-      "share": 10.6,
-      "viewers": 9.310002
+      "chan": "La1",
+      "prog": "PELICULA DE LA SEMANA <SAN ANDRES>",
+      "share": 11.4,
+      "viewers": 11.440002
     },
     {
       "chan": "Cuatro",
-      "prog": "EL BLOCKBUSTER <OBJETIVO:WASHINGTON D.C.>",
-      "share": 9,
-      "viewers": 7.290004
+      "prog": "CUARTO MILENIO",
+      "share": 7.2,
+      "viewers": 7.180005
     },
     {
-      "chan": "Telecinco",
-      "prog": "CINE 5 ESTRELLAS <WOLFGANG>",
-      "share": 8,
-      "viewers": 6.840006
+      "chan": "La Sexta",
+      "prog": "SALVADOS <EL GRAN WYOMING-EL GRAN CHECHU>",
+      "share": 5.2,
+      "viewers": 4.930007
     },
     {
-      "chan": "Cuatro",
-      "prog": "FIRST DATES",
-      "share": 4.9,
-      "viewers": 43.40001
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 23.7,
+      "viewers": 4.150009
+    },
+    {
+      "chan": "La2",
+      "prog": "IMPRESCINDIBLES",
+      "share": 3.2,
+      "viewers": 0.362
     }
   ],
-  "consumoMin": 141,
+  "consumoMin": 161,
   "espectadoresTotales": {
-    "viewers": 24572000,
-    "percent": 51.7
+    "viewers": 26241000,
+    "percent": 55.2
   },
-  "updatedAt": "2026-09-21T06:09:44.073Z"
+  "updatedAt": "2026-09-21T13:56:20.744Z"
 }

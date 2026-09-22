@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 12.7,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Antena 3",
-        "share": 11.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 11.2,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9.8,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.1,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 5.6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 4.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 4.1,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 1872000,
-      "share": 22
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2062000
-    },
-    "prime": [
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 10,
-        "viewers": 8.980002
-      },
-      {
-        "chan": "La1",
-        "prog": "VIAJE AL CENTRO DE LA TELE <MAS 80 Y POP>",
-        "share": 7.9,
-        "viewers": 7.210004
-      },
-      {
-        "chan": "TV3",
-        "prog": "GAMPER",
-        "share": 40.3,
-        "viewers": 5.800007
-      },
-      {
-        "chan": "Antena3",
-        "prog": "¡SALTA!",
-        "share": 9.2,
-        "viewers": 5.320009
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "VIAJEROS CUATRO <MALLORCA>",
-        "share": 5.3,
-        "viewers": 0.474
-      }
-    ],
-    "consumoMin": 136,
-    "espectadoresTotales": {
-      "viewers": 22407000,
-      "percent": 47.1
-    }
-  },
-  {
     "date": "2026-08-20",
     "ranking": [
       {
@@ -2780,6 +2685,101 @@
     "espectadoresTotales": {
       "viewers": 26241000,
       "percent": 55.2
+    }
+  },
+  {
+    "date": "2026-09-21",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 14.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 9.3,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 9.1,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.7,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2208000,
+      "share": 23.7
+    },
+    "minutoOro": {
+      "time": "14:55",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2424000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <FERRAN TORRES>",
+        "share": 15.2,
+        "viewers": 17.730002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 9.6,
+        "viewers": 11.250004
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 13.6,
+        "viewers": 8.330006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 12.5,
+        "viewers": 7.700008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5,
+        "viewers": 61.40001
+      }
+    ],
+    "consumoMin": 154,
+    "espectadoresTotales": {
+      "viewers": 26535000,
+      "percent": 55.8
     }
   }
 ]

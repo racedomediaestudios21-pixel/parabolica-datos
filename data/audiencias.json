@@ -1,96 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Antena 3",
-      "share": 14.5,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 12,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 9.3,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 9.1,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 9,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 7.6,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.9,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.7,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-09-21",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2208000,
-    "share": 23.7
-  },
-  "minutoOro": {
-    "time": "14:55",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2424000
-  },
-  "prime": [
-    {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO <FERRAN TORRES>",
-      "share": 15.2,
-      "viewers": 17.730002
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 9.6,
-      "viewers": 11.250004
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 13.6,
-      "viewers": 8.330006
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
-      "share": 12.5,
-      "viewers": 7.700008
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5,
-      "viewers": 61.40001
-    }
-  ],
-  "consumoMin": 154,
-  "espectadoresTotales": {
-    "viewers": 26535000,
-    "percent": 55.8
-  },
-  "updatedAt": "2026-09-23T00:19:11.028Z"
+  "ranking": [],
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-09-23T05:50:21.925Z"
 }

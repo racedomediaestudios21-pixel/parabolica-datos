@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 12.3,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 11.7,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "La 1",
-        "share": 11.4,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9.4,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.4,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 5.6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 4.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.9,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 1981000,
-      "share": 23.5
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2232000
-    },
-    "prime": [
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 10.4,
-        "viewers": 9.550002
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <LUIS ZAHERA>",
-        "share": 7.5,
-        "viewers": 6.990005
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "VIAJEROS CUATRO <CANTABRIA>",
-        "share": 6.2,
-        "viewers": 5.670007
-      },
-      {
-        "chan": "La1",
-        "prog": "ORDENA TU VIDA",
-        "share": 8.9,
-        "viewers": 5.190009
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "VIAJEROS CUATRO <BURGOS>",
-        "share": 5.4,
-        "viewers": 0.5
-      }
-    ],
-    "consumoMin": 137,
-    "espectadoresTotales": {
-      "viewers": 22729000,
-      "percent": 47.8
-    }
-  },
-  {
     "date": "2026-08-22",
     "ranking": [
       {
@@ -2780,6 +2685,101 @@
     "espectadoresTotales": {
       "viewers": 26535000,
       "percent": 55.8
+    }
+  },
+  {
+    "date": "2026-09-22",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 14.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 11.9,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.1,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.6,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.4,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.6,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2277000,
+      "share": 24.8
+    },
+    "minutoOro": {
+      "time": "14:55",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2530000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <JULIAN LOPEZ Y PEPA CHARRO>",
+        "share": 13.1,
+        "viewers": 14.900002
+      },
+      {
+        "chan": "La1",
+        "prog": "LA REVUELTA <MALU>",
+        "share": 10.8,
+        "viewers": 12.460004
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 13.2,
+        "viewers": 8.470006
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 6.3,
+        "viewers": 7.250009
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5.7,
+        "viewers": 0.669
+      }
+    ],
+    "consumoMin": 152,
+    "espectadoresTotales": {
+      "viewers": 26388000,
+      "percent": 55.5
     }
   }
 ]

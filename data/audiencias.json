@@ -1,10 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
-  "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-09-25T01:23:39.304Z"
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 14,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 1",
+      "share": 11.2,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 10.5,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Telecinco",
+      "share": 9.4,
+      "color": "#39a935"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.3,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Cuatro",
+      "share": 8.2,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.7,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.6,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-09-24",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:57",
+    "viewers": 2231000,
+    "share": 25.3
+  },
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2455000
+  },
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <ALEJANDRO AMENABAR>",
+      "share": 14.1,
+      "viewers": 15.680002
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
+      "share": 10.1,
+      "viewers": 11.250004
+    },
+    {
+      "chan": "La1",
+      "prog": "LA REVUELTA <BORJA IGLESIAS>",
+      "share": 8.7,
+      "viewers": 8.660006
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 7.1,
+      "viewers": 8.040008
+    },
+    {
+      "chan": "Antena3",
+      "prog": "LAS HIJAS DE LA CRIADA <LA RABIA DE CATALINA>",
+      "share": 10.6,
+      "viewers": 72.80001
+    }
+  ],
+  "consumoMin": 149,
+  "espectadoresTotales": {
+    "viewers": 25995000,
+    "percent": 54.7
+  },
+  "updatedAt": "2026-09-25T07:39:25.919Z"
 }

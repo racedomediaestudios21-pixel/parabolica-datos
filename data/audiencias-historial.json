@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 16.2,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "La 1",
-        "share": 10.2,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 10.1,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.5,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 7,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 6.1,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 4.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.5,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-      "chan": "Antena3",
-      "time": "14:59",
-      "viewers": 1560000,
-      "share": 18.9
-    },
-    "minutoOro": {
-      "time": "14:57",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 1784000
-    },
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "PELICULA DE LA SEMANA <DESPIERTA LA FURIA>",
-        "share": 10.3,
-        "viewers": 9.140002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 7.5,
-        "viewers": 6.180004
-      },
-      {
-        "chan": "La2",
-        "prog": "LA AMIGA ESTUPENDA <EL DINERO>",
-        "share": 5.9,
-        "viewers": 4.870006
-      },
-      {
-        "chan": "La2",
-        "prog": "LA AMIGA ESTUPENDA <METAMORFOSIS>",
-        "share": 8.5,
-        "viewers": 4.790008
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "CUARTO MILENIO",
-        "share": 4.9,
-        "viewers": 42.90001
-      }
-    ],
-    "consumoMin": 142,
-    "espectadoresTotales": {
-      "viewers": 22785000,
-      "percent": 47.9
-    }
-  },
-  {
     "date": "2026-08-24",
     "ranking": [
       {
@@ -2785,6 +2690,101 @@
     "espectadoresTotales": {
       "viewers": 25995000,
       "percent": 54.7
+    }
+  },
+  {
+    "date": "2026-09-25",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.4,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 11.1,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Telecinco",
+        "share": 10.6,
+        "color": "#39a935"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.3,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.9,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.2,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2244000,
+      "share": 25.6
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2362000
+    },
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "¡DE VIERNES!",
+        "share": 18.7,
+        "viewers": 11.300002
+      },
+      {
+        "chan": "La1",
+        "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
+        "share": 9.9,
+        "viewers": 9.510005
+      },
+      {
+        "chan": "La1",
+        "prog": "CUELGAMUROS,ENTRE LO DIFICIL Y LO IMPOSIBLE",
+        "share": 8.8,
+        "viewers": 7.500007
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 7.8,
+        "viewers": 7.450009
+      },
+      {
+        "chan": "La1",
+        "prog": "50 AÑOS DEL GRAN CAMBIO",
+        "share": 7.5,
+        "viewers": 0.477
+      }
+    ],
+    "consumoMin": 144,
+    "espectadoresTotales": {
+      "viewers": 25671000,
+      "percent": 54
     }
   }
 ]

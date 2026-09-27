@@ -1,10 +1,80 @@
 {
-  "ranking": [],
+  "ranking": [
+    {
+      "name": "La 1",
+      "share": 17.5,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 13.3,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Antena 3",
+      "share": 9.8,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 7.6,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 7.2,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
+      "share": 6.2,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 4.5,
+      "color": "#3ecf8e"
+    }
+  ],
   "dataDate": null,
-  "masVisto": null,
+  "masVisto": {
+    "prog": "el partido INGLATERRA-ESPAÑA de FUTBOL:UEFA NATIONS LEAGUE",
+    "chan": "La1",
+    "time": "20:49",
+    "viewers": 4356000,
+    "share": 43
+  },
   "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-09-27T08:00:37.562Z"
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 8.6,
+      "viewers": 8.380003
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <KINGSMAN:SERVICIO SECRETO>",
+      "share": 8.7,
+      "viewers": 6.810005
+    },
+    {
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 8.9,
+      "viewers": 5.570007
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "LASEXTA _XPLICA/.",
+      "share": 4.9,
+      "viewers": 3.490009
+    }
+  ],
+  "consumoMin": 148,
+  "espectadoresTotales": {
+    "viewers": 24956000,
+    "percent": 52.5
+  },
+  "updatedAt": "2026-09-27T13:50:47.785Z"
 }

@@ -1,80 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 13.6,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "La 1",
-      "share": 12,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Antena 3",
-      "share": 10.2,
+      "share": 13.5,
       "color": "#3ecf8e"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.1,
-      "color": "#e51c23"
+      "name": "La 1",
+      "share": 13.3,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 10.1,
+      "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 7.9,
+      "share": 10,
       "color": "#39a935"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 9.2,
+      "color": "#e51c23"
+    },
+    {
       "name": "Cuatro",
-      "share": 6.5,
+      "share": 6.7,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.5,
+      "share": 5.7,
       "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 4.2,
+      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-27",
+  "dataDate": "2026-09-28",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 1868000,
-    "share": 21.2
+    "time": "14:58",
+    "viewers": 2137000,
+    "share": 23.4
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2446000
+  },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "PELICULA DE LA SEMANA <GLADIATOR II>",
-      "share": 15.5,
-      "viewers": 11.640003
-    },
-    {
       "chan": "Antena3",
-      "prog": "EL SECRETO",
-      "share": 10.3,
-      "viewers": 8.540006
+      "prog": "EL HORMIGUERO <SUSANA ABAITUA Y MAXI IGLESIAS>",
+      "share": 12.8,
+      "viewers": 15.230002
     },
     {
-      "chan": "La2",
-      "prog": "IMPRESCINDIBLES",
-      "share": 3.4,
-      "viewers": 4.070009
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 10.4,
+      "viewers": 12.380004
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 14.1,
+      "viewers": 8.790006
     },
     {
       "chan": "La Sexta",
-      "prog": "SALVADOS <REDES SOCIALES:LA FABRICA DEL TERROR>",
-      "share": 4,
-      "viewers": 0.341
+      "prog": "EL INTERMEDIO",
+      "share": 7.1,
+      "viewers": 8.550008
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 5,
+      "viewers": 61.10001
     }
   ],
-  "consumoMin": 164,
+  "consumoMin": 157,
   "espectadoresTotales": {
-    "viewers": 26557000,
-    "percent": 55.8
+    "viewers": 26937000,
+    "percent": 56.6
   },
-  "updatedAt": "2026-09-29T01:46:48.659Z"
+  "updatedAt": "2026-09-29T08:19:50.479Z"
 }

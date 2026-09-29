@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 13.6,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Antena 3",
-        "share": 12,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 11,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.5,
-        "color": "#39a935"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.4,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Cuatro",
-        "share": 5.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.2,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 4.5,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2072000,
-      "share": 23.3
-    },
-    "minutoOro": {
-      "time": "14:57",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2186000
-    },
-    "prime": [
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 10,
-        "viewers": 9.690003
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO 20 AÑOS JUNTOS <SANTIAGO SEGURA>",
-        "share": 8.1,
-        "viewers": 7.890005
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EL PELICULON <PADRE NO HAY MAS QUE UNO 4:CAMPANAS DE BODA>",
-        "share": 11.1,
-        "viewers": 6.380007
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.1,
-        "viewers": 4.920009
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "VIAJEROS CUATRO <MENORCA>",
-        "share": 4.8,
-        "viewers": 0.463
-      }
-    ],
-    "consumoMin": 142,
-    "espectadoresTotales": {
-      "viewers": 23603000,
-      "percent": 49.6
-    }
-  },
-  {
     "date": "2026-08-28",
     "ranking": [
       {
@@ -2753,6 +2658,101 @@
     "espectadoresTotales": {
       "viewers": 26557000,
       "percent": 55.8
+    }
+  },
+  {
+    "date": "2026-09-28",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 13.3,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.1,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 10,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 9.2,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 4.2,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2137000,
+      "share": 23.4
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2446000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <SUSANA ABAITUA Y MAXI IGLESIAS>",
+        "share": 12.8,
+        "viewers": 15.230002
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 10.4,
+        "viewers": 12.380004
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 14.1,
+        "viewers": 8.790006
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 7.1,
+        "viewers": 8.550008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5,
+        "viewers": 61.10001
+      }
+    ],
+    "consumoMin": 157,
+    "espectadoresTotales": {
+      "viewers": 26937000,
+      "percent": 56.6
     }
   }
 ]

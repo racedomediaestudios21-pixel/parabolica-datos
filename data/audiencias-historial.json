@@ -1,94 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 12.9,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Antena 3",
-        "share": 12.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 11.7,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.3,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 6.1,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.3,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.8,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 1872000,
-      "share": 21.8
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2216000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL PELICULON <LA FAMILIA BENETON>",
-        "share": 10.4,
-        "viewers": 8.320002
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "EL BLOCKBUSTER <ATRAPADOS EN EL ABISMO>",
-        "share": 7,
-        "viewers": 5.890005
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.2,
-        "viewers": 4.410007
-      },
-      {
-        "chan": "Antena3",
-        "prog": "CINE <SEÑOR,DAME PACIENCIA>",
-        "share": 9.2,
-        "viewers": 3.900009
-      }
-    ],
-    "consumoMin": 136,
-    "espectadoresTotales": {
-      "viewers": 23151000,
-      "percent": 48.7
-    }
-  },
-  {
     "date": "2026-08-29",
     "ranking": [
       {
@@ -2753,6 +2664,90 @@
     "espectadoresTotales": {
       "viewers": 26937000,
       "percent": 56.6
+    }
+  },
+  {
+    "date": "2026-09-29",
+    "ranking": [
+      {
+        "name": "La 1",
+        "share": 18.6,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Antena 3",
+        "share": 13.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9.1,
+        "color": "#39a935"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 9.1,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.3,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.4,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "el partido ESPAÑA-CROACIA de FUTBOL:UEFA NATIONS LEAGUE",
+      "chan": "La1",
+      "time": "20:46",
+      "viewers": 5165000,
+      "share": 40.2
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "La1",
+        "prog": "LA REVUELTA <FERRAN ADRIA>",
+        "share": 15.2,
+        "viewers": 16.580003
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 8.2,
+        "viewers": 10.570005
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 12.7,
+        "viewers": 7.820008
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 4.5,
+        "viewers": 58.50001
+      }
+    ],
+    "consumoMin": 160,
+    "espectadoresTotales": {
+      "viewers": 27412000,
+      "percent": 57.6
     }
   }
 ]

@@ -1,10 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
-  "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-09-30T00:19:18.730Z"
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 13.5,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 1",
+      "share": 13.3,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 10.1,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Telecinco",
+      "share": 10,
+      "color": "#39a935"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 9.2,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Cuatro",
+      "share": 6.7,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.7,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 4.2,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-09-28",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2137000,
+    "share": 23.4
+  },
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2446000
+  },
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <SUSANA ABAITUA Y MAXI IGLESIAS>",
+      "share": 12.8,
+      "viewers": 15.230002
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 10.4,
+      "viewers": 12.380004
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 14.1,
+      "viewers": 8.790006
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 7.1,
+      "viewers": 8.550008
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 5,
+      "viewers": 61.10001
+    }
+  ],
+  "consumoMin": 157,
+  "espectadoresTotales": {
+    "viewers": 26937000,
+    "percent": 56.6
+  },
+  "updatedAt": "2026-09-30T06:35:42.515Z"
 }

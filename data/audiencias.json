@@ -2,84 +2,95 @@
   "ranking": [
     {
       "name": "La 1",
-      "share": 18.6,
+      "share": 13.8,
       "color": "#00a8e8"
     },
     {
       "name": "Antena 3",
-      "share": 13.2,
+      "share": 13.7,
       "color": "#3ecf8e"
     },
     {
-      "name": "Telecinco",
-      "share": 9.1,
-      "color": "#39a935"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 9.1,
+      "share": 9.9,
       "color": "#0a3d62"
     },
     {
+      "name": "Telecinco",
+      "share": 9.5,
+      "color": "#39a935"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.3,
+      "share": 9,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 7.1,
+      "share": 6.6,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.1,
+      "share": 5.9,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.4,
+      "share": 3.7,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-09-29",
+  "dataDate": null,
   "masVisto": {
-    "prog": "el partido ESPAÑA-CROACIA de FUTBOL:UEFA NATIONS LEAGUE",
-    "chan": "La1",
-    "time": "20:46",
-    "viewers": 5165000,
-    "share": 40.2
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:57",
+    "viewers": 2129000,
+    "share": 24
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2473000
+  },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "LA REVUELTA <FERRAN ADRIA>",
-      "share": 15.2,
-      "viewers": 16.580003
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <DAVID BISBAL>",
+      "share": 13.4,
+      "viewers": 15.630002
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 8.2,
-      "viewers": 10.570005
+      "share": 10.4,
+      "viewers": 11.990004
     },
     {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 12.7,
-      "viewers": 7.820008
+      "chan": "La1",
+      "prog": "LA PROMESA",
+      "share": 16.7,
+      "viewers": 10.820006
     },
     {
       "chan": "La Sexta",
       "prog": "EL INTERMEDIO",
+      "share": 6.6,
+      "viewers": 7.670008
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
       "share": 4.5,
-      "viewers": 58.50001
+      "viewers": 53.90001
     }
   ],
-  "consumoMin": 160,
+  "consumoMin": 154,
   "espectadoresTotales": {
-    "viewers": 27412000,
-    "percent": 57.6
+    "viewers": 26655000,
+    "percent": 56
   },
-  "updatedAt": "2026-10-01T05:38:15.293Z"
+  "updatedAt": "2026-10-01T13:00:58.815Z"
 }

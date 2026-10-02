@@ -2659,94 +2659,94 @@
     "date": "2026-10-01",
     "ranking": [
       {
-        "name": "La 1",
-        "share": 13.8,
-        "color": "#00a8e8"
-      },
-      {
         "name": "Antena 3",
-        "share": 13.7,
+        "share": 13.5,
         "color": "#3ecf8e"
       },
       {
+        "name": "La 1",
+        "share": 12.8,
+        "color": "#00a8e8"
+      },
+      {
         "name": "Temáticas de Pago",
-        "share": 9.9,
+        "share": 10.1,
         "color": "#0a3d62"
       },
       {
         "name": "Telecinco",
-        "share": 9.5,
+        "share": 9.3,
         "color": "#39a935"
       },
       {
         "name": "Autonómicas (FORTA)",
-        "share": 9,
+        "share": 9.1,
         "color": "#e51c23"
       },
       {
         "name": "Cuatro",
-        "share": 6.6,
+        "share": 8.4,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 5.9,
+        "share": 5.7,
         "color": "#3ecf8e"
       },
       {
         "name": "La 2",
-        "share": 3.7,
+        "share": 3.6,
         "color": "#ff7a00"
       }
     ],
     "masVisto": {
       "prog": "ANTENA 3 NOTICIAS 1",
       "chan": "Antena3",
-      "time": "14:57",
-      "viewers": 2129000,
-      "share": 24
+      "time": "14:58",
+      "viewers": 2304000,
+      "share": 25.5
     },
     "minutoOro": {
       "time": "14:56",
       "chan": "Antena3",
       "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2473000
+      "viewers": 2577000
     },
     "prime": [
       {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <DAVID BISBAL>",
-        "share": 13.4,
-        "viewers": 15.630002
+        "chan": "Cuatro",
+        "prog": "ENTREVISTA <ISABEL DIAZ AYUSO>",
+        "share": 15.5,
+        "viewers": 18.850002
+      },
+      {
+        "chan": "La1",
+        "prog": "LA REVUELTA <MARIANO BENITEZ DE LUGO>",
+        "share": 12,
+        "viewers": 14.110004
       },
       {
         "chan": "Cuatro",
         "prog": "HORIZONTE",
-        "share": 10.4,
-        "viewers": 11.990004
+        "share": 13.1,
+        "viewers": 9.230006
       },
       {
-        "chan": "La1",
-        "prog": "LA PROMESA",
-        "share": 16.7,
-        "viewers": 10.820006
+        "chan": "Telecinco",
+        "prog": "SUPERVIVIENTES ALL STARS",
+        "share": 15.6,
+        "viewers": 8.850008
       },
       {
         "chan": "La Sexta",
         "prog": "EL INTERMEDIO",
-        "share": 6.6,
-        "viewers": 7.670008
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 4.5,
-        "viewers": 53.90001
+        "share": 6.3,
+        "viewers": 74.40001
       }
     ],
-    "consumoMin": 154,
+    "consumoMin": 156,
     "espectadoresTotales": {
-      "viewers": 26655000,
+      "viewers": 26628000,
       "percent": 56
     }
   }

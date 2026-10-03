@@ -1,14 +1,14 @@
 {
   "ranking": [
     {
-      "name": "Antena 3",
+      "name": "La 1",
       "share": 13.5,
-      "color": "#3ecf8e"
+      "color": "#00a8e8"
     },
     {
-      "name": "La 1",
-      "share": 12.8,
-      "color": "#00a8e8"
+      "name": "Antena 3",
+      "share": 13,
+      "color": "#3ecf8e"
     },
     {
       "name": "Temáticas de Pago",
@@ -17,17 +17,17 @@
     },
     {
       "name": "Telecinco",
-      "share": 9.3,
+      "share": 9.9,
       "color": "#39a935"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 9.1,
+      "share": 8.3,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 8.4,
+      "share": 7.5,
       "color": "#3ecf8e"
     },
     {
@@ -37,60 +37,54 @@
     },
     {
       "name": "La 2",
-      "share": 3.6,
+      "share": 4.3,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-01",
+  "dataDate": "2026-10-02",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2304000,
-    "share": 25.5
+    "viewers": 2296000,
+    "share": 23.4
   },
   "minutoOro": {
     "time": "14:56",
     "chan": "Antena3",
     "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2577000
+    "viewers": 2579000
   },
   "prime": [
     {
-      "chan": "Cuatro",
-      "prog": "ENTREVISTA <ISABEL DIAZ AYUSO>",
-      "share": 15.5,
-      "viewers": 18.850002
-    },
-    {
       "chan": "La1",
-      "prog": "LA REVUELTA <MARIANO BENITEZ DE LUGO>",
-      "share": 12,
-      "viewers": 14.110004
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 13.1,
-      "viewers": 9.230006
+      "prog": "ESPECIAL INFORMATIVO",
+      "share": 14,
+      "viewers": 14.600002
     },
     {
       "chan": "Telecinco",
-      "prog": "SUPERVIVIENTES ALL STARS",
-      "share": 15.6,
-      "viewers": 8.850008
+      "prog": "FIRST DATES",
+      "share": 10.2,
+      "viewers": 10.890004
     },
     {
-      "chan": "La Sexta",
-      "prog": "EL INTERMEDIO",
-      "share": 6.3,
-      "viewers": 74.40001
+      "chan": "La1",
+      "prog": "ENTREVISTA <FELIX BOLAÑOS>",
+      "share": 9.7,
+      "viewers": 9.520007
+    },
+    {
+      "chan": "La1",
+      "prog": "MALAS LENGUAS NOCHE",
+      "share": 8.8,
+      "viewers": 0.576
     }
   ],
-  "consumoMin": 156,
+  "consumoMin": 160,
   "espectadoresTotales": {
-    "viewers": 26628000,
-    "percent": 56
+    "viewers": 26382000,
+    "percent": 55.5
   },
-  "updatedAt": "2026-10-03T06:24:42.797Z"
+  "updatedAt": "2026-10-03T12:26:28.419Z"
 }

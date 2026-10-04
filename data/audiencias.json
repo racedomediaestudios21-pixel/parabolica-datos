@@ -2,89 +2,84 @@
   "ranking": [
     {
       "name": "La 1",
-      "share": 13.5,
+      "share": 17.4,
       "color": "#00a8e8"
     },
     {
-      "name": "Antena 3",
-      "share": 13,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 10.1,
+      "share": 13.3,
       "color": "#0a3d62"
     },
     {
-      "name": "Telecinco",
+      "name": "Antena 3",
       "share": 9.9,
-      "color": "#39a935"
+      "color": "#3ecf8e"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.3,
+      "share": 7.7,
       "color": "#e51c23"
     },
     {
+      "name": "Telecinco",
+      "share": 6.6,
+      "color": "#39a935"
+    },
+    {
       "name": "Cuatro",
-      "share": 7.5,
+      "share": 6.4,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.7,
+      "share": 5.3,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 4.3,
+      "share": 2.8,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-02",
+  "dataDate": null,
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2296000,
-    "share": 23.4
+    "prog": "el partido ESPAÑA-R.CHECA de FUTBOL:UEFA NATIONS LEAGUE",
+    "chan": "La1",
+    "time": "20:47",
+    "viewers": 4375000,
+    "share": 39.5
   },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2579000
-  },
+  "minutoOro": null,
   "prime": [
     {
-      "chan": "La1",
-      "prog": "ESPECIAL INFORMATIVO",
-      "share": 14,
-      "viewers": 14.600002
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 9.3,
+      "viewers": 9.390003
     },
     {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 10.2,
-      "viewers": 10.890004
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <EL JUSTICIERO(DEATH WISH)>",
+      "share": 9,
+      "viewers": 7.510005
     },
     {
-      "chan": "La1",
-      "prog": "ENTREVISTA <FELIX BOLAÑOS>",
-      "share": 9.7,
-      "viewers": 9.520007
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 8.6,
+      "viewers": 5.470007
     },
     {
-      "chan": "La1",
-      "prog": "MALAS LENGUAS NOCHE",
-      "share": 8.8,
-      "viewers": 0.576
+      "chan": "La Sexta",
+      "prog": "LAS CLAVES DE _XPLICA/.",
+      "share": 4.1,
+      "viewers": 46.40001
     }
   ],
-  "consumoMin": 160,
+  "consumoMin": 159,
   "espectadoresTotales": {
-    "viewers": 26382000,
-    "percent": 55.5
+    "viewers": 26211000,
+    "percent": 55.1
   },
-  "updatedAt": "2026-10-04T06:44:52.405Z"
+  "updatedAt": "2026-10-04T13:08:13.487Z"
 }

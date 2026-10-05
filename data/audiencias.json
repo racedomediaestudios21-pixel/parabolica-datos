@@ -1,38 +1,38 @@
 {
   "ranking": [
     {
-      "name": "La 1",
-      "share": 17.4,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 13.3,
+      "share": 14.9,
       "color": "#0a3d62"
     },
     {
+      "name": "La 1",
+      "share": 11.7,
+      "color": "#00a8e8"
+    },
+    {
       "name": "Antena 3",
-      "share": 9.9,
+      "share": 10.7,
       "color": "#3ecf8e"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 7.7,
+      "share": 10.3,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 6.6,
+      "share": 8.1,
       "color": "#39a935"
     },
     {
-      "name": "Cuatro",
-      "share": 6.4,
+      "name": "laSexta",
+      "share": 5.2,
       "color": "#3ecf8e"
     },
     {
-      "name": "laSexta",
-      "share": 5.3,
+      "name": "Cuatro",
+      "share": 4.7,
       "color": "#3ecf8e"
     },
     {
@@ -41,45 +41,51 @@
       "color": "#ff7a00"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-10-04",
   "masVisto": {
-    "prog": "el partido ESPAÑA-R.CHECA de FUTBOL:UEFA NATIONS LEAGUE",
-    "chan": "La1",
-    "time": "20:47",
-    "viewers": 4375000,
-    "share": 39.5
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "chan": "Antena3",
+    "time": "14:59",
+    "viewers": 2103000,
+    "share": 22.7
   },
   "minutoOro": null,
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE NOCHE",
-      "share": 9.3,
-      "viewers": 9.390003
+      "prog": "EL SECRETO",
+      "share": 11.7,
+      "viewers": 9.670003
+    },
+    {
+      "chan": "La1",
+      "prog": "PELICULA DE LA SEMANA <JUEGO DE LADRONES:PANTERA>",
+      "share": 10.4,
+      "viewers": 8.310005
     },
     {
       "chan": "Cuatro",
-      "prog": "EL BLOCKBUSTER <EL JUSTICIERO(DEATH WISH)>",
-      "share": 9,
-      "viewers": 7.510005
+      "prog": "CUARTO MILENIO",
+      "share": 5.8,
+      "viewers": 6.020007
     },
     {
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE NOCHE",
-      "share": 8.6,
-      "viewers": 5.470007
+      "chan": "La2",
+      "prog": "IMPRESCINDIBLES",
+      "share": 3.5,
+      "viewers": 4.140009
     },
     {
       "chan": "La Sexta",
-      "prog": "LAS CLAVES DE _XPLICA/.",
-      "share": 4.1,
-      "viewers": 46.40001
+      "prog": "SALVADOS <TRANSPLANTES>",
+      "share": 4,
+      "viewers": 0.392
     }
   ],
-  "consumoMin": 159,
+  "consumoMin": 171,
   "espectadoresTotales": {
-    "viewers": 26211000,
-    "percent": 55.1
+    "viewers": 27409000,
+    "percent": 57.6
   },
-  "updatedAt": "2026-10-05T01:49:41.631Z"
+  "updatedAt": "2026-10-05T08:50:42.933Z"
 }

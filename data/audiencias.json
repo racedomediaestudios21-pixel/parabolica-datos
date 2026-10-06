@@ -1,91 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 14.9,
-      "color": "#0a3d62"
+      "name": "Antena 3",
+      "share": 13.8,
+      "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 11.7,
+      "share": 13.7,
       "color": "#00a8e8"
     },
     {
-      "name": "Antena 3",
-      "share": 10.7,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Autonómicas (FORTA)",
-      "share": 10.3,
+      "share": 9.7,
       "color": "#e51c23"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 9.2,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Telecinco",
-      "share": 8.1,
+      "share": 9.1,
       "color": "#39a935"
     },
     {
-      "name": "laSexta",
-      "share": 5.2,
+      "name": "Cuatro",
+      "share": 8.2,
       "color": "#3ecf8e"
     },
     {
-      "name": "Cuatro",
-      "share": 4.7,
+      "name": "laSexta",
+      "share": 6,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 2.8,
+      "share": 3.9,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-04",
+  "dataDate": "2026-10-05",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 2103000,
-    "share": 22.7
+    "time": "14:58",
+    "viewers": 2326000,
+    "share": 24.5
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "21:03",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2623000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL SECRETO",
-      "share": 11.7,
-      "viewers": 9.670003
+      "prog": "EL HORMIGUERO <CARMEN MAURA Y MARIBEL VERDU>",
+      "share": 13.4,
+      "viewers": 16.270002
     },
     {
       "chan": "La1",
-      "prog": "PELICULA DE LA SEMANA <JUEGO DE LADRONES:PANTERA>",
-      "share": 10.4,
-      "viewers": 8.310005
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "CUARTO MILENIO",
-      "share": 5.8,
-      "viewers": 6.020007
-    },
-    {
-      "chan": "La2",
-      "prog": "IMPRESCINDIBLES",
-      "share": 3.5,
-      "viewers": 4.140009
+      "prog": "LA REVUELTA <ANA PELETEIRO-DIEGO GONZALEZ RIVAS>",
+      "share": 11.6,
+      "viewers": 14.190004
     },
     {
       "chan": "La Sexta",
-      "prog": "SALVADOS <TRANSPLANTES>",
-      "share": 4,
-      "viewers": 0.392
+      "prog": "EL INTERMEDIO",
+      "share": 6.8,
+      "viewers": 8.580006
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 11.9,
+      "viewers": 7.250008
+    },
+    {
+      "chan": "La1",
+      "prog": "MASTERCHEF CELEBRITY LEGENDS",
+      "share": 12.5,
+      "viewers": 62.60001
     }
   ],
-  "consumoMin": 171,
+  "consumoMin": 165,
   "espectadoresTotales": {
-    "viewers": 27409000,
-    "percent": 57.6
+    "viewers": 27703000,
+    "percent": 58.2
   },
-  "updatedAt": "2026-10-06T00:44:27.984Z"
+  "updatedAt": "2026-10-06T07:28:07.243Z"
 }

@@ -1,91 +1,96 @@
 {
   "ranking": [
     {
-      "name": "La 1",
-      "share": 18.8,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Antena 3",
-      "share": 12.8,
+      "share": 13.4,
       "color": "#3ecf8e"
     },
     {
+      "name": "La 1",
+      "share": 13.4,
+      "color": "#00a8e8"
+    },
+    {
       "name": "Temáticas de Pago",
-      "share": 9.3,
+      "share": 9.9,
       "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 8.9,
+      "share": 9.7,
       "color": "#39a935"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.2,
+      "share": 9,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 7.7,
+      "share": 7.3,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.4,
+      "share": 5.8,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.4,
+      "share": 3.8,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-06",
+  "dataDate": null,
   "masVisto": {
-    "prog": "el partido CROACIA-ESPAÑA de FUTBOL:UEFA NATIONS LEAGUE",
-    "chan": "La1",
-    "time": "20:45",
-    "viewers": 5313000,
-    "share": 39.3
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2356000,
+    "share": 24.8
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2558000
+  },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "LA REVUELTA <JUDELINE>",
-      "share": 15.8,
-      "viewers": 18.180003
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <DAVID BUSTAMANTE>",
+      "share": 14.1,
+      "viewers": 16.800002
     },
     {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 9.4,
-      "viewers": 12.720005
+      "chan": "La1",
+      "prog": "ESPECIAL INFORMATIVO <MUERE MARICARMEN ABASCAL>",
+      "share": 11,
+      "viewers": 13.180004
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 14,
+      "viewers": 8.300006
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 5.3,
+      "viewers": 6.560009
     },
     {
       "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 11.8,
-      "viewers": 7.780007
-    },
-    {
-      "chan": "La1",
-      "prog": "AL CIELO CON ELLA",
-      "share": 10.5,
-      "viewers": 7.310009
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "CODIGO 10",
-      "share": 11.4,
-      "viewers": 0.671
+      "prog": "LA MESA",
+      "share": 11.1,
+      "viewers": 0.633
     }
   ],
-  "consumoMin": 167,
+  "consumoMin": 158,
   "espectadoresTotales": {
-    "viewers": 27745000,
-    "percent": 58.3
+    "viewers": 26938000,
+    "percent": 56.6
   },
-  "updatedAt": "2026-10-08T01:47:39.777Z"
+  "updatedAt": "2026-10-08T08:49:02.539Z"
 }

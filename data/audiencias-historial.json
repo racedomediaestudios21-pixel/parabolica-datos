@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 17.1,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Antena 3",
-        "share": 10.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 9.7,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.1,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 6.4,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 5.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.1,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.7,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-      "chan": "Antena3",
-      "time": "14:59",
-      "viewers": 1881000,
-      "share": 20.7
-    },
-    "minutoOro": {
-      "time": "14:57",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2076000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL SECRETO",
-        "share": 12.5,
-        "viewers": 10.810002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 6.3,
-        "viewers": 6.240004
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "SALVADOS <LA ALCALDESA,ACTO I,MASCLETA>",
-        "share": 5.5,
-        "viewers": 5.640006
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "CUARTO MILENIO",
-        "share": 5,
-        "viewers": 4.730008
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "SALVADOS <SOLA EN EL MAR>",
-        "share": 4.7,
-        "viewers": 33.90001
-      }
-    ],
-    "consumoMin": 156,
-    "espectadoresTotales": {
-      "viewers": 25299000,
-      "percent": 53.2
-    }
-  },
-  {
     "date": "2026-09-07",
     "ranking": [
       {
@@ -2732,6 +2637,101 @@
     "espectadoresTotales": {
       "viewers": 27745000,
       "percent": 58.3
+    }
+  },
+  {
+    "date": "2026-10-07",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.4,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 13.4,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 9.9,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9.7,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 9,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2356000,
+      "share": 24.8
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2558000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <DAVID BUSTAMANTE>",
+        "share": 14.1,
+        "viewers": 16.800002
+      },
+      {
+        "chan": "La1",
+        "prog": "ESPECIAL INFORMATIVO <MUERE MARICARMEN ABASCAL>",
+        "share": 11,
+        "viewers": 13.180004
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 14,
+        "viewers": 8.300006
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5.3,
+        "viewers": 6.560009
+      },
+      {
+        "chan": "Antena3",
+        "prog": "LA MESA",
+        "share": 11.1,
+        "viewers": 0.633
+      }
+    ],
+    "consumoMin": 158,
+    "espectadoresTotales": {
+      "viewers": 26938000,
+      "percent": 56.6
     }
   }
 ]

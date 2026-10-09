@@ -2644,17 +2644,17 @@
     "ranking": [
       {
         "name": "Antena 3",
-        "share": 13.4,
+        "share": 13.2,
         "color": "#3ecf8e"
       },
       {
         "name": "La 1",
-        "share": 13.4,
+        "share": 13.2,
         "color": "#00a8e8"
       },
       {
         "name": "Temáticas de Pago",
-        "share": 9.9,
+        "share": 10.1,
         "color": "#0a3d62"
       },
       {
@@ -2663,14 +2663,14 @@
         "color": "#39a935"
       },
       {
-        "name": "Autonómicas (FORTA)",
-        "share": 9,
-        "color": "#e51c23"
+        "name": "Cuatro",
+        "share": 8.7,
+        "color": "#3ecf8e"
       },
       {
-        "name": "Cuatro",
-        "share": 7.3,
-        "color": "#3ecf8e"
+        "name": "Autonómicas (FORTA)",
+        "share": 8.4,
+        "color": "#e51c23"
       },
       {
         "name": "laSexta",
@@ -2679,7 +2679,7 @@
       },
       {
         "name": "La 2",
-        "share": 3.8,
+        "share": 3.7,
         "color": "#ff7a00"
       }
     ],
@@ -2687,51 +2687,51 @@
       "prog": "ANTENA 3 NOTICIAS 1",
       "chan": "Antena3",
       "time": "14:58",
-      "viewers": 2356000,
+      "viewers": 2276000,
       "share": 24.8
     },
     "minutoOro": {
-      "time": "14:56",
+      "time": "14:55",
       "chan": "Antena3",
       "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2558000
+      "viewers": 2541000
     },
     "prime": [
       {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <DAVID BUSTAMANTE>",
+        "chan": "La1",
+        "prog": "LA REVUELTA <SHAKIRA>",
         "share": 14.1,
-        "viewers": 16.800002
+        "viewers": 17.440002
       },
       {
         "chan": "La1",
-        "prog": "ESPECIAL INFORMATIVO <MUERE MARICARMEN ABASCAL>",
-        "share": 11,
-        "viewers": 13.180004
+        "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <INDIA MARTINEZ-HENAR ALVAREZ>",
+        "share": 11.9,
+        "viewers": 10.150005
       },
       {
         "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 14,
-        "viewers": 8.300006
+        "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
+        "share": 8.2,
+        "viewers": 9.860007
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "SUPERVIVIENTES ALL STARS",
+        "share": 14.8,
+        "viewers": 8.370009
       },
       {
         "chan": "La2",
         "prog": "CIFRAS Y LETRAS",
-        "share": 5.3,
-        "viewers": 6.560009
-      },
-      {
-        "chan": "Antena3",
-        "prog": "LA MESA",
-        "share": 11.1,
-        "viewers": 0.633
+        "share": 4.7,
+        "viewers": 0.578
       }
     ],
-    "consumoMin": 158,
+    "consumoMin": 156,
     "espectadoresTotales": {
-      "viewers": 26938000,
-      "percent": 56.6
+      "viewers": 27016000,
+      "percent": 56.8
     }
   }
 ]

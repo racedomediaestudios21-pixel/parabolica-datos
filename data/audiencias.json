@@ -1,10 +1,91 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 13.1,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 1",
+      "share": 12,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 11.3,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 9.2,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 9,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
+      "share": 6.9,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.4,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.3,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": "2026-10-09",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2052000,
+    "share": 23.7
+  },
   "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-10-10T08:23:15.199Z"
+  "prime": [
+    {
+      "chan": "La1",
+      "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
+      "share": 9.4,
+      "viewers": 9.820003
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "HORIZONTE",
+      "share": 8.9,
+      "viewers": 9.250005
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "¡DE VIERNES!",
+      "share": 12.7,
+      "viewers": 7.740007
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "LASEXTA COLUMNA <EN TIENDAS Y EN CAMPAÑA:LA ULTIMA LLAVE DE SANCHEZ>",
+      "share": 5.2,
+      "viewers": 5.360009
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "EQUIPO DE INVESTIGACION <EL TIMO DE LOS BILLETES DORADOS>",
+      "share": 5,
+      "viewers": 0.49
+    }
+  ],
+  "consumoMin": 148,
+  "espectadoresTotales": {
+    "viewers": 25559000,
+    "percent": 53.7
+  },
+  "updatedAt": "2026-10-10T15:14:01.064Z"
 }

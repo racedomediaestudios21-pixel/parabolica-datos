@@ -1,96 +1,10 @@
 {
-  "ranking": [
-    {
-      "name": "Antena 3",
-      "share": 13.2,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 1",
-      "share": 13.2,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 10.1,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Telecinco",
-      "share": 9.7,
-      "color": "#39a935"
-    },
-    {
-      "name": "Cuatro",
-      "share": 8.7,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.4,
-      "color": "#e51c23"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.8,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.7,
-      "color": "#ff7a00"
-    }
-  ],
-  "dataDate": "2026-10-08",
-  "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2276000,
-    "share": 24.8
-  },
-  "minutoOro": {
-    "time": "14:55",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2541000
-  },
-  "prime": [
-    {
-      "chan": "La1",
-      "prog": "LA REVUELTA <SHAKIRA>",
-      "share": 14.1,
-      "viewers": 17.440002
-    },
-    {
-      "chan": "La1",
-      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <INDIA MARTINEZ-HENAR ALVAREZ>",
-      "share": 11.9,
-      "viewers": 10.150005
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
-      "share": 8.2,
-      "viewers": 9.860007
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "SUPERVIVIENTES ALL STARS",
-      "share": 14.8,
-      "viewers": 8.370009
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 4.7,
-      "viewers": 0.578
-    }
-  ],
-  "consumoMin": 156,
-  "espectadoresTotales": {
-    "viewers": 27016000,
-    "percent": 56.8
-  },
-  "updatedAt": "2026-10-10T01:40:26.332Z"
+  "ranking": [],
+  "dataDate": null,
+  "masVisto": null,
+  "minutoOro": null,
+  "prime": [],
+  "consumoMin": null,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-10-10T08:23:15.199Z"
 }

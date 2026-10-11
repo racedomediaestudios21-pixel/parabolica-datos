@@ -1,91 +1,90 @@
 {
   "ranking": [
     {
+      "name": "Temáticas de Pago",
+      "share": 17.6,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Antena 3",
-      "share": 13.1,
+      "share": 10.6,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 12,
+      "share": 10,
       "color": "#00a8e8"
     },
     {
-      "name": "Temáticas de Pago",
-      "share": 11.3,
-      "color": "#0a3d62"
-    },
-    {
       "name": "Autonómicas (FORTA)",
-      "share": 9.2,
+      "share": 7.7,
       "color": "#e51c23"
     },
     {
       "name": "Telecinco",
-      "share": 9,
+      "share": 7.5,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 6.9,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "laSexta",
       "share": 5.4,
       "color": "#3ecf8e"
     },
     {
+      "name": "laSexta",
+      "share": 5.3,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "La 2",
-      "share": 3.3,
+      "share": 3.1,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-09",
+  "dataDate": null,
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2052000,
-    "share": 23.7
+    "time": "14:59",
+    "viewers": 1853000,
+    "share": 23
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:57",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2078000
+  },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
-      "share": 9.4,
-      "viewers": 9.820003
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 8.9,
-      "viewers": 9.250005
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 9.9,
+      "viewers": 8.920002
     },
     {
       "chan": "Telecinco",
-      "prog": "¡DE VIERNES!",
-      "share": 12.7,
-      "viewers": 7.740007
+      "prog": "CINE 5 ESTRELLAS <TITANIC>",
+      "share": 8.5,
+      "viewers": 5.900005
     },
     {
-      "chan": "La Sexta",
-      "prog": "LASEXTA COLUMNA <EN TIENDAS Y EN CAMPAÑA:LA ULTIMA LLAVE DE SANCHEZ>",
-      "share": 5.2,
-      "viewers": 5.360009
+      "chan": "Cuatro",
+      "prog": "LO SABE NO LO SABE",
+      "share": 4.7,
+      "viewers": 4.430007
     },
     {
-      "chan": "La Sexta",
-      "prog": "EQUIPO DE INVESTIGACION <EL TIMO DE LOS BILLETES DORADOS>",
-      "share": 5,
-      "viewers": 0.49
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 7.4,
+      "viewers": 39.50001
     }
   ],
-  "consumoMin": 148,
+  "consumoMin": 145,
   "espectadoresTotales": {
-    "viewers": 25559000,
-    "percent": 53.7
+    "viewers": 24434000,
+    "percent": 51.4
   },
-  "updatedAt": "2026-10-11T05:34:40.599Z"
+  "updatedAt": "2026-10-11T12:38:04.383Z"
 }

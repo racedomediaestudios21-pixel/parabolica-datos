@@ -1,10 +1,56 @@
 {
-  "ranking": [],
-  "dataDate": null,
-  "masVisto": null,
+  "ranking": [
+    {
+      "name": "laSexta",
+      "share": 5,
+      "color": "#3ecf8e"
+    }
+  ],
+  "dataDate": "2026-10-12",
+  "masVisto": {
+    "prog": "ESPECIAL INFORMATIVO:DIA DE LA FIESTA NACIONAL",
+    "chan": "La1",
+    "time": "10:00",
+    "viewers": 2097000,
+    "share": 44.2
+  },
   "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-10-13T01:14:51.889Z"
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <MALUMA>",
+      "share": 12.6,
+      "viewers": 14.750002
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 8.3,
+      "viewers": 9.810004
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 11.1,
+      "viewers": 6.780007
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EN EL PUNTO DE MIRA <DENTRO DEL GIGANTE SHEIN>",
+      "share": 8.6,
+      "viewers": 6.320009
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4.1,
+      "viewers": 0.502
+    }
+  ],
+  "consumoMin": 175,
+  "espectadoresTotales": {
+    "viewers": 27593000,
+    "percent": 58
+  },
+  "updatedAt": "2026-10-13T09:17:39.544Z"
 }

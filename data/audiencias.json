@@ -1,56 +1,52 @@
 {
-  "ranking": [
-    {
-      "name": "laSexta",
-      "share": 5,
-      "color": "#3ecf8e"
-    }
-  ],
-  "dataDate": "2026-10-12",
+  "ranking": [],
+  "dataDate": "2026-10-13",
   "masVisto": {
-    "prog": "ESPECIAL INFORMATIVO:DIA DE LA FIESTA NACIONAL",
-    "chan": "La1",
-    "time": "10:00",
-    "viewers": 2097000,
-    "share": 44.2
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2305000,
+    "share": 25
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "14:56",
+    "chan": "Antena3",
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2549000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <MALUMA>",
-      "share": 12.6,
-      "viewers": 14.750002
+      "prog": "EL HORMIGUERO <MARIA DEL MONTE>",
+      "share": 13.4,
+      "viewers": 16.380002
     },
     {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 8.3,
-      "viewers": 9.810004
+      "chan": "La1",
+      "prog": "LA REVUELTA <JORDI MOLLA>",
+      "share": 9.4,
+      "viewers": 11.490004
     },
     {
-      "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
-      "share": 11.1,
-      "viewers": 6.780007
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 12.5,
+      "viewers": 8.490006
     },
     {
-      "chan": "Cuatro",
-      "prog": "EN EL PUNTO DE MIRA <DENTRO DEL GIGANTE SHEIN>",
-      "share": 8.6,
-      "viewers": 6.320009
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 6.6,
+      "viewers": 8.120008
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 4.1,
-      "viewers": 0.502
+      "share": 4.6,
+      "viewers": 57.10001
     }
   ],
-  "consumoMin": 175,
-  "espectadoresTotales": {
-    "viewers": 27593000,
-    "percent": 58
-  },
-  "updatedAt": "2026-10-14T01:47:46.648Z"
+  "consumoMin": 157,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-10-14T07:28:07.784Z"
 }

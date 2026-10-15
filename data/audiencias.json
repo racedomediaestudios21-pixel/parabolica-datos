@@ -1,52 +1,96 @@
 {
-  "ranking": [],
-  "dataDate": "2026-10-13",
+  "ranking": [
+    {
+      "name": "Antena 3",
+      "share": 12.9,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 12.3,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "La 1",
+      "share": 12.1,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Telecinco",
+      "share": 9.1,
+      "color": "#39a935"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.5,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Cuatro",
+      "share": 8.1,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.5,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.5,
+      "color": "#ff7a00"
+    }
+  ],
+  "dataDate": null,
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2305000,
-    "share": 25
+    "viewers": 2099000,
+    "share": 23.1
   },
   "minutoOro": {
-    "time": "14:56",
+    "time": "21:03",
     "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2549000
+    "prog": "PASAPALABRA",
+    "viewers": 2467000
   },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <MARIA DEL MONTE>",
-      "share": 13.4,
-      "viewers": 16.380002
-    },
-    {
-      "chan": "La1",
-      "prog": "LA REVUELTA <JORDI MOLLA>",
-      "share": 9.4,
-      "viewers": 11.490004
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
+      "prog": "EL HORMIGUERO <CRISTINA PEDROCHE Y DABIZ MUÑOZ>",
       "share": 12.5,
-      "viewers": 8.490006
+      "viewers": 14.850002
     },
     {
-      "chan": "La Sexta",
-      "prog": "EL INTERMEDIO",
-      "share": 6.6,
-      "viewers": 8.120008
+      "chan": "Cuatro",
+      "prog": "HORIZONTE",
+      "share": 12.5,
+      "viewers": 11.420004
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 8.2,
+      "viewers": 9.880006
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 13.5,
+      "viewers": 8.040008
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 4.6,
-      "viewers": 57.10001
+      "share": 4.7,
+      "viewers": 0.574
     }
   ],
-  "consumoMin": 157,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-10-15T01:22:52.145Z"
+  "consumoMin": 154,
+  "espectadoresTotales": {
+    "viewers": 27089000,
+    "percent": 57
+  },
+  "updatedAt": "2026-10-15T07:18:26.525Z"
 }

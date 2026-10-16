@@ -2610,42 +2610,42 @@
     "ranking": [
       {
         "name": "Antena 3",
-        "share": 12.9,
+        "share": 13.9,
         "color": "#3ecf8e"
       },
       {
-        "name": "Temáticas de Pago",
-        "share": 12.3,
-        "color": "#0a3d62"
-      },
-      {
         "name": "La 1",
-        "share": 12.1,
+        "share": 12.7,
         "color": "#00a8e8"
       },
       {
+        "name": "Temáticas de Pago",
+        "share": 10,
+        "color": "#0a3d62"
+      },
+      {
         "name": "Telecinco",
-        "share": 9.1,
+        "share": 8.9,
         "color": "#39a935"
       },
       {
         "name": "Autonómicas (FORTA)",
-        "share": 8.5,
+        "share": 8.8,
         "color": "#e51c23"
       },
       {
         "name": "Cuatro",
-        "share": 8.1,
+        "share": 8.5,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 5.5,
+        "share": 5.6,
         "color": "#3ecf8e"
       },
       {
         "name": "La 2",
-        "share": 3.5,
+        "share": 3.4,
         "color": "#ff7a00"
       }
     ],
@@ -2653,51 +2653,51 @@
       "prog": "ANTENA 3 NOTICIAS 1",
       "chan": "Antena3",
       "time": "14:58",
-      "viewers": 2099000,
-      "share": 23.1
+      "viewers": 2207000,
+      "share": 24.9
     },
     "minutoOro": {
-      "time": "21:03",
+      "time": "21:02",
       "chan": "Antena3",
       "prog": "PASAPALABRA",
-      "viewers": 2467000
+      "viewers": 2470000
     },
     "prime": [
       {
         "chan": "Antena3",
-        "prog": "EL HORMIGUERO <CRISTINA PEDROCHE Y DABIZ MUÑOZ>",
-        "share": 12.5,
-        "viewers": 14.850002
+        "prog": "EL HORMIGUERO <VICENTE VALLES>",
+        "share": 15.3,
+        "viewers": 17.870002
       },
       {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 12.5,
-        "viewers": 11.420004
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 8.2,
-        "viewers": 9.880006
+        "chan": "La1",
+        "prog": "LA REVUELTA <ALVARO & FRANCESCO>",
+        "share": 10.8,
+        "viewers": 12.760004
       },
       {
         "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 13.5,
-        "viewers": 8.040008
+        "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
+        "share": 7.6,
+        "viewers": 8.850006
       },
       {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 4.7,
-        "viewers": 0.574
+        "chan": "Antena3",
+        "prog": "LAS HIJAS DE LA CRIADA <EL LEGADO DE INES>",
+        "share": 11,
+        "viewers": 8.170008
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "SUPERVIVIENTES ALL STARS",
+        "share": 13.8,
+        "viewers": 74.20001
       }
     ],
-    "consumoMin": 154,
+    "consumoMin": 152,
     "espectadoresTotales": {
-      "viewers": 27089000,
-      "percent": 57
+      "viewers": 26751000,
+      "percent": 56.2
     }
   }
 ]

@@ -2,95 +2,95 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 13.9,
+      "share": 13.3,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 12.7,
+      "share": 11.7,
       "color": "#00a8e8"
     },
     {
       "name": "Temáticas de Pago",
-      "share": 10,
+      "share": 11.5,
       "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 8.9,
+      "share": 9,
       "color": "#39a935"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.8,
+      "share": 8.4,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 8.5,
+      "share": 7.2,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.6,
+      "share": 5.9,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.4,
+      "share": 3.3,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-15",
+  "dataDate": "2026-10-16",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2207000,
-    "share": 24.9
+    "viewers": 2091000,
+    "share": 24.2
   },
   "minutoOro": {
-    "time": "21:02",
+    "time": "14:56",
     "chan": "Antena3",
-    "prog": "PASAPALABRA",
-    "viewers": 2470000
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2317000
   },
   "prime": [
     {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO <VICENTE VALLES>",
-      "share": 15.3,
-      "viewers": 17.870002
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 10,
+      "viewers": 10.610003
     },
     {
-      "chan": "La1",
-      "prog": "LA REVUELTA <ALVARO & FRANCESCO>",
-      "share": 10.8,
-      "viewers": 12.760004
+      "chan": "Cuatro",
+      "prog": "HORIZONTE",
+      "share": 9.5,
+      "viewers": 10.110005
     },
     {
       "chan": "Telecinco",
-      "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
-      "share": 7.6,
-      "viewers": 8.850006
+      "prog": "¡DE VIERNES!",
+      "share": 12.3,
+      "viewers": 7.930007
     },
     {
-      "chan": "Antena3",
-      "prog": "LAS HIJAS DE LA CRIADA <EL LEGADO DE INES>",
-      "share": 11,
-      "viewers": 8.170008
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <PREDATOR:LA PRESA>",
+      "share": 8,
+      "viewers": 6.110009
     },
     {
-      "chan": "Telecinco",
-      "prog": "SUPERVIVIENTES ALL STARS",
-      "share": 13.8,
-      "viewers": 74.20001
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 5,
+      "viewers": 0.523
     }
   ],
-  "consumoMin": 152,
+  "consumoMin": 150,
   "espectadoresTotales": {
-    "viewers": 26751000,
-    "percent": 56.2
+    "viewers": 26132000,
+    "percent": 54.9
   },
-  "updatedAt": "2026-10-17T04:11:45.960Z"
+  "updatedAt": "2026-10-17T09:11:30.240Z"
 }

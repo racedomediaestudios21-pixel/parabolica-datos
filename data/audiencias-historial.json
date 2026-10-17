@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 15,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 12.3,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 10.7,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.7,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.3,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.8,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2221000,
-      "share": 24.5
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "ENTREVISTA <JUAN VIVAS>",
-        "share": 17,
-        "viewers": 20.940002
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "ENTREVISTA <PEDRO SANCHEZ>",
-        "share": 12,
-        "viewers": 14.690004
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EL INTERMEDIO",
-        "share": 9.3,
-        "viewers": 11.030006
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 8.6,
-        "viewers": 10.050008
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "EN EL PUNTO DE MIRA <FUNCIONARIOS SIN CONTROL>",
-        "share": 10.8,
-        "viewers": 80.70001
-      }
-    ],
-    "consumoMin": 153,
-    "espectadoresTotales": {
-      "viewers": 26335000,
-      "percent": 55.4
-    }
-  },
-  {
     "date": "2026-09-15",
     "ranking": [
       {
@@ -2698,6 +2608,101 @@
     "espectadoresTotales": {
       "viewers": 26751000,
       "percent": 56.2
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 11.7,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.5,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.4,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.3,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2091000,
+      "share": 24.2
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2317000
+    },
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 10,
+        "viewers": 10.610003
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 9.5,
+        "viewers": 10.110005
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "¡DE VIERNES!",
+        "share": 12.3,
+        "viewers": 7.930007
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EL BLOCKBUSTER <PREDATOR:LA PRESA>",
+        "share": 8,
+        "viewers": 6.110009
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5,
+        "viewers": 0.523
+      }
+    ],
+    "consumoMin": 150,
+    "espectadoresTotales": {
+      "viewers": 26132000,
+      "percent": 54.9
     }
   }
 ]

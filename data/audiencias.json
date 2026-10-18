@@ -1,10 +1,86 @@
 {
-  "ranking": [],
+  "ranking": [
+    {
+      "name": "Temáticas de Pago",
+      "share": 16.8,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Antena 3",
+      "share": 11.5,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "La 1",
+      "share": 10.6,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.7,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Cuatro",
+      "share": 6.5,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Telecinco",
+      "share": 6.3,
+      "color": "#39a935"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.2,
+      "color": "#3ecf8e"
+    }
+  ],
   "dataDate": null,
-  "masVisto": null,
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "chan": "Antena3",
+    "time": "14:59",
+    "viewers": 1953000,
+    "share": 22.1
+  },
   "minutoOro": null,
-  "prime": [],
-  "consumoMin": null,
-  "espectadoresTotales": null,
-  "updatedAt": "2026-10-18T14:29:20.129Z"
+  "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 10.1,
+      "viewers": 9.870002
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <LA PROTEGIDA(2021)>",
+      "share": 8.5,
+      "viewers": 7.930004
+    },
+    {
+      "chan": "La1",
+      "prog": "MALAS LENGUAS NOCHE",
+      "share": 9.3,
+      "viewers": 6.310006
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 6.3,
+      "viewers": 4.940009
+    },
+    {
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 24.6,
+      "viewers": 0.431
+    }
+  ],
+  "consumoMin": 158,
+  "espectadoresTotales": {
+    "viewers": 25841000,
+    "percent": 54.3
+  },
+  "updatedAt": "2026-10-18T17:59:54.596Z"
 }

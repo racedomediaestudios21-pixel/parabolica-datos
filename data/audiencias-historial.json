@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 14.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 12,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "La 1",
-        "share": 11.3,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.8,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.7,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.9,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2122000,
-      "share": 23.7
-    },
-    "minutoOro": {
-      "time": "21:04",
-      "chan": "Antena3",
-      "prog": "PASAPALABRA",
-      "viewers": 2418000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <JOSE CORONADO Y MARTIÑO RIVAS>",
-        "share": 12.9,
-        "viewers": 14.560002
-      },
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <FRANCO COLAPINTO-JORDI SAVALL>",
-        "share": 9.2,
-        "viewers": 10.620004
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 14.3,
-        "viewers": 8.710006
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EL INTERMEDIO",
-        "share": 5.8,
-        "viewers": 6.650008
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "CODIGO 10",
-        "share": 10.9,
-        "viewers": 0.619
-      }
-    ],
-    "consumoMin": 151,
-    "espectadoresTotales": {
-      "viewers": 26544000,
-      "percent": 55.8
-    }
-  },
-  {
     "date": "2026-09-16",
     "ranking": [
       {
@@ -2703,6 +2608,91 @@
     "espectadoresTotales": {
       "viewers": 26132000,
       "percent": 54.9
+    }
+  },
+  {
+    "date": "2026-10-17",
+    "ranking": [
+      {
+        "name": "Temáticas de Pago",
+        "share": 16.8,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Antena 3",
+        "share": 11.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 10.6,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.7,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Telecinco",
+        "share": 6.3,
+        "color": "#39a935"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.2,
+        "color": "#3ecf8e"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+      "chan": "Antena3",
+      "time": "14:59",
+      "viewers": 1953000,
+      "share": 22.1
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "LA RULETA DE LA SUERTE NOCHE",
+        "share": 10.1,
+        "viewers": 9.870002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EL BLOCKBUSTER <LA PROTEGIDA(2021)>",
+        "share": 8.5,
+        "viewers": 7.930004
+      },
+      {
+        "chan": "La1",
+        "prog": "MALAS LENGUAS NOCHE",
+        "share": 9.3,
+        "viewers": 6.310006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 6.3,
+        "viewers": 4.940009
+      },
+      {
+        "chan": "TV3",
+        "prog": "TELENOTICIES VESPRE",
+        "share": 24.6,
+        "viewers": 0.431
+      }
+    ],
+    "consumoMin": 158,
+    "espectadoresTotales": {
+      "viewers": 25841000,
+      "percent": 54.3
     }
   }
 ]

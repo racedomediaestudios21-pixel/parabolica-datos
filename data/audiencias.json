@@ -1,96 +1,86 @@
 {
   "ranking": [
     {
+      "name": "Temáticas de Pago",
+      "share": 16.8,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Antena 3",
-      "share": 13.3,
+      "share": 11.5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 11.7,
+      "share": 10.6,
       "color": "#00a8e8"
     },
     {
-      "name": "Temáticas de Pago",
-      "share": 11.5,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Telecinco",
-      "share": 9,
-      "color": "#39a935"
-    },
-    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.4,
+      "share": 8.7,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 7.2,
+      "share": 6.5,
       "color": "#3ecf8e"
+    },
+    {
+      "name": "Telecinco",
+      "share": 6.3,
+      "color": "#39a935"
     },
     {
       "name": "laSexta",
-      "share": 5.9,
+      "share": 5.2,
       "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.3,
-      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-16",
+  "dataDate": null,
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2091000,
-    "share": 24.2
+    "time": "14:59",
+    "viewers": 1953000,
+    "share": 22.1
   },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2317000
-  },
+  "minutoOro": null,
   "prime": [
+    {
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 10.1,
+      "viewers": 9.870002
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <LA PROTEGIDA(2021)>",
+      "share": 8.5,
+      "viewers": 7.930004
+    },
+    {
+      "chan": "La1",
+      "prog": "MALAS LENGUAS NOCHE",
+      "share": 9.3,
+      "viewers": 6.310006
+    },
     {
       "chan": "Telecinco",
       "prog": "FIRST DATES",
-      "share": 10,
-      "viewers": 10.610003
+      "share": 6.3,
+      "viewers": 4.940009
     },
     {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 9.5,
-      "viewers": 10.110005
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "¡DE VIERNES!",
-      "share": 12.3,
-      "viewers": 7.930007
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "EL BLOCKBUSTER <PREDATOR:LA PRESA>",
-      "share": 8,
-      "viewers": 6.110009
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5,
-      "viewers": 0.523
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 24.6,
+      "viewers": 0.431
     }
   ],
-  "consumoMin": 150,
+  "consumoMin": 158,
   "espectadoresTotales": {
-    "viewers": 26132000,
-    "percent": 54.9
+    "viewers": 25841000,
+    "percent": 54.3
   },
-  "updatedAt": "2026-10-18T05:44:08.082Z"
+  "updatedAt": "2026-10-18T10:53:36.212Z"
 }

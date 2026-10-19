@@ -1,94 +1,5 @@
 [
   {
-    "date": "2026-09-16",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 13.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 11.9,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 11.8,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.6,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.3,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.3,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.6,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2083000,
-      "share": 23.8
-    },
-    "minutoOro": {
-      "time": "14:55",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2569000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <PABLO LOPEZ>",
-        "share": 12.1,
-        "viewers": 13.780002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 9.8,
-        "viewers": 11.270004
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 14,
-        "viewers": 8.220007
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.1,
-        "viewers": 58.90001
-      }
-    ],
-    "consumoMin": 150,
-    "espectadoresTotales": {
-      "viewers": 26292000,
-      "percent": 55.3
-    }
-  },
-  {
     "date": "2026-09-17",
     "ranking": [
       {
@@ -2612,6 +2523,91 @@
   },
   {
     "date": "2026-10-17",
+    "ranking": [
+      {
+        "name": "Temáticas de Pago",
+        "share": 16.8,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Antena 3",
+        "share": 11.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 10.6,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.7,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Telecinco",
+        "share": 6.3,
+        "color": "#39a935"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.2,
+        "color": "#3ecf8e"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+      "chan": "Antena3",
+      "time": "14:59",
+      "viewers": 1953000,
+      "share": 22.1
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "LA RULETA DE LA SUERTE NOCHE",
+        "share": 10.1,
+        "viewers": 9.870002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EL BLOCKBUSTER <LA PROTEGIDA(2021)>",
+        "share": 8.5,
+        "viewers": 7.930004
+      },
+      {
+        "chan": "La1",
+        "prog": "MALAS LENGUAS NOCHE",
+        "share": 9.3,
+        "viewers": 6.310006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 6.3,
+        "viewers": 4.940009
+      },
+      {
+        "chan": "TV3",
+        "prog": "TELENOTICIES VESPRE",
+        "share": 24.6,
+        "viewers": 0.431
+      }
+    ],
+    "consumoMin": 158,
+    "espectadoresTotales": {
+      "viewers": 25841000,
+      "percent": 54.3
+    }
+  },
+  {
+    "date": "2026-10-18",
     "ranking": [
       {
         "name": "Temáticas de Pago",

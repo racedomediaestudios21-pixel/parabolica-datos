@@ -1,91 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 15.9,
-      "color": "#0a3d62"
-    },
-    {
       "name": "La 1",
-      "share": 12.1,
+      "share": 13.8,
       "color": "#00a8e8"
     },
     {
       "name": "Antena 3",
-      "share": 9.8,
+      "share": 13.8,
       "color": "#3ecf8e"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 8.2,
+      "share": 10,
       "color": "#e51c23"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 9.9,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Telecinco",
-      "share": 8.2,
+      "share": 9,
       "color": "#39a935"
     },
     {
       "name": "Cuatro",
-      "share": 6.4,
+      "share": 7.8,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5,
+      "share": 5.5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 2.6,
+      "share": 3.7,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-18",
+  "dataDate": "2026-10-19",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 2",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 2007000,
-    "share": 20.6
+    "time": "21:04",
+    "viewers": 2363000,
+    "share": 19.5
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "21:03",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2635000
+  },
   "prime": [
     {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <PEPE NAVARRO Y FLORENTINO FERNANDEZ>",
+      "share": 15.4,
+      "viewers": 18.760002
+    },
+    {
       "chan": "La1",
-      "prog": "PELICULA DE LA SEMANA <AGUAS OSCURAS>",
-      "share": 10.8,
-      "viewers": 11.650003
+      "prog": "LA REVUELTA <JOHN MCENROE-MARTIN DE LA PUENTE>",
+      "share": 10.5,
+      "viewers": 12.840004
     },
     {
       "chan": "Antena3",
-      "prog": "EL SECRETO",
-      "share": 10.1,
-      "viewers": 8.630005
+      "prog": "EN TIERRA LEJANA",
+      "share": 14,
+      "viewers": 9.240006
     },
     {
-      "chan": "La Sexta",
-      "prog": "SALVADOS <CEUTA,EXAMEN AL GOBIERNO>",
-      "share": 4.3,
-      "viewers": 5.410007
-    },
-    {
-      "chan": "La2",
-      "prog": "D.REG(ORBITA LAIKA)",
-      "share": 3.3,
-      "viewers": 3.670009
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 12.7,
+      "viewers": 7.580008
     },
     {
       "chan": "La2",
-      "prog": "IMPRESCINDIBLES",
-      "share": 2.6,
-      "viewers": 0.333
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4.6,
+      "viewers": 59.20001
     }
   ],
-  "consumoMin": 181,
+  "consumoMin": 165,
   "espectadoresTotales": {
-    "viewers": 27736000,
-    "percent": 58.3
+    "viewers": 27268000,
+    "percent": 57.3
   },
-  "updatedAt": "2026-10-20T05:54:04.092Z"
+  "updatedAt": "2026-10-20T11:23:23.956Z"
 }

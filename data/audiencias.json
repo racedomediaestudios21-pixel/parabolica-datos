@@ -1,96 +1,91 @@
 {
   "ranking": [
     {
-      "name": "Antena 3",
-      "share": 13.3,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "La 1",
-      "share": 12.3,
+      "share": 18.2,
       "color": "#00a8e8"
     },
     {
+      "name": "Antena 3",
+      "share": 12.9,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Temáticas de Pago",
-      "share": 12.1,
+      "share": 9.5,
       "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 8.7,
+      "share": 8.9,
       "color": "#39a935"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.2,
-      "color": "#e51c23"
-    },
-    {
       "name": "Cuatro",
-      "share": 8.1,
+      "share": 8.4,
       "color": "#3ecf8e"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 7.7,
+      "color": "#e51c23"
+    },
+    {
       "name": "laSexta",
-      "share": 6,
+      "share": 5.2,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.5,
+      "share": 3.2,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-10-22",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
-    "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2153000,
-    "share": 23.4
+    "prog": "la emisión PEDRO SANCHEZ de LA REVUELTA",
+    "chan": "La1",
+    "time": "22:02",
+    "viewers": 4387000,
+    "share": 33.9
   },
-  "minutoOro": {
-    "time": "14:56",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 2468000
-  },
+  "minutoOro": null,
   "prime": [
     {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO <SUSANNA GRISO>",
-      "share": 12.8,
-      "viewers": 15.610002
+      "chan": "La1",
+      "prog": "LA REVUELTA <PEDRO SANCHEZ>",
+      "share": 33.9,
+      "viewers": 43.870002
     },
     {
       "chan": "La1",
-      "prog": "LA REVUELTA <JESUS VAZQUEZ-PHILIPPE JAROUSSKY>",
-      "share": 10.1,
-      "viewers": 12.230004
-    },
-    {
-      "chan": "Antena3",
-      "prog": "ENTREVISTA <JUAN JESUS VIVAS>",
-      "share": 10.2,
-      "viewers": 8.310006
+      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <ADA COLAU-LEIRE MARTINEZ>",
+      "share": 19.1,
+      "viewers": 10.720005
     },
     {
       "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
-      "share": 13.8,
-      "viewers": 8.060008
+      "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
+      "share": 6.9,
+      "viewers": 9.330007
+    },
+    {
+      "chan": "Antena3",
+      "prog": "LAS HIJAS DE LA CRIADA <LA VERDAD DE CLARA>",
+      "share": 9.5,
+      "viewers": 8.620009
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 5,
-      "viewers": 0.632
+      "share": 4,
+      "viewers": 0.512
     }
   ],
-  "consumoMin": 158,
+  "consumoMin": 160,
   "espectadoresTotales": {
-    "viewers": 26971000,
-    "percent": 56.7
+    "viewers": 27406000,
+    "percent": 57.6
   },
-  "updatedAt": "2026-10-23T04:34:07.593Z"
+  "updatedAt": "2026-10-23T09:55:57.428Z"
 }

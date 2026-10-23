@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 17.9,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "La 1",
-        "share": 10.2,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 9.6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.3,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 7.1,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 6.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 4.5,
-        "color": "#3ecf8e"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-      "chan": "Antena3",
-      "time": "14:59",
-      "viewers": 1716000,
-      "share": 19.1
-    },
-    "minutoOro": {
-      "time": "14:57",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 1817000
-    },
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "PELICULA DE LA SEMANA <SAN ANDRES>",
-        "share": 11.4,
-        "viewers": 11.440002
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "CUARTO MILENIO",
-        "share": 7.2,
-        "viewers": 7.180005
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "SALVADOS <EL GRAN WYOMING-EL GRAN CHECHU>",
-        "share": 5.2,
-        "viewers": 4.930007
-      },
-      {
-        "chan": "TV3",
-        "prog": "TELENOTICIES VESPRE",
-        "share": 23.7,
-        "viewers": 4.150009
-      },
-      {
-        "chan": "La2",
-        "prog": "IMPRESCINDIBLES",
-        "share": 3.2,
-        "viewers": 0.362
-      }
-    ],
-    "consumoMin": 161,
-    "espectadoresTotales": {
-      "viewers": 26241000,
-      "percent": 55.2
-    }
-  },
-  {
     "date": "2026-09-21",
     "ranking": [
       {
@@ -2603,6 +2513,101 @@
   },
   {
     "date": "2026-10-21",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.3,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 12.1,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.7,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.2,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 8.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.5,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2153000,
+      "share": 23.4
+    },
+    "minutoOro": {
+      "time": "14:56",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2468000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <SUSANNA GRISO>",
+        "share": 12.8,
+        "viewers": 15.610002
+      },
+      {
+        "chan": "La1",
+        "prog": "LA REVUELTA <JESUS VAZQUEZ-PHILIPPE JAROUSSKY>",
+        "share": 10.1,
+        "viewers": 12.230004
+      },
+      {
+        "chan": "Antena3",
+        "prog": "ENTREVISTA <JUAN JESUS VIVAS>",
+        "share": 10.2,
+        "viewers": 8.310006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 13.8,
+        "viewers": 8.060008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5,
+        "viewers": 0.632
+      }
+    ],
+    "consumoMin": 158,
+    "espectadoresTotales": {
+      "viewers": 26971000,
+      "percent": 56.7
+    }
+  },
+  {
+    "date": "2026-10-22",
     "ranking": [
       {
         "name": "Antena 3",

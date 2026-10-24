@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 14.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 12,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 9.3,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9.1,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.7,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2208000,
-      "share": 23.7
-    },
-    "minutoOro": {
-      "time": "14:55",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2424000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <FERRAN TORRES>",
-        "share": 15.2,
-        "viewers": 17.730002
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 9.6,
-        "viewers": 11.250004
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 13.6,
-        "viewers": 8.330006
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 12.5,
-        "viewers": 7.700008
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5,
-        "viewers": 61.40001
-      }
-    ],
-    "consumoMin": 154,
-    "espectadoresTotales": {
-      "viewers": 26535000,
-      "percent": 55.8
-    }
-  },
-  {
     "date": "2026-09-22",
     "ranking": [
       {
@@ -2694,6 +2599,101 @@
     "espectadoresTotales": {
       "viewers": 27406000,
       "percent": 57.6
+    }
+  },
+  {
+    "date": "2026-10-23",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.5,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10.7,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 9,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:57",
+      "viewers": 2024000,
+      "share": 22.8
+    },
+    "minutoOro": {
+      "time": "21:02",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2244000
+    },
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 10.1,
+        "viewers": 10.820003
+      },
+      {
+        "chan": "La1",
+        "prog": "CUANTA GUERRA <LA INTEGRIDAD INCONDICIONAL DEL ABUELO JULIAN>",
+        "share": 9.3,
+        "viewers": 9.920005
+      },
+      {
+        "chan": "La1",
+        "prog": "CUANTA GUERRA <JOSEP Y JAUME,LOS ABUELOS QUE NO QUERIAN LUCHAR>",
+        "share": 9.4,
+        "viewers": 8.380007
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "EL BLOCKBUSTER <UN LUGAR TRANQUILO 2>",
+        "share": 7.9,
+        "viewers": 6.010009
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4.5,
+        "viewers": 0.485
+      }
+    ],
+    "consumoMin": 151,
+    "espectadoresTotales": {
+      "viewers": 26320000,
+      "percent": 55.3
     }
   }
 ]

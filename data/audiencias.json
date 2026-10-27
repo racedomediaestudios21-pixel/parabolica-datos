@@ -1,74 +1,96 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 19.9,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "La 1",
-      "share": 10.3,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Antena 3",
-      "share": 9,
+      "share": 13.6,
       "color": "#3ecf8e"
     },
     {
-      "name": "Telecinco",
-      "share": 8.1,
-      "color": "#39a935"
+      "name": "La 1",
+      "share": 13.4,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 11.4,
+      "color": "#0a3d62"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 7.4,
+      "share": 9,
       "color": "#e51c23"
     },
     {
+      "name": "Telecinco",
+      "share": 8.6,
+      "color": "#39a935"
+    },
+    {
       "name": "Cuatro",
-      "share": 7,
+      "share": 7.9,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 4.7,
+      "share": 5.6,
       "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.7,
+      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-25",
-  "masVisto": null,
-  "minutoOro": null,
+  "dataDate": "2026-10-26",
+  "masVisto": {
+    "prog": "ANTENA 3 NOTICIAS 2",
+    "chan": "Antena3",
+    "time": "21:04",
+    "viewers": 2213000,
+    "share": 17.9
+  },
+  "minutoOro": {
+    "time": "21:02",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2589000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL SECRETO",
-      "share": 10.2,
-      "viewers": 8.340005
+      "prog": "EL HORMIGUERO <JUAN VIVAS>",
+      "share": 13.6,
+      "viewers": 16.780002
     },
     {
       "chan": "Cuatro",
-      "prog": "CUARTO MILENIO",
-      "share": 5.9,
-      "viewers": 6.390007
+      "prog": "HORIZONTE",
+      "share": 10.8,
+      "viewers": 13.400004
     },
     {
-      "chan": "Cuatro",
-      "prog": "EL CHIRINGUITO",
-      "share": 8.1,
-      "viewers": 3.160009
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 12.6,
+      "viewers": 8.390006
     },
     {
-      "chan": "TRECE",
-      "prog": "TU CINE <RUTA SUICIDA>",
-      "share": 2.4,
-      "viewers": 0.292
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 12.8,
+      "viewers": 7.610008
+    },
+    {
+      "chan": "La1",
+      "prog": "MASTERCHEF CELEBRITY LEGENDS",
+      "share": 11.8,
+      "viewers": 59.10001
     }
   ],
-  "consumoMin": 172,
+  "consumoMin": 159,
   "espectadoresTotales": {
-    "viewers": 27993000,
-    "percent": 58.9
+    "viewers": 27483000,
+    "percent": 57.8
   },
-  "updatedAt": "2026-10-27T04:50:07.747Z"
+  "updatedAt": "2026-10-27T10:23:03.971Z"
 }

@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 14,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 11.2,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 10.5,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9.4,
-        "color": "#39a935"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.3,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Cuatro",
-        "share": 8.2,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.6,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:57",
-      "viewers": 2231000,
-      "share": 25.3
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2455000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <ALEJANDRO AMENABAR>",
-        "share": 14.1,
-        "viewers": 15.680002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
-        "share": 10.1,
-        "viewers": 11.250004
-      },
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <BORJA IGLESIAS>",
-        "share": 8.7,
-        "viewers": 8.660006
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EL INTERMEDIO",
-        "share": 7.1,
-        "viewers": 8.040008
-      },
-      {
-        "chan": "Antena3",
-        "prog": "LAS HIJAS DE LA CRIADA <LA RABIA DE CATALINA>",
-        "share": 10.6,
-        "viewers": 72.80001
-      }
-    ],
-    "consumoMin": 149,
-    "espectadoresTotales": {
-      "viewers": 25995000,
-      "percent": 54.7
-    }
-  },
-  {
     "date": "2026-09-25",
     "ranking": [
       {
@@ -2672,6 +2577,101 @@
     "espectadoresTotales": {
       "viewers": 27993000,
       "percent": 58.9
+    }
+  },
+  {
+    "date": "2026-10-26",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 13.4,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.4,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 9,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.6,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.7,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 2",
+      "chan": "Antena3",
+      "time": "21:04",
+      "viewers": 2213000,
+      "share": 17.9
+    },
+    "minutoOro": {
+      "time": "21:02",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2589000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <JUAN VIVAS>",
+        "share": 13.6,
+        "viewers": 16.780002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 10.8,
+        "viewers": 13.400004
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 12.6,
+        "viewers": 8.390006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 12.8,
+        "viewers": 7.610008
+      },
+      {
+        "chan": "La1",
+        "prog": "MASTERCHEF CELEBRITY LEGENDS",
+        "share": 11.8,
+        "viewers": 59.10001
+      }
+    ],
+    "consumoMin": 159,
+    "espectadoresTotales": {
+      "viewers": 27483000,
+      "percent": 57.8
     }
   }
 ]

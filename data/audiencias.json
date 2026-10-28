@@ -1,29 +1,29 @@
 {
   "ranking": [
     {
-      "name": "Antena 3",
-      "share": 13.6,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "La 1",
-      "share": 13.4,
+      "share": 14.6,
       "color": "#00a8e8"
     },
     {
+      "name": "Antena 3",
+      "share": 13.7,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Temáticas de Pago",
-      "share": 11.4,
+      "share": 10.3,
       "color": "#0a3d62"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 9,
-      "color": "#e51c23"
+      "name": "Telecinco",
+      "share": 8.8,
+      "color": "#39a935"
     },
     {
-      "name": "Telecinco",
+      "name": "Autonómicas (FORTA)",
       "share": 8.6,
-      "color": "#39a935"
+      "color": "#e51c23"
     },
     {
       "name": "Cuatro",
@@ -32,7 +32,7 @@
     },
     {
       "name": "laSexta",
-      "share": 5.6,
+      "share": 5.7,
       "color": "#3ecf8e"
     },
     {
@@ -41,56 +41,51 @@
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-26",
+  "dataDate": "2026-10-27",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 2",
-    "chan": "Antena3",
-    "time": "21:04",
-    "viewers": 2213000,
-    "share": 17.9
+    "prog": "la emisión GABRIEL RUFIAN-IRENE MONTERO-FERNANDO & DOLLAR de LA REVUELTA",
+    "chan": "La1",
+    "time": "22:02",
+    "viewers": 2654000,
+    "share": 21.7
   },
-  "minutoOro": {
-    "time": "21:02",
-    "chan": "Antena3",
-    "prog": "PASAPALABRA",
-    "viewers": 2589000
-  },
+  "minutoOro": null,
   "prime": [
     {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO <JUAN VIVAS>",
-      "share": 13.6,
-      "viewers": 16.780002
+      "chan": "La1",
+      "prog": "LA REVUELTA <GABRIEL RUFIAN-IRENE MONTERO-FERNANDO & DOLLAR>",
+      "share": 21.7,
+      "viewers": 26.540002
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 10.8,
-      "viewers": 13.400004
+      "share": 11.6,
+      "viewers": 14.570004
     },
     {
       "chan": "Antena3",
       "prog": "EN TIERRA LEJANA",
-      "share": 12.6,
-      "viewers": 8.390006
+      "share": 12.7,
+      "viewers": 8.260007
     },
     {
-      "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
-      "share": 12.8,
-      "viewers": 7.610008
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4.6,
+      "viewers": 5.850009
     },
     {
       "chan": "La1",
       "prog": "MASTERCHEF CELEBRITY LEGENDS",
-      "share": 11.8,
-      "viewers": 59.10001
+      "share": 10.5,
+      "viewers": 0.516
     }
   ],
-  "consumoMin": 159,
+  "consumoMin": 160,
   "espectadoresTotales": {
-    "viewers": 27483000,
-    "percent": 57.8
+    "viewers": 27014000,
+    "percent": 56.8
   },
-  "updatedAt": "2026-10-28T08:17:41.357Z"
+  "updatedAt": "2026-10-28T15:54:54.027Z"
 }

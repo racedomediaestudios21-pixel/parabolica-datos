@@ -2,90 +2,90 @@
   "ranking": [
     {
       "name": "La 1",
-      "share": 14.6,
+      "share": 15.4,
       "color": "#00a8e8"
     },
     {
       "name": "Antena 3",
-      "share": 13.7,
+      "share": 13.6,
       "color": "#3ecf8e"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 10.3,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8.8,
-      "color": "#39a935"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.6,
-      "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 7.9,
+      "share": 10.3,
       "color": "#3ecf8e"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.7,
+      "color": "#e51c23"
+    },
+    {
+      "name": "Telecinco",
+      "share": 8.7,
+      "color": "#39a935"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 8.7,
+      "color": "#0a3d62"
+    },
+    {
       "name": "laSexta",
-      "share": 5.7,
+      "share": 5.8,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.7,
+      "share": 3,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-10-27",
+  "dataDate": null,
   "masVisto": {
-    "prog": "la emisión GABRIEL RUFIAN-IRENE MONTERO-FERNANDO & DOLLAR de LA REVUELTA",
-    "chan": "La1",
-    "time": "22:02",
-    "viewers": 2654000,
-    "share": 21.7
+    "prog": "ANTENA 3 NOTICIAS 2",
+    "chan": "Antena3",
+    "time": "21:05",
+    "viewers": 2338000,
+    "share": 18.5
   },
   "minutoOro": null,
   "prime": [
     {
-      "chan": "La1",
-      "prog": "LA REVUELTA <GABRIEL RUFIAN-IRENE MONTERO-FERNANDO & DOLLAR>",
-      "share": 21.7,
-      "viewers": 26.540002
+      "chan": "Antena3",
+      "prog": "ESPECIAL INFORMATIVO <TRAGEDIA FERROVIARIA>",
+      "share": 11.8,
+      "viewers": 14.490003
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 11.6,
-      "viewers": 14.570004
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 12.7,
-      "viewers": 8.260007
+      "share": 16,
+      "viewers": 10.130005
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 4.6,
-      "viewers": 5.850009
+      "share": 5,
+      "viewers": 6.420007
     },
     {
-      "chan": "La1",
-      "prog": "MASTERCHEF CELEBRITY LEGENDS",
-      "share": 10.5,
-      "viewers": 0.516
+      "chan": "Telecinco",
+      "prog": "CINE <PLANES DE BODA>",
+      "share": 6.4,
+      "viewers": 5.190009
+    },
+    {
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 21.8,
+      "viewers": 0.423
     }
   ],
-  "consumoMin": 160,
+  "consumoMin": 164,
   "espectadoresTotales": {
-    "viewers": 27014000,
-    "percent": 56.8
+    "viewers": 27618000,
+    "percent": 58.1
   },
-  "updatedAt": "2026-10-29T06:56:45.417Z"
+  "updatedAt": "2026-10-29T14:07:02.162Z"
 }

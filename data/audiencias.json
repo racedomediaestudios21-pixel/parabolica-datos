@@ -1,91 +1,58 @@
 {
   "ranking": [
     {
-      "name": "La 1",
-      "share": 15.4,
-      "color": "#00a8e8"
-    },
-    {
-      "name": "Antena 3",
-      "share": 13.6,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Cuatro",
-      "share": 10.3,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.7,
-      "color": "#e51c23"
-    },
-    {
-      "name": "Telecinco",
-      "share": 8.7,
-      "color": "#39a935"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 8.7,
+      "share": 10,
       "color": "#0a3d62"
-    },
-    {
-      "name": "laSexta",
-      "share": 5.8,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3,
-      "color": "#ff7a00"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-10-29",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 2",
     "chan": "Antena3",
-    "time": "21:05",
-    "viewers": 2338000,
-    "share": 18.5
+    "time": "21:04",
+    "viewers": 2315000,
+    "share": 19.3
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "21:03",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2652000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "ESPECIAL INFORMATIVO <TRAGEDIA FERROVIARIA>",
-      "share": 11.8,
-      "viewers": 14.490003
+      "prog": "EL HORMIGUERO <MELODY>",
+      "share": 14.8,
+      "viewers": 17.380002
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 16,
-      "viewers": 10.130005
-    },
-    {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 5,
-      "viewers": 6.420007
+      "share": 15.6,
+      "viewers": 10.520004
     },
     {
       "chan": "Telecinco",
-      "prog": "CINE <PLANES DE BODA>",
-      "share": 6.4,
-      "viewers": 5.190009
+      "prog": "SUPERVIVIENTES ALL STARS",
+      "share": 16.9,
+      "viewers": 9.120006
     },
     {
-      "chan": "TV3",
-      "prog": "TELENOTICIES VESPRE",
-      "share": 21.8,
-      "viewers": 0.423
+      "chan": "La1",
+      "prog": "MALAS LENGUAS NOCHE",
+      "share": 8.4,
+      "viewers": 7.030008
+    },
+    {
+      "chan": "La2",
+      "prog": "D.REG(CIFRAS Y LETRAS)",
+      "share": 4.4,
+      "viewers": 54.20001
     }
   ],
-  "consumoMin": 164,
-  "espectadoresTotales": {
-    "viewers": 27618000,
-    "percent": 58.1
-  },
-  "updatedAt": "2026-10-30T06:59:06.180Z"
+  "consumoMin": 161,
+  "espectadoresTotales": null,
+  "updatedAt": "2026-10-30T13:59:19.750Z"
 }

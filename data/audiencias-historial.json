@@ -1,84 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 13.6,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "La 1",
-        "share": 12,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 10.2,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.1,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 7.9,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 6.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.5,
-        "color": "#3ecf8e"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-      "chan": "Antena3",
-      "time": "14:59",
-      "viewers": 1868000,
-      "share": 21.2
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "PELICULA DE LA SEMANA <GLADIATOR II>",
-        "share": 15.5,
-        "viewers": 11.640003
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EL SECRETO",
-        "share": 10.3,
-        "viewers": 8.540006
-      },
-      {
-        "chan": "La2",
-        "prog": "IMPRESCINDIBLES",
-        "share": 3.4,
-        "viewers": 4.070009
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "SALVADOS <REDES SOCIALES:LA FABRICA DEL TERROR>",
-        "share": 4,
-        "viewers": 0.341
-      }
-    ],
-    "consumoMin": 164,
-    "espectadoresTotales": {
-      "viewers": 26557000,
-      "percent": 55.8
-    }
-  },
-  {
     "date": "2026-09-28",
     "ranking": [
       {
@@ -2592,6 +2513,96 @@
   },
   {
     "date": "2026-10-28",
+    "ranking": [
+      {
+        "name": "La 1",
+        "share": 15.4,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Antena 3",
+        "share": 13.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Cuatro",
+        "share": 10.3,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.7,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.7,
+        "color": "#39a935"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 8.7,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 2",
+      "chan": "Antena3",
+      "time": "21:05",
+      "viewers": 2338000,
+      "share": 18.5
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "ESPECIAL INFORMATIVO <TRAGEDIA FERROVIARIA>",
+        "share": 11.8,
+        "viewers": 14.490003
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 16,
+        "viewers": 10.130005
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 5,
+        "viewers": 6.420007
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "CINE <PLANES DE BODA>",
+        "share": 6.4,
+        "viewers": 5.190009
+      },
+      {
+        "chan": "TV3",
+        "prog": "TELENOTICIES VESPRE",
+        "share": 21.8,
+        "viewers": 0.423
+      }
+    ],
+    "consumoMin": 164,
+    "espectadoresTotales": {
+      "viewers": 27618000,
+      "percent": 58.1
+    }
+  },
+  {
+    "date": "2026-10-29",
     "ranking": [
       {
         "name": "La 1",

@@ -2563,7 +2563,7 @@
     "ranking": [
       {
         "name": "Temáticas de Pago",
-        "share": 17.1,
+        "share": 17.7,
         "color": "#0a3d62"
       },
       {
@@ -2573,32 +2573,32 @@
       },
       {
         "name": "Antena 3",
-        "share": 10.4,
+        "share": 10,
         "color": "#3ecf8e"
       },
       {
         "name": "Autonómicas (FORTA)",
-        "share": 7.8,
+        "share": 8.1,
         "color": "#e51c23"
       },
       {
         "name": "Telecinco",
-        "share": 7,
+        "share": 8,
         "color": "#39a935"
       },
       {
         "name": "Cuatro",
-        "share": 6.1,
+        "share": 6.6,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 6.1,
+        "share": 5.2,
         "color": "#3ecf8e"
       },
       {
         "name": "La 2",
-        "share": 2.5,
+        "share": 2.7,
         "color": "#ff7a00"
       }
     ],
@@ -2606,46 +2606,46 @@
       "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
       "chan": "Antena3",
       "time": "14:59",
-      "viewers": 1956000,
-      "share": 22.7
+      "viewers": 1747000,
+      "share": 20.8
     },
     "minutoOro": null,
     "prime": [
       {
-        "chan": "Antena3",
-        "prog": "LA RULETA DE LA SUERTE NOCHE",
-        "share": 9.8,
-        "viewers": 9.030002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "CINE 5 ESTRELLAS <LOS SIETE MAGNIFICOS>",
-        "share": 7.9,
-        "viewers": 6.560004
-      },
-      {
         "chan": "La1",
-        "prog": "MALAS LENGUAS NOCHE",
-        "share": 8.7,
-        "viewers": 5.940006
+        "prog": "PELICULA DE LA SEMANA <ARTHUR(2024)>",
+        "share": 10.7,
+        "viewers": 11.270002
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EL SECRETO",
+        "share": 11.1,
+        "viewers": 8.900004
       },
       {
         "chan": "La Sexta",
-        "prog": "LASEXTA _XPLICA/.",
-        "share": 7.3,
-        "viewers": 4.900008
+        "prog": "SALVADOS <GLORIA Y OLVIDO:»MAS ALLA DEL DEPORTE»>",
+        "share": 5.4,
+        "viewers": 6.240006
       },
       {
-        "chan": "Cuatro",
-        "prog": "LO SABE NO LO SABE <ESPECIAL HALLOWEEN>",
-        "share": 4.1,
-        "viewers": 40.70001
+        "chan": "La1",
+        "prog": "CINE <AIR(2023)>",
+        "share": 7.6,
+        "viewers": 4.340008
+      },
+      {
+        "chan": "TV3",
+        "prog": "TELENOTICIES VESPRE",
+        "share": 19.7,
+        "viewers": 38.30001
       }
     ],
-    "consumoMin": 152,
+    "consumoMin": 166,
     "espectadoresTotales": {
-      "viewers": 25722000,
-      "percent": 54.1
+      "viewers": 26443000,
+      "percent": 55.6
     }
   }
 ]

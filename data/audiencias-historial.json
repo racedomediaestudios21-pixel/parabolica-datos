@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 13.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 12.8,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 10.1,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9.3,
-        "color": "#39a935"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9.1,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Cuatro",
-        "share": 8.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.6,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2304000,
-      "share": 25.5
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2577000
-    },
-    "prime": [
-      {
-        "chan": "Cuatro",
-        "prog": "ENTREVISTA <ISABEL DIAZ AYUSO>",
-        "share": 15.5,
-        "viewers": 18.850002
-      },
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <MARIANO BENITEZ DE LUGO>",
-        "share": 12,
-        "viewers": 14.110004
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 13.1,
-        "viewers": 9.230006
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "SUPERVIVIENTES ALL STARS",
-        "share": 15.6,
-        "viewers": 8.850008
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EL INTERMEDIO",
-        "share": 6.3,
-        "viewers": 74.40001
-      }
-    ],
-    "consumoMin": 156,
-    "espectadoresTotales": {
-      "viewers": 26628000,
-      "percent": 56
-    }
-  },
-  {
     "date": "2026-10-02",
     "ranking": [
       {
@@ -2646,6 +2551,96 @@
     "espectadoresTotales": {
       "viewers": 26443000,
       "percent": 55.6
+    }
+  },
+  {
+    "date": "2026-11-02",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.4,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.9,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.7,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.6,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.7,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2331000,
+      "share": 25.4
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <KIKO RIVERA>",
+        "share": 13.5,
+        "viewers": 16.440002
+      },
+      {
+        "chan": "La1",
+        "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <GONZALO MIRO-PASION VEGA>",
+        "share": 11.9,
+        "viewers": 14.110004
+      },
+      {
+        "chan": "Antena3",
+        "prog": "EN TIERRA LEJANA",
+        "share": 12.4,
+        "viewers": 7.840006
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 11.5,
+        "viewers": 6.610008
+      },
+      {
+        "chan": "La1",
+        "prog": "MASTERCHEF CELEBRITY LEGENDS",
+        "share": 12.8,
+        "viewers": 59.70001
+      }
+    ],
+    "consumoMin": 167,
+    "espectadoresTotales": {
+      "viewers": 27960000,
+      "percent": 58.8
     }
   }
 ]

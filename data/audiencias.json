@@ -1,91 +1,91 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 17.7,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "La 1",
-      "share": 10.5,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Antena 3",
-      "share": 10,
+      "share": 13.2,
       "color": "#3ecf8e"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.1,
-      "color": "#e51c23"
+      "name": "La 1",
+      "share": 12.4,
+      "color": "#00a8e8"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 11.9,
+      "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 8,
+      "share": 8.7,
       "color": "#39a935"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.6,
+      "color": "#e51c23"
+    },
+    {
       "name": "Cuatro",
-      "share": 6.6,
+      "share": 7.6,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.2,
+      "share": 5.8,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 2.7,
+      "share": 3.7,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-01",
+  "dataDate": "2026-11-02",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 1747000,
-    "share": 20.8
+    "time": "14:58",
+    "viewers": 2331000,
+    "share": 25.4
   },
   "minutoOro": null,
   "prime": [
     {
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <KIKO RIVERA>",
+      "share": 13.5,
+      "viewers": 16.440002
+    },
+    {
       "chan": "La1",
-      "prog": "PELICULA DE LA SEMANA <ARTHUR(2024)>",
-      "share": 10.7,
-      "viewers": 11.270002
+      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <GONZALO MIRO-PASION VEGA>",
+      "share": 11.9,
+      "viewers": 14.110004
     },
     {
       "chan": "Antena3",
-      "prog": "EL SECRETO",
-      "share": 11.1,
-      "viewers": 8.900004
+      "prog": "EN TIERRA LEJANA",
+      "share": 12.4,
+      "viewers": 7.840006
     },
     {
-      "chan": "La Sexta",
-      "prog": "SALVADOS <GLORIA Y OLVIDO:»MAS ALLA DEL DEPORTE»>",
-      "share": 5.4,
-      "viewers": 6.240006
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 11.5,
+      "viewers": 6.610008
     },
     {
       "chan": "La1",
-      "prog": "CINE <AIR(2023)>",
-      "share": 7.6,
-      "viewers": 4.340008
-    },
-    {
-      "chan": "TV3",
-      "prog": "TELENOTICIES VESPRE",
-      "share": 19.7,
-      "viewers": 38.30001
+      "prog": "MASTERCHEF CELEBRITY LEGENDS",
+      "share": 12.8,
+      "viewers": 59.70001
     }
   ],
-  "consumoMin": 166,
+  "consumoMin": 167,
   "espectadoresTotales": {
-    "viewers": 26443000,
-    "percent": 55.6
+    "viewers": 27960000,
+    "percent": 58.8
   },
-  "updatedAt": "2026-11-03T06:30:58.107Z"
+  "updatedAt": "2026-11-03T14:58:57.899Z"
 }

@@ -2,17 +2,17 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 13.2,
+      "share": 13.4,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 12.4,
+      "share": 12.3,
       "color": "#00a8e8"
     },
     {
       "name": "Temáticas de Pago",
-      "share": 11.9,
+      "share": 12.2,
       "color": "#0a3d62"
     },
     {
@@ -21,71 +21,76 @@
       "color": "#39a935"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.6,
-      "color": "#e51c23"
-    },
-    {
       "name": "Cuatro",
-      "share": 7.6,
+      "share": 8.7,
       "color": "#3ecf8e"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 8.5,
+      "color": "#e51c23"
+    },
+    {
       "name": "laSexta",
-      "share": 5.8,
+      "share": 6,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.7,
+      "share": 3.1,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-02",
+  "dataDate": "2026-11-03",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
     "time": "14:58",
-    "viewers": 2331000,
-    "share": 25.4
+    "viewers": 2281000,
+    "share": 23.6
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "20:59",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2517000
+  },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <KIKO RIVERA>",
-      "share": 13.5,
-      "viewers": 16.440002
+      "prog": "EL HORMIGUERO <MARIO VAQUERIZO>",
+      "share": 12.9,
+      "viewers": 16.050002
     },
     {
-      "chan": "La1",
-      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <GONZALO MIRO-PASION VEGA>",
-      "share": 11.9,
-      "viewers": 14.110004
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 12.4,
-      "viewers": 7.840006
+      "chan": "Cuatro",
+      "prog": "ENTREVISTA <JUANMA MORENO BONILLA>",
+      "share": 15.5,
+      "viewers": 14.260004
     },
     {
       "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
-      "share": 11.5,
-      "viewers": 6.610008
+      "prog": "FIRST DATES",
+      "share": 7.3,
+      "viewers": 9.170006
     },
     {
-      "chan": "La1",
-      "prog": "MASTERCHEF CELEBRITY LEGENDS",
-      "share": 12.8,
-      "viewers": 59.70001
+      "chan": "Cuatro",
+      "prog": "CODIGO 10",
+      "share": 13.2,
+      "viewers": 7.820008
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 5.7,
+      "viewers": 72.50001
     }
   ],
-  "consumoMin": 167,
+  "consumoMin": 166,
   "espectadoresTotales": {
-    "viewers": 27960000,
-    "percent": 58.8
+    "viewers": 27688000,
+    "percent": 58.2
   },
-  "updatedAt": "2026-11-04T01:12:38.455Z"
+  "updatedAt": "2026-11-04T08:58:27.120Z"
 }

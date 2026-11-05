@@ -1,18 +1,18 @@
 {
   "ranking": [
     {
-      "name": "Antena 3",
-      "share": 13.4,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "La 1",
-      "share": 12.3,
+      "share": 13.8,
       "color": "#00a8e8"
     },
     {
+      "name": "Antena 3",
+      "share": 13.8,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Temáticas de Pago",
-      "share": 12.2,
+      "share": 11.6,
       "color": "#0a3d62"
     },
     {
@@ -21,76 +21,70 @@
       "color": "#39a935"
     },
     {
-      "name": "Cuatro",
-      "share": 8.7,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.5,
+      "share": 8.3,
       "color": "#e51c23"
     },
     {
+      "name": "Cuatro",
+      "share": 7.8,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "laSexta",
-      "share": 6,
+      "share": 6.2,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.1,
+      "share": 3.6,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-03",
+  "dataDate": null,
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2281000,
-    "share": 23.6
+    "time": "14:57",
+    "viewers": 2229000,
+    "share": 23.3
   },
   "minutoOro": {
-    "time": "20:59",
+    "time": "21:04",
     "chan": "Antena3",
     "prog": "PASAPALABRA",
-    "viewers": 2517000
+    "viewers": 2593000
   },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <MARIO VAQUERIZO>",
-      "share": 12.9,
-      "viewers": 16.050002
+      "prog": "EL HORMIGUERO <MIGUEL ANGEL REVILLA>",
+      "share": 14.8,
+      "viewers": 17.710002
     },
     {
       "chan": "Cuatro",
-      "prog": "ENTREVISTA <JUANMA MORENO BONILLA>",
-      "share": 15.5,
-      "viewers": 14.260004
-    },
-    {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 7.3,
-      "viewers": 9.170006
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "CODIGO 10",
-      "share": 13.2,
-      "viewers": 7.820008
+      "prog": "HORIZONTE",
+      "share": 12.2,
+      "viewers": 10.990005
     },
     {
       "chan": "La Sexta",
       "prog": "EL INTERMEDIO",
-      "share": 5.7,
-      "viewers": 72.50001
+      "share": 6.9,
+      "viewers": 8.440007
+    },
+    {
+      "chan": "Antena3",
+      "prog": "ENTREVISTA <JUANMA MORENO BONILLA>",
+      "share": 9.5,
+      "viewers": 75.60001
     }
   ],
-  "consumoMin": 166,
+  "consumoMin": 165,
   "espectadoresTotales": {
-    "viewers": 27688000,
-    "percent": 58.2
+    "viewers": 27627000,
+    "percent": 58.1
   },
-  "updatedAt": "2026-11-05T03:24:47.425Z"
+  "updatedAt": "2026-11-05T12:09:09.649Z"
 }

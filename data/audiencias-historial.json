@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 13.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 13.7,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9.7,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 9.2,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9.1,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 8.2,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.9,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2326000,
-      "share": 24.5
-    },
-    "minutoOro": {
-      "time": "21:03",
-      "chan": "Antena3",
-      "prog": "PASAPALABRA",
-      "viewers": 2623000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <CARMEN MAURA Y MARIBEL VERDU>",
-        "share": 13.4,
-        "viewers": 16.270002
-      },
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <ANA PELETEIRO-DIEGO GONZALEZ RIVAS>",
-        "share": 11.6,
-        "viewers": 14.190004
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EL INTERMEDIO",
-        "share": 6.8,
-        "viewers": 8.580006
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 11.9,
-        "viewers": 7.250008
-      },
-      {
-        "chan": "La1",
-        "prog": "MASTERCHEF CELEBRITY LEGENDS",
-        "share": 12.5,
-        "viewers": 62.60001
-      }
-    ],
-    "consumoMin": 165,
-    "espectadoresTotales": {
-      "viewers": 27703000,
-      "percent": 58.2
-    }
-  },
-  {
     "date": "2026-10-06",
     "ranking": [
       {
@@ -2657,6 +2562,101 @@
     "espectadoresTotales": {
       "viewers": 27482000,
       "percent": 57.8
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 11.9,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.3,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9.4,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.5,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 6.9,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1",
+      "chan": "Antena3",
+      "time": "14:58",
+      "viewers": 2105000,
+      "share": 24.4
+    },
+    "minutoOro": {
+      "time": "21:04",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2447000
+    },
+    "prime": [
+      {
+        "chan": "Telecinco",
+        "prog": "FIRST DATES",
+        "share": 9.5,
+        "viewers": 10.440002
+      },
+      {
+        "chan": "La1",
+        "prog": "CUANTA GUERRA <EL GÜELITO SALVADOR Y LA UTOPIA QUE NO PUDO SER>",
+        "share": 9,
+        "viewers": 9.860004
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "¡DE VIERNES!",
+        "share": 13.9,
+        "viewers": 8.730006
+      },
+      {
+        "chan": "La1",
+        "prog": "EL PATRONATO.HISTERICAS,DESVIADAS,DESCARRIADAS",
+        "share": 9.7,
+        "viewers": 7.130008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4.4,
+        "viewers": 48.70001
+      }
+    ],
+    "consumoMin": 156,
+    "espectadoresTotales": {
+      "viewers": 26806000,
+      "percent": 56.4
     }
   }
 ]

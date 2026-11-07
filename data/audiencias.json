@@ -2,22 +2,22 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 13.5,
+      "share": 13.1,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 12.5,
+      "share": 11.9,
       "color": "#00a8e8"
     },
     {
       "name": "Temáticas de Pago",
-      "share": 9.6,
+      "share": 11.3,
       "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 9.3,
+      "share": 9.4,
       "color": "#39a935"
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "name": "Cuatro",
-      "share": 8.3,
+      "share": 6.9,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.6,
+      "share": 5.1,
       "color": "#3ecf8e"
     },
     {
@@ -41,56 +41,56 @@
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-05",
+  "dataDate": "2026-11-06",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 1",
     "chan": "Antena3",
-    "time": "14:57",
-    "viewers": 2249000,
-    "share": 24.5
+    "time": "14:58",
+    "viewers": 2105000,
+    "share": 24.4
   },
   "minutoOro": {
-    "time": "21:02",
+    "time": "21:04",
     "chan": "Antena3",
     "prog": "PASAPALABRA",
-    "viewers": 2513000
+    "viewers": 2447000
   },
   "prime": [
     {
-      "chan": "Antena3",
-      "prog": "EL HORMIGUERO <KARRA ELEJALDE-ALVARO CERVANTES>",
-      "share": 14.5,
-      "viewers": 17.520002
-    },
-    {
       "chan": "Telecinco",
-      "prog": "SUPERVIVIENTES ALL STARS EXPRESS",
-      "share": 8.1,
-      "viewers": 9.860005
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 12.5,
-      "viewers": 8.900007
+      "prog": "FIRST DATES",
+      "share": 9.5,
+      "viewers": 10.440002
     },
     {
       "chan": "La1",
-      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <JOSE IGNACIO GARCIA-JUAN LUIS CANO-GUILLERMO FESSER>",
-      "share": 11.4,
-      "viewers": 7.570009
+      "prog": "CUANTA GUERRA <EL GÜELITO SALVADOR Y LA UTOPIA QUE NO PUDO SER>",
+      "share": 9,
+      "viewers": 9.860004
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "¡DE VIERNES!",
+      "share": 13.9,
+      "viewers": 8.730006
+    },
+    {
+      "chan": "La1",
+      "prog": "EL PATRONATO.HISTERICAS,DESVIADAS,DESCARRIADAS",
+      "share": 9.7,
+      "viewers": 7.130008
     },
     {
       "chan": "La2",
       "prog": "CIFRAS Y LETRAS",
-      "share": 4.3,
-      "viewers": 0.551
+      "share": 4.4,
+      "viewers": 48.70001
     }
   ],
-  "consumoMin": 164,
+  "consumoMin": 156,
   "espectadoresTotales": {
-    "viewers": 27482000,
-    "percent": 57.8
+    "viewers": 26806000,
+    "percent": 56.4
   },
-  "updatedAt": "2026-11-07T02:40:41.821Z"
+  "updatedAt": "2026-11-07T09:54:42.295Z"
 }

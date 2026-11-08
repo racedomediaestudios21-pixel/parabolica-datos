@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "ranking": [
-      {
-        "name": "La 1",
-        "share": 18.8,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 12.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 9.3,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.9,
-        "color": "#39a935"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.2,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.4,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "el partido CROACIA-ESPAÑA de FUTBOL:UEFA NATIONS LEAGUE",
-      "chan": "La1",
-      "time": "20:45",
-      "viewers": 5313000,
-      "share": 39.3
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <JUDELINE>",
-        "share": 15.8,
-        "viewers": 18.180003
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 9.4,
-        "viewers": 12.720005
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 11.8,
-        "viewers": 7.780007
-      },
-      {
-        "chan": "La1",
-        "prog": "AL CIELO CON ELLA",
-        "share": 10.5,
-        "viewers": 7.310009
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "CODIGO 10",
-        "share": 11.4,
-        "viewers": 0.671
-      }
-    ],
-    "consumoMin": 167,
-    "espectadoresTotales": {
-      "viewers": 27745000,
-      "percent": 58.3
-    }
-  },
-  {
     "date": "2026-10-07",
     "ranking": [
       {
@@ -2657,6 +2567,90 @@
     "espectadoresTotales": {
       "viewers": 26806000,
       "percent": 56.4
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "ranking": [
+      {
+        "name": "Temáticas de Pago",
+        "share": 16.8,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Antena 3",
+        "share": 10.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 10.2,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 7.7,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 6.9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 5.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.1,
+        "color": "#3ecf8e"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+      "chan": "Antena3",
+      "time": "14:59",
+      "viewers": 1903000,
+      "share": 21.7
+    },
+    "minutoOro": {
+      "time": "14:57",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2077000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "LA RULETA DE LA SUERTE NOCHE",
+        "share": 9.4,
+        "viewers": 9.440003
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "CINE 5 ESTRELLAS <DEJA VU>",
+        "share": 7.7,
+        "viewers": 6.900005
+      },
+      {
+        "chan": "La1",
+        "prog": "MALAS LENGUAS NOCHE",
+        "share": 8.8,
+        "viewers": 5.910007
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "LASEXTA _XPLICA/.",
+        "share": 5.9,
+        "viewers": 41.60001
+      }
+    ],
+    "consumoMin": 160,
+    "espectadoresTotales": {
+      "viewers": 26580000,
+      "percent": 55.9
     }
   }
 ]

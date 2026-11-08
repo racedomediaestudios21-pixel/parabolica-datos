@@ -1,96 +1,85 @@
 {
   "ranking": [
     {
+      "name": "Temáticas de Pago",
+      "share": 16.8,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Antena 3",
-      "share": 13.1,
+      "share": 10.8,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 11.9,
+      "share": 10.2,
       "color": "#00a8e8"
     },
     {
-      "name": "Temáticas de Pago",
-      "share": 11.3,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Telecinco",
-      "share": 9.4,
-      "color": "#39a935"
-    },
-    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.5,
+      "share": 7.7,
       "color": "#e51c23"
     },
     {
-      "name": "Cuatro",
+      "name": "Telecinco",
       "share": 6.9,
+      "color": "#39a935"
+    },
+    {
+      "name": "Cuatro",
+      "share": 5.8,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
       "share": 5.1,
       "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3,
-      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-06",
+  "dataDate": null,
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
+    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2105000,
-    "share": 24.4
+    "time": "14:59",
+    "viewers": 1903000,
+    "share": 21.7
   },
   "minutoOro": {
-    "time": "21:04",
+    "time": "14:57",
     "chan": "Antena3",
-    "prog": "PASAPALABRA",
-    "viewers": 2447000
+    "prog": "LA RULETA DE LA SUERTE",
+    "viewers": 2077000
   },
   "prime": [
     {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 9.5,
-      "viewers": 10.440002
-    },
-    {
-      "chan": "La1",
-      "prog": "CUANTA GUERRA <EL GÜELITO SALVADOR Y LA UTOPIA QUE NO PUDO SER>",
-      "share": 9,
-      "viewers": 9.860004
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE NOCHE",
+      "share": 9.4,
+      "viewers": 9.440003
     },
     {
       "chan": "Telecinco",
-      "prog": "¡DE VIERNES!",
-      "share": 13.9,
-      "viewers": 8.730006
+      "prog": "CINE 5 ESTRELLAS <DEJA VU>",
+      "share": 7.7,
+      "viewers": 6.900005
     },
     {
       "chan": "La1",
-      "prog": "EL PATRONATO.HISTERICAS,DESVIADAS,DESCARRIADAS",
-      "share": 9.7,
-      "viewers": 7.130008
+      "prog": "MALAS LENGUAS NOCHE",
+      "share": 8.8,
+      "viewers": 5.910007
     },
     {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 4.4,
-      "viewers": 48.70001
+      "chan": "La Sexta",
+      "prog": "LASEXTA _XPLICA/.",
+      "share": 5.9,
+      "viewers": 41.60001
     }
   ],
-  "consumoMin": 156,
+  "consumoMin": 160,
   "espectadoresTotales": {
-    "viewers": 26806000,
-    "percent": 56.4
+    "viewers": 26580000,
+    "percent": 55.9
   },
-  "updatedAt": "2026-11-08T07:10:28.973Z"
+  "updatedAt": "2026-11-08T14:59:47.083Z"
 }

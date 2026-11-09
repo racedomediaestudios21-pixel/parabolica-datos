@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 13.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 13.4,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 9.9,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9.7,
-        "color": "#39a935"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.3,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.8,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2356000,
-      "share": 24.8
-    },
-    "minutoOro": {
-      "time": "14:56",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2558000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <DAVID BUSTAMANTE>",
-        "share": 14.1,
-        "viewers": 16.800002
-      },
-      {
-        "chan": "La1",
-        "prog": "ESPECIAL INFORMATIVO <MUERE MARICARMEN ABASCAL>",
-        "share": 11,
-        "viewers": 13.180004
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 14,
-        "viewers": 8.300006
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 5.3,
-        "viewers": 6.560009
-      },
-      {
-        "chan": "Antena3",
-        "prog": "LA MESA",
-        "share": 11.1,
-        "viewers": 0.633
-      }
-    ],
-    "consumoMin": 158,
-    "espectadoresTotales": {
-      "viewers": 26938000,
-      "percent": 56.6
-    }
-  },
-  {
     "date": "2026-10-08",
     "ranking": [
       {
@@ -2571,6 +2476,90 @@
   },
   {
     "date": "2026-11-07",
+    "ranking": [
+      {
+        "name": "Temáticas de Pago",
+        "share": 16.8,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Antena 3",
+        "share": 10.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 10.2,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 7.7,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Telecinco",
+        "share": 6.9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Cuatro",
+        "share": 5.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.1,
+        "color": "#3ecf8e"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+      "chan": "Antena3",
+      "time": "14:59",
+      "viewers": 1903000,
+      "share": 21.7
+    },
+    "minutoOro": {
+      "time": "14:57",
+      "chan": "Antena3",
+      "prog": "LA RULETA DE LA SUERTE",
+      "viewers": 2077000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "LA RULETA DE LA SUERTE NOCHE",
+        "share": 9.4,
+        "viewers": 9.440003
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "CINE 5 ESTRELLAS <DEJA VU>",
+        "share": 7.7,
+        "viewers": 6.900005
+      },
+      {
+        "chan": "La1",
+        "prog": "MALAS LENGUAS NOCHE",
+        "share": 8.8,
+        "viewers": 5.910007
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "LASEXTA _XPLICA/.",
+        "share": 5.9,
+        "viewers": 41.60001
+      }
+    ],
+    "consumoMin": 160,
+    "espectadoresTotales": {
+      "viewers": 26580000,
+      "percent": 55.9
+    }
+  },
+  {
+    "date": "2026-11-08",
     "ranking": [
       {
         "name": "Temáticas de Pago",

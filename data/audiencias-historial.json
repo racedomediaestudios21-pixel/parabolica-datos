@@ -2563,83 +2563,47 @@
     "ranking": [
       {
         "name": "Temáticas de Pago",
-        "share": 16.8,
+        "share": 18.4,
         "color": "#0a3d62"
       },
       {
-        "name": "Antena 3",
-        "share": 10.8,
-        "color": "#3ecf8e"
-      },
-      {
         "name": "La 1",
-        "share": 10.2,
+        "share": 10.6,
         "color": "#00a8e8"
       },
       {
-        "name": "Autonómicas (FORTA)",
-        "share": 7.7,
-        "color": "#e51c23"
+        "name": "Antena 3",
+        "share": 9.5,
+        "color": "#3ecf8e"
       },
       {
         "name": "Telecinco",
-        "share": 6.9,
+        "share": 7.9,
         "color": "#39a935"
       },
       {
+        "name": "Autonómicas (FORTA)",
+        "share": 7.3,
+        "color": "#e51c23"
+      },
+      {
         "name": "Cuatro",
-        "share": 5.8,
+        "share": 5.3,
         "color": "#3ecf8e"
       },
       {
         "name": "laSexta",
-        "share": 5.1,
+        "share": 4.9,
         "color": "#3ecf8e"
       }
     ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-      "chan": "Antena3",
-      "time": "14:59",
-      "viewers": 1903000,
-      "share": 21.7
-    },
-    "minutoOro": {
-      "time": "14:57",
-      "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE",
-      "viewers": 2077000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "LA RULETA DE LA SUERTE NOCHE",
-        "share": 9.4,
-        "viewers": 9.440003
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "CINE 5 ESTRELLAS <DEJA VU>",
-        "share": 7.7,
-        "viewers": 6.900005
-      },
-      {
-        "chan": "La1",
-        "prog": "MALAS LENGUAS NOCHE",
-        "share": 8.8,
-        "viewers": 5.910007
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "LASEXTA _XPLICA/.",
-        "share": 5.9,
-        "viewers": 41.60001
-      }
-    ],
-    "consumoMin": 160,
+    "masVisto": null,
+    "minutoOro": null,
+    "prime": [],
+    "consumoMin": 180,
     "espectadoresTotales": {
-      "viewers": 26580000,
-      "percent": 55.9
+      "viewers": 28214000,
+      "percent": 59.3
     }
   }
 ]

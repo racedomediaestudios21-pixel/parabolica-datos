@@ -1,49 +1,50 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 18.4,
-      "color": "#0a3d62"
-    },
-    {
       "name": "La 1",
-      "share": 10.6,
+      "share": 16.8,
       "color": "#00a8e8"
     },
     {
       "name": "Antena 3",
-      "share": 9.5,
+      "share": 12.7,
       "color": "#3ecf8e"
     },
     {
-      "name": "Telecinco",
-      "share": 7.9,
-      "color": "#39a935"
+      "name": "Temáticas de Pago",
+      "share": 8.7,
+      "color": "#0a3d62"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 7.3,
+      "share": 8.1,
       "color": "#e51c23"
     },
     {
-      "name": "Cuatro",
-      "share": 5.3,
-      "color": "#3ecf8e"
+      "name": "Telecinco",
+      "share": 7.7,
+      "color": "#39a935"
     },
     {
-      "name": "laSexta",
-      "share": 4.9,
+      "name": "Cuatro",
+      "share": 7.2,
       "color": "#3ecf8e"
     }
   ],
-  "dataDate": null,
-  "masVisto": null,
+  "dataDate": "2026-11-09",
+  "masVisto": {
+    "prog": "la emisión SANTIAGO ABASCAL de LA REVUELTA",
+    "chan": "La1",
+    "time": "22:03",
+    "viewers": 4815000,
+    "share": 33.6
+  },
   "minutoOro": null,
   "prime": [],
-  "consumoMin": 180,
+  "consumoMin": 179,
   "espectadoresTotales": {
-    "viewers": 28214000,
-    "percent": 59.3
+    "viewers": 29200000,
+    "percent": 61.4
   },
-  "updatedAt": "2026-11-10T08:16:44.379Z"
+  "updatedAt": "2026-11-10T16:57:57.120Z"
 }

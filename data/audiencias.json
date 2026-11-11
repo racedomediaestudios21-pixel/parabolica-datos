@@ -2,49 +2,90 @@
   "ranking": [
     {
       "name": "La 1",
-      "share": 16.8,
+      "share": 14.1,
       "color": "#00a8e8"
     },
     {
       "name": "Antena 3",
-      "share": 12.7,
+      "share": 13.7,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Cuatro",
+      "share": 9.1,
       "color": "#3ecf8e"
     },
     {
       "name": "Temáticas de Pago",
-      "share": 8.7,
+      "share": 8.8,
       "color": "#0a3d62"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 8.1,
-      "color": "#e51c23"
-    },
-    {
       "name": "Telecinco",
-      "share": 7.7,
+      "share": 8.6,
       "color": "#39a935"
     },
     {
-      "name": "Cuatro",
-      "share": 7.2,
+      "name": "Autonómicas (FORTA)",
+      "share": 8.3,
+      "color": "#e51c23"
+    },
+    {
+      "name": "laSexta",
+      "share": 5.6,
       "color": "#3ecf8e"
+    },
+    {
+      "name": "La 2",
+      "share": 3.3,
+      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-09",
+  "dataDate": "2026-11-10",
   "masVisto": {
-    "prog": "la emisión SANTIAGO ABASCAL de LA REVUELTA",
+    "prog": "la emisión ADA COLAU de LA REVUELTA",
     "chan": "La1",
-    "time": "22:03",
-    "viewers": 4815000,
-    "share": 33.6
+    "time": "22:02",
+    "viewers": 3050000,
+    "share": 22.9
   },
   "minutoOro": null,
-  "prime": [],
-  "consumoMin": 179,
+  "prime": [
+    {
+      "chan": "La1",
+      "prog": "LA REVUELTA <ADA COLAU>",
+      "share": 22.9,
+      "viewers": 30.500002
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "HORIZONTE",
+      "share": 12.8,
+      "viewers": 17.250004
+    },
+    {
+      "chan": "La1",
+      "prog": "LA CENA DE LOS IDIOTAS",
+      "share": 15.1,
+      "viewers": 12.130006
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "CODIGO 10",
+      "share": 13.4,
+      "viewers": 8.540008
+    },
+    {
+      "chan": "Telecinco",
+      "prog": "LA ISLA DE LAS TENTACIONES",
+      "share": 11.8,
+      "viewers": 82.70001
+    }
+  ],
+  "consumoMin": 175,
   "espectadoresTotales": {
-    "viewers": 29200000,
-    "percent": 61.4
+    "viewers": 27968000,
+    "percent": 58.8
   },
-  "updatedAt": "2026-11-11T02:41:39.246Z"
+  "updatedAt": "2026-11-11T10:41:46.728Z"
 }

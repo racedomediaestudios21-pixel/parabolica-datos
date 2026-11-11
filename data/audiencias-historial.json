@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 13.1,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 12,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 11.3,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9.2,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 6.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.3,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2052000,
-      "share": 23.7
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "LOS ARCHIVOS SECRETOS DEL NODO",
-        "share": 9.4,
-        "viewers": 9.820003
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 8.9,
-        "viewers": 9.250005
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "¡DE VIERNES!",
-        "share": 12.7,
-        "viewers": 7.740007
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "LASEXTA COLUMNA <EN TIENDAS Y EN CAMPAÑA:LA ULTIMA LLAVE DE SANCHEZ>",
-        "share": 5.2,
-        "viewers": 5.360009
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EQUIPO DE INVESTIGACION <EL TIMO DE LOS BILLETES DORADOS>",
-        "share": 5,
-        "viewers": 0.49
-      }
-    ],
-    "consumoMin": 148,
-    "espectadoresTotales": {
-      "viewers": 25559000,
-      "percent": 53.7
-    }
-  },
-  {
     "date": "2026-10-10",
     "ranking": [
       {
@@ -2558,6 +2468,96 @@
     "espectadoresTotales": {
       "viewers": 29200000,
       "percent": 61.4
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "ranking": [
+      {
+        "name": "La 1",
+        "share": 14.1,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Antena 3",
+        "share": 13.7,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Cuatro",
+        "share": 9.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 8.8,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 8.6,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.3,
+        "color": "#e51c23"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.6,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 3.3,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "la emisión ADA COLAU de LA REVUELTA",
+      "chan": "La1",
+      "time": "22:02",
+      "viewers": 3050000,
+      "share": 22.9
+    },
+    "minutoOro": null,
+    "prime": [
+      {
+        "chan": "La1",
+        "prog": "LA REVUELTA <ADA COLAU>",
+        "share": 22.9,
+        "viewers": 30.500002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 12.8,
+        "viewers": 17.250004
+      },
+      {
+        "chan": "La1",
+        "prog": "LA CENA DE LOS IDIOTAS",
+        "share": 15.1,
+        "viewers": 12.130006
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "CODIGO 10",
+        "share": 13.4,
+        "viewers": 8.540008
+      },
+      {
+        "chan": "Telecinco",
+        "prog": "LA ISLA DE LAS TENTACIONES",
+        "share": 11.8,
+        "viewers": 82.70001
+      }
+    ],
+    "consumoMin": 175,
+    "espectadoresTotales": {
+      "viewers": 27968000,
+      "percent": 58.8
     }
   }
 ]

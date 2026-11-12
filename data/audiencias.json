@@ -1,91 +1,91 @@
 {
   "ranking": [
     {
+      "name": "Antena 3",
+      "share": 15,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "La 1",
-      "share": 14.1,
+      "share": 12,
       "color": "#00a8e8"
     },
     {
-      "name": "Antena 3",
-      "share": 13.7,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Cuatro",
-      "share": 9.1,
-      "color": "#3ecf8e"
-    },
-    {
-      "name": "Temáticas de Pago",
-      "share": 8.8,
-      "color": "#0a3d62"
-    },
-    {
       "name": "Telecinco",
-      "share": 8.6,
+      "share": 9.8,
       "color": "#39a935"
     },
     {
+      "name": "Temáticas de Pago",
+      "share": 9.2,
+      "color": "#0a3d62"
+    },
+    {
+      "name": "Cuatro",
+      "share": 7.9,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.3,
+      "share": 7.3,
       "color": "#e51c23"
     },
     {
       "name": "laSexta",
-      "share": 5.6,
+      "share": 6.1,
       "color": "#3ecf8e"
-    },
-    {
-      "name": "La 2",
-      "share": 3.3,
-      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-10",
+  "dataDate": null,
   "masVisto": {
-    "prog": "la emisión ADA COLAU de LA REVUELTA",
-    "chan": "La1",
-    "time": "22:02",
-    "viewers": 3050000,
-    "share": 22.9
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2773000,
+    "share": 24.4
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "21:04",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 3281000
+  },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "LA REVUELTA <ADA COLAU>",
-      "share": 22.9,
-      "viewers": 30.500002
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE",
-      "share": 12.8,
-      "viewers": 17.250004
-    },
-    {
-      "chan": "La1",
-      "prog": "LA CENA DE LOS IDIOTAS",
-      "share": 15.1,
-      "viewers": 12.130006
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "CODIGO 10",
-      "share": 13.4,
-      "viewers": 8.540008
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <ALBERTO NUÑEZ FEIJOO>",
+      "share": 19,
+      "viewers": 24.550002
     },
     {
       "chan": "Telecinco",
-      "prog": "LA ISLA DE LAS TENTACIONES",
-      "share": 11.8,
-      "viewers": 82.70001
+      "prog": "FIRST DATES",
+      "share": 9.3,
+      "viewers": 12.040004
+    },
+    {
+      "chan": "Antena3",
+      "prog": "LA MESA",
+      "share": 14.3,
+      "viewers": 8.480007
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4.4,
+      "viewers": 5.970009
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EL BLOCKBUSTER <LLAMAN A LA PUERTA(2023)>",
+      "share": 6.4,
+      "viewers": 0.456
     }
   ],
-  "consumoMin": 175,
+  "consumoMin": 192,
   "espectadoresTotales": {
-    "viewers": 27968000,
-    "percent": 58.8
+    "viewers": 29406000,
+    "percent": 61.8
   },
-  "updatedAt": "2026-11-12T01:27:30.873Z"
+  "updatedAt": "2026-11-12T09:41:13.523Z"
 }

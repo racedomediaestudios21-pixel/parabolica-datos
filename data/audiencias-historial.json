@@ -2476,90 +2476,84 @@
     "date": "2026-11-12",
     "ranking": [
       {
-        "name": "Antena 3",
-        "share": 15,
-        "color": "#3ecf8e"
-      },
-      {
         "name": "La 1",
-        "share": 12,
+        "share": 17.9,
         "color": "#00a8e8"
       },
       {
+        "name": "Antena 3",
+        "share": 12.6,
+        "color": "#3ecf8e"
+      },
+      {
         "name": "Telecinco",
-        "share": 9.8,
+        "share": 9.7,
         "color": "#39a935"
       },
       {
         "name": "Temáticas de Pago",
-        "share": 9.2,
+        "share": 8.6,
         "color": "#0a3d62"
       },
       {
-        "name": "Cuatro",
-        "share": 7.9,
-        "color": "#3ecf8e"
-      },
-      {
         "name": "Autonómicas (FORTA)",
-        "share": 7.3,
+        "share": 8.3,
         "color": "#e51c23"
       },
       {
-        "name": "laSexta",
-        "share": 6.1,
+        "name": "Cuatro",
+        "share": 7.8,
         "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 2.8,
+        "color": "#ff7a00"
       }
     ],
     "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1",
-      "chan": "Antena3",
-      "time": "14:58",
-      "viewers": 2773000,
-      "share": 24.4
+      "prog": "el partido R.CHECA-ESPAÑA de FUTBOL:UEFA NATIONS LEAGUE",
+      "chan": "La1",
+      "time": "20:46",
+      "viewers": 4139000,
+      "share": 30.9
     },
-    "minutoOro": {
-      "time": "21:04",
-      "chan": "Antena3",
-      "prog": "PASAPALABRA",
-      "viewers": 3281000
-    },
+    "minutoOro": null,
     "prime": [
       {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <ALBERTO NUÑEZ FEIJOO>",
-        "share": 19,
-        "viewers": 24.550002
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "FIRST DATES",
-        "share": 9.3,
-        "viewers": 12.040004
+        "chan": "La1",
+        "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <PEDRO SANCHEZ>",
+        "share": 25.7,
+        "viewers": 28.520003
       },
       {
         "chan": "Antena3",
-        "prog": "LA MESA",
-        "share": 14.3,
-        "viewers": 8.480007
+        "prog": "EL HORMIGUERO <EDUARD FERNANDEZ>",
+        "share": 11.2,
+        "viewers": 15.060005
       },
       {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 4.4,
-        "viewers": 5.970009
+        "chan": "La1",
+        "prog": "MAS EL PERRO ANDALUZ BY MANU SANCHEZ <CHAMBAO-ANTONIO REGUERA>",
+        "share": 17.2,
+        "viewers": 10.830009
       },
       {
-        "chan": "Cuatro",
-        "prog": "EL BLOCKBUSTER <LLAMAN A LA PUERTA(2023)>",
-        "share": 6.4,
-        "viewers": 0.456
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 4.9,
+        "viewers": 0.668
       }
     ],
-    "consumoMin": 192,
+    "consumoMin": 170,
     "espectadoresTotales": {
-      "viewers": 29406000,
-      "percent": 61.8
+      "viewers": 28070000,
+      "percent": 59
     }
   }
 ]

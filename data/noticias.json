@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "t": "Netflix recupera ‘El crimen de Pazos’",
+      "u": "https://laparabolica.tv/el-crimen-de-pazos-netflix-historia-real-isabel-fuentes/"
+    },
+    {
+      "t": "‘Victorian Psycho’ nos hace viajar hasta la Inglaterra del siglo XIX de la mano de  Maika Monroe",
+      "u": "https://laparabolica.tv/victorian-psycho-maika-monroe-estreno-cines/"
+    },
+    {
       "t": "La serie italiana ‘El claroscuro’ llega a Netflix",
       "u": "https://laparabolica.tv/el-claroscuro-netflix-sinopsis-reparto-estreno/"
     },
@@ -15,14 +23,6 @@
     {
       "t": "J Kbello estrena «ANEMOIA», su primer disco, y nos descubre su lado más personal",
       "u": "https://laparabolica.tv/j-kbello-anemoia-primer-disco/"
-    },
-    {
-      "t": "Novedades musicales del 6 de noviembre: Soraya, Zahara, Naiara, Los Caños y Lía Martí ponen música al viernes",
-      "u": "https://laparabolica.tv/novedades-musicales-del-6-de-noviembre-soraya-zahara-naiara-los-canos-y-lia-marti-ponen-musica-al-viernes/"
-    },
-    {
-      "t": "Spice Girls: treinta años del ‘Girl Power’",
-      "u": "https://laparabolica.tv/spice-girls-the-singles-collection-30-aniversario/"
     },
     {
       "t": "La Séptima estrena su programación el 5 de noviembre",
@@ -41,5 +41,5 @@
       "u": "https://laparabolica.tv/estreno-la-revuelta-hormiguero-masterchef-isla-tentaciones-7-septiembre/"
     }
   ],
-  "updatedAt": "2026-11-13T07:47:36.868Z"
+  "updatedAt": "2026-11-13T16:07:58.559Z"
 }

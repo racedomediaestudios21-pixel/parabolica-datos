@@ -7,32 +7,32 @@
     },
     {
       "name": "La 1",
-      "share": 13.1,
+      "share": 12.7,
       "color": "#00a8e8"
     },
     {
-      "name": "Telecinco",
-      "share": 9.6,
-      "color": "#39a935"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 9.2,
+      "share": 9.6,
       "color": "#0a3d62"
     },
     {
+      "name": "Telecinco",
+      "share": 8.7,
+      "color": "#39a935"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.5,
+      "share": 8.4,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 7.6,
+      "share": 8.1,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.8,
+      "share": 5.6,
       "color": "#3ecf8e"
     },
     {
@@ -41,56 +41,56 @@
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-16",
+  "dataDate": "2026-11-17",
   "masVisto": {
     "prog": "ANTENA 3 NOTICIAS 2",
     "chan": "Antena3",
     "time": "21:04",
-    "viewers": 2325000,
-    "share": 18.3
+    "viewers": 2181000,
+    "share": 17.9
   },
   "minutoOro": {
-    "time": "21:03",
+    "time": "21:01",
     "chan": "Antena3",
     "prog": "PASAPALABRA",
-    "viewers": 2824000
+    "viewers": 2538000
   },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <CARMEN MACHI>",
-      "share": 15.8,
-      "viewers": 19.700002
+      "prog": "EL HORMIGUERO <ESTOPA>",
+      "share": 15.4,
+      "viewers": 18.550002
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 11,
-      "viewers": 14.020004
+      "share": 11.3,
+      "viewers": 13.940004
     },
     {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 14.3,
-      "viewers": 9.620006
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 8.2,
+      "viewers": 10.010006
     },
     {
       "chan": "La Sexta",
       "prog": "EL INTERMEDIO",
       "share": 6.5,
-      "viewers": 8.370008
+      "viewers": 8.010008
     },
     {
-      "chan": "La2",
-      "prog": "CIFRAS Y LETRAS",
-      "share": 4.4,
-      "viewers": 58.40001
+      "chan": "Cuatro",
+      "prog": "CODIGO 10",
+      "share": 10.5,
+      "viewers": 62.70001
     }
   ],
-  "consumoMin": 168,
+  "consumoMin": 167,
   "espectadoresTotales": {
-    "viewers": 27503000,
-    "percent": 57.8
+    "viewers": 27384000,
+    "percent": 57.6
   },
-  "updatedAt": "2026-11-18T04:08:18.575Z"
+  "updatedAt": "2026-11-18T13:48:07.417Z"
 }

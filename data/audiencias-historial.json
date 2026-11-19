@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-18",
-    "ranking": [
-      {
-        "name": "Temáticas de Pago",
-        "share": 15.9,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "La 1",
-        "share": 12.1,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 9.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.2,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.2,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 6.4,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 2.6,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
-      "chan": "Antena3",
-      "time": "14:59",
-      "viewers": 2007000,
-      "share": 20.6
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "PELICULA DE LA SEMANA <AGUAS OSCURAS>",
-        "share": 10.8,
-        "viewers": 11.650003
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EL SECRETO",
-        "share": 10.1,
-        "viewers": 8.630005
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "SALVADOS <CEUTA,EXAMEN AL GOBIERNO>",
-        "share": 4.3,
-        "viewers": 5.410007
-      },
-      {
-        "chan": "La2",
-        "prog": "D.REG(ORBITA LAIKA)",
-        "share": 3.3,
-        "viewers": 3.670009
-      },
-      {
-        "chan": "La2",
-        "prog": "IMPRESCINDIBLES",
-        "share": 2.6,
-        "viewers": 0.333
-      }
-    ],
-    "consumoMin": 181,
-    "espectadoresTotales": {
-      "viewers": 27736000,
-      "percent": 58.3
-    }
-  },
-  {
     "date": "2026-10-19",
     "ranking": [
       {
@@ -2572,6 +2482,96 @@
     "espectadoresTotales": {
       "viewers": 27384000,
       "percent": 57.6
+    }
+  },
+  {
+    "date": "2026-11-18",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.5,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9.3,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.5,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.5,
+        "color": "#3ecf8e"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 2",
+      "chan": "Antena3",
+      "time": "21:04",
+      "viewers": 2160000,
+      "share": 18.1
+    },
+    "minutoOro": {
+      "time": "21:02",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2610000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <ARTURO PEREZ-REVERTE>",
+        "share": 14.4,
+        "viewers": 17.850002
+      },
+      {
+        "chan": "La1",
+        "prog": "D.REG(LA REVUELTA) <ALBERTO-DAVID>",
+        "share": 11.6,
+        "viewers": 13.800004
+      },
+      {
+        "chan": "La1",
+        "prog": "D.REG(EL PERRO ANDALUZ BY MANU SANCHEZ) <ANGELS BARCELO-MIGUEL RIOS>",
+        "share": 15.4,
+        "viewers": 10.000006
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 6.3,
+        "viewers": 7.830008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4.5,
+        "viewers": 56.90001
+      }
+    ],
+    "consumoMin": 166,
+    "espectadoresTotales": {
+      "viewers": 27159000,
+      "percent": 57.1
     }
   }
 ]

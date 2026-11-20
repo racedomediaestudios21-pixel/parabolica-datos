@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "ranking": [
-      {
-        "name": "La 1",
-        "share": 13.8,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 13.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 10,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 9.9,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 9,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.8,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.5,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.7,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 2",
-      "chan": "Antena3",
-      "time": "21:04",
-      "viewers": 2363000,
-      "share": 19.5
-    },
-    "minutoOro": {
-      "time": "21:03",
-      "chan": "Antena3",
-      "prog": "PASAPALABRA",
-      "viewers": 2635000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <PEPE NAVARRO Y FLORENTINO FERNANDEZ>",
-        "share": 15.4,
-        "viewers": 18.760002
-      },
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <JOHN MCENROE-MARTIN DE LA PUENTE>",
-        "share": 10.5,
-        "viewers": 12.840004
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 14,
-        "viewers": 9.240006
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 12.7,
-        "viewers": 7.580008
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 4.6,
-        "viewers": 59.20001
-      }
-    ],
-    "consumoMin": 165,
-    "espectadoresTotales": {
-      "viewers": 27268000,
-      "percent": 57.3
-    }
-  },
-  {
     "date": "2026-10-20",
     "ranking": [
       {
@@ -2486,6 +2391,96 @@
   },
   {
     "date": "2026-11-18",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.8,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 12.5,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 10,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9.3,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.5,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.1,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.5,
+        "color": "#3ecf8e"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 2",
+      "chan": "Antena3",
+      "time": "21:04",
+      "viewers": 2160000,
+      "share": 18.1
+    },
+    "minutoOro": {
+      "time": "21:02",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2610000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <ARTURO PEREZ-REVERTE>",
+        "share": 14.4,
+        "viewers": 17.850002
+      },
+      {
+        "chan": "La1",
+        "prog": "D.REG(LA REVUELTA) <ALBERTO-DAVID>",
+        "share": 11.6,
+        "viewers": 13.800004
+      },
+      {
+        "chan": "La1",
+        "prog": "D.REG(EL PERRO ANDALUZ BY MANU SANCHEZ) <ANGELS BARCELO-MIGUEL RIOS>",
+        "share": 15.4,
+        "viewers": 10.000006
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 6.3,
+        "viewers": 7.830008
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4.5,
+        "viewers": 56.90001
+      }
+    ],
+    "consumoMin": 166,
+    "espectadoresTotales": {
+      "viewers": 27159000,
+      "percent": 57.1
+    }
+  },
+  {
+    "date": "2026-11-19",
     "ranking": [
       {
         "name": "Antena 3",

@@ -2484,89 +2484,83 @@
     "ranking": [
       {
         "name": "Antena 3",
-        "share": 13.8,
+        "share": 14.6,
         "color": "#3ecf8e"
       },
       {
         "name": "La 1",
-        "share": 12.5,
+        "share": 12.1,
         "color": "#00a8e8"
       },
       {
         "name": "Temáticas de Pago",
-        "share": 10,
+        "share": 8.6,
         "color": "#0a3d62"
       },
       {
-        "name": "Telecinco",
-        "share": 9.3,
-        "color": "#39a935"
+        "name": "Cuatro",
+        "share": 8.6,
+        "color": "#3ecf8e"
       },
       {
         "name": "Autonómicas (FORTA)",
-        "share": 8.5,
+        "share": 8.1,
         "color": "#e51c23"
       },
       {
-        "name": "Cuatro",
-        "share": 7.1,
-        "color": "#3ecf8e"
+        "name": "Telecinco",
+        "share": 7.9,
+        "color": "#39a935"
       },
       {
         "name": "laSexta",
-        "share": 5.5,
+        "share": 5.1,
         "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 5,
+        "color": "#ff7a00"
       }
     ],
     "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 2",
+      "prog": "CARA A CARA.26",
       "chan": "Antena3",
-      "time": "21:04",
-      "viewers": 2160000,
-      "share": 18.1
+      "time": "22:00",
+      "viewers": 2461000,
+      "share": 17.1
     },
-    "minutoOro": {
-      "time": "21:02",
-      "chan": "Antena3",
-      "prog": "PASAPALABRA",
-      "viewers": 2610000
-    },
+    "minutoOro": null,
     "prime": [
       {
         "chan": "Antena3",
-        "prog": "EL HORMIGUERO <ARTURO PEREZ-REVERTE>",
-        "share": 14.4,
-        "viewers": 17.850002
+        "prog": "CARA A CARA.26",
+        "share": 17.1,
+        "viewers": 24.610002
       },
       {
         "chan": "La1",
-        "prog": "D.REG(LA REVUELTA) <ALBERTO-DAVID>",
-        "share": 11.6,
-        "viewers": 13.800004
+        "prog": "CARA A CARA.26",
+        "share": 15.1,
+        "viewers": 21.680004
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "CARA A CARA.26",
+        "share": 8.9,
+        "viewers": 12.730006
       },
       {
         "chan": "La1",
-        "prog": "D.REG(EL PERRO ANDALUZ BY MANU SANCHEZ) <ANGELS BARCELO-MIGUEL RIOS>",
-        "share": 15.4,
-        "viewers": 10.000006
-      },
-      {
-        "chan": "La Sexta",
-        "prog": "EL INTERMEDIO",
-        "share": 6.3,
-        "viewers": 7.830008
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 4.5,
-        "viewers": 56.90001
+        "prog": "LA GRAN DECISION",
+        "share": 11.3,
+        "viewers": 11.590009
       }
     ],
-    "consumoMin": 166,
+    "consumoMin": 173,
     "espectadoresTotales": {
-      "viewers": 27159000,
-      "percent": 57.1
+      "viewers": 28320000,
+      "percent": 59.5
     }
   }
 ]

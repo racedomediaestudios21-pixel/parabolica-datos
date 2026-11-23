@@ -2,84 +2,85 @@
   "ranking": [
     {
       "name": "Temáticas de Pago",
-      "share": 17.4,
+      "share": 16.4,
       "color": "#0a3d62"
     },
     {
       "name": "Antena 3",
-      "share": 10.2,
+      "share": 10.8,
       "color": "#3ecf8e"
     },
     {
       "name": "La 1",
-      "share": 9.6,
+      "share": 10.1,
       "color": "#00a8e8"
     },
     {
-      "name": "Autonómicas (FORTA)",
-      "share": 7.2,
-      "color": "#e51c23"
-    },
-    {
       "name": "Telecinco",
-      "share": 7.1,
+      "share": 7.7,
       "color": "#39a935"
     },
     {
+      "name": "Autonómicas (FORTA)",
+      "share": 7.6,
+      "color": "#e51c23"
+    },
+    {
       "name": "Cuatro",
-      "share": 5.9,
+      "share": 6.4,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 5.1,
+      "share": 4.9,
       "color": "#3ecf8e"
     }
   ],
-  "dataDate": null,
+  "dataDate": "2026-11-22",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA",
+    "prog": "ANTENA 3 NOTICIAS 2 FIN DE SEMANA",
     "chan": "Antena3",
-    "time": "14:59",
-    "viewers": 1684000,
-    "share": 19.2
+    "time": "20:59",
+    "viewers": 1789000,
+    "share": 14.2
   },
-  "minutoOro": {
-    "time": "14:57",
-    "chan": "Antena3",
-    "prog": "LA RULETA DE LA SUERTE",
-    "viewers": 1857000
-  },
+  "minutoOro": null,
   "prime": [
     {
+      "chan": "La1",
+      "prog": "PELICULA DE LA SEMANA <EL ESTRANGULADOR DE BOSTON(2023)>",
+      "share": 11.2,
+      "viewers": 12.350002
+    },
+    {
       "chan": "Antena3",
-      "prog": "LA RULETA DE LA SUERTE NOCHE",
-      "share": 9.2,
-      "viewers": 9.130002
+      "prog": "EL SECRETO",
+      "share": 12,
+      "viewers": 9.860004
     },
     {
-      "chan": "La1",
-      "prog": "INFORME SEMANAL",
-      "share": 8.1,
-      "viewers": 8.540004
+      "chan": "Cuatro",
+      "prog": "CUARTO MILENIO",
+      "share": 6.6,
+      "viewers": 7.270006
     },
     {
-      "chan": "La1",
-      "prog": "MALAS LENGUAS NOCHE",
-      "share": 9,
-      "viewers": 6.230006
+      "chan": "TV3",
+      "prog": "TELENOTICIES VESPRE",
+      "share": 22.9,
+      "viewers": 4.220008
     },
     {
       "chan": "La Sexta",
-      "prog": "LASEXTA _XPLICA/.",
-      "share": 6.1,
-      "viewers": 4.350008
+      "prog": "SALVADOS <ELVIRA>",
+      "share": 4,
+      "viewers": 38.80001
     }
   ],
-  "consumoMin": 162,
+  "consumoMin": 178,
   "espectadoresTotales": {
-    "viewers": 26093000,
-    "percent": 54.9
+    "viewers": 27990000,
+    "percent": 58.8
   },
-  "updatedAt": "2026-11-23T00:45:07.954Z"
+  "updatedAt": "2026-11-23T08:53:57.187Z"
 }

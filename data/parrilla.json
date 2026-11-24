@@ -2,12 +2,7 @@
   "channels": {
     "la1": [
       {
-        "t": "01:25",
-        "p": "Caminos desesperados",
-        "g": "Programa"
-      },
-      {
-        "t": "03:00",
+        "t": "01:00",
         "p": "Noticias 24 horas",
         "g": "Informativo"
       },
@@ -77,40 +72,55 @@
         "g": "Programa"
       },
       {
-        "t": "20:45",
+        "t": "20:25",
+        "p": "Aquí la Tierra",
+        "g": "Programa"
+      },
+      {
+        "t": "20:55",
         "p": "Telediario 2",
         "g": "Informativo"
       },
       {
-        "t": "22:00",
-        "p": "29N. Debate a ocho",
+        "t": "21:50",
+        "p": "Deportes 2",
+        "g": "Deportivo"
+      },
+      {
+        "t": "21:55",
+        "p": "La Revuelta",
         "g": "Programa"
       },
       {
-        "t": "23:30",
-        "p": "La gran decisión",
+        "t": "23:15",
+        "p": "La cena de los idiotas",
         "g": "Programa"
       }
     ],
     "la2": [
       {
         "t": "00:15",
-        "p": "Cachitos de hierro y cromo",
+        "p": "El estrangulador de Boston",
         "g": "Programa"
       },
       {
-        "t": "01:15",
-        "p": "Tesoros de la tele",
+        "t": "02:00",
+        "p": "Los conciertos de Radio 3",
         "g": "Programa"
       },
       {
-        "t": "03:10",
-        "p": "Tesoros de la tele",
+        "t": "02:30",
+        "p": "La piel fría",
         "g": "Programa"
       },
       {
-        "t": "05:05",
-        "p": "Zoom tendencias",
+        "t": "04:15",
+        "p": "Las rutas de Verónica",
+        "g": "Programa"
+      },
+      {
+        "t": "05:10",
+        "p": "¡Qué animal!",
         "g": "Programa"
       },
       {
@@ -130,27 +140,27 @@
       },
       {
         "t": "06:55",
-        "p": "Pipper en ruta",
+        "p": "La 2 express",
         "g": "Programa"
       },
       {
-        "t": "07:20",
-        "p": "¡Qué animal!",
+        "t": "07:00",
+        "p": "Pueblo de Dios",
         "g": "Programa"
       },
       {
-        "t": "07:40",
-        "p": "De seda y hierro",
+        "t": "07:30",
+        "p": "Yo soy de FP",
         "g": "Programa"
       },
       {
-        "t": "08:05",
-        "p": "Descubrir",
+        "t": "08:00",
+        "p": "La asombrosa aventura estadounidense de George",
         "g": "Programa"
       },
       {
-        "t": "09:00",
-        "p": "Castillos de leyenda",
+        "t": "08:50",
+        "p": "Agrosfera",
         "g": "Programa"
       },
       {
@@ -165,22 +175,17 @@
       },
       {
         "t": "10:55",
-        "p": "La 2 express",
+        "p": "Zoom tendencias",
         "g": "Programa"
       },
       {
-        "t": "11:00",
-        "p": "La Jayona, un nuevo mundo enterrado",
-        "g": "Programa"
-      },
-      {
-        "t": "11:25",
-        "p": "El western de La 2: El jinete solitario",
+        "t": "11:20",
+        "p": "El western de La 2: Tequila",
         "g": "Programa"
       },
       {
         "t": "12:45",
-        "p": "El western de La 2: Tepepa",
+        "p": "El western de La 2: Joaquín Murrieta",
         "g": "Programa"
       },
       {
@@ -189,17 +194,17 @@
         "g": "Programa"
       },
       {
-        "t": "15:30",
+        "t": "15:35",
         "p": "Saber y ganar",
         "g": "Programa"
       },
       {
-        "t": "16:20",
+        "t": "16:25",
         "p": "Grandes documentales",
         "g": "Programa"
       },
       {
-        "t": "17:20",
+        "t": "17:25",
         "p": "Grandes documentales",
         "g": "Programa"
       },
@@ -229,15 +234,15 @@
         "g": "Programa"
       },
       {
-        "t": "22:30",
-        "p": "Días de  El último refugio",
+        "t": "22:35",
+        "p": "Historias lamentables",
         "g": "Programa"
       }
     ],
     "ant3": [
       {
-        "t": "00:15",
-        "p": "El secreto",
+        "t": "00:40",
+        "p": "En tierra lejana",
         "g": "Programa"
       },
       {
@@ -343,17 +348,17 @@
     ],
     "cuatro": [
       {
-        "t": "00:00",
-        "p": "El Chiringuito",
+        "t": "02:00",
+        "p": "Sportium Game Show",
         "g": "Programa"
       },
       {
-        "t": "02:15",
-        "p": "Desde el Estadio Banorte.",
+        "t": "02:40",
+        "p": "En el punto de mira",
         "g": "Programa"
       },
       {
-        "t": "05:15",
+        "t": "03:45",
         "p": "Puro Cuatro",
         "g": "Programa"
       },
@@ -418,12 +423,12 @@
         "g": "Informativo"
       },
       {
-        "t": "20:50",
+        "t": "20:45",
         "p": "ElDesmarque Cuatro",
         "g": "Programa"
       },
       {
-        "t": "21:00",
+        "t": "20:55",
         "p": "El tiempo",
         "g": "Meteorológico"
       },
@@ -434,7 +439,7 @@
       },
       {
         "t": "23:00",
-        "p": "El Comité",
+        "p": "Código 10",
         "g": "Programa"
       }
     ],
@@ -535,54 +540,54 @@
         "g": "Informativo"
       },
       {
-        "t": "21:40",
+        "t": "21:30",
         "p": "ElDesmarque Telecinco",
         "g": "Programa"
       },
       {
-        "t": "21:50",
+        "t": "21:40",
         "p": "El tiempo",
         "g": "Meteorológico"
       },
       {
-        "t": "22:00",
+        "t": "21:50",
         "p": "First Dates",
         "g": "Programa"
       },
       {
         "t": "23:00",
-        "p": "El debate de las tentaciones",
+        "p": "La que se avecina",
         "g": "Programa"
       }
     ],
     "lasexta": [
       {
-        "t": "00:50",
-        "p": "Salvados",
+        "t": "01:00",
+        "p": "La comunidad",
         "g": "Programa"
       },
       {
-        "t": "02:00",
+        "t": "03:05",
         "p": "La casa de juego de Pokerstars",
         "g": "Programa"
       },
       {
-        "t": "02:40",
+        "t": "03:45",
         "p": "Mega casino live experience",
         "g": "Programa"
       },
       {
-        "t": "03:00",
+        "t": "04:00",
         "p": "Sportium Game Show",
         "g": "Programa"
       },
       {
-        "t": "03:40",
+        "t": "04:40",
         "p": "Espacio promocional.",
         "g": "Programa"
       },
       {
-        "t": "04:00",
+        "t": "05:00",
         "p": "Espacio promocional de venta.",
         "g": "Programa"
       },
@@ -663,43 +668,43 @@
       },
       {
         "t": "23:00",
-        "p": "Marlowe",
+        "p": "Especial El objetivo",
         "g": "Programa"
       }
     ],
     "fdf": [
       {
-        "t": "00:59",
+        "t": "00:44",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "02:05",
+        "t": "02:04",
         "p": "Sportium Game Show",
         "g": "Programa"
       },
       {
-        "t": "02:46",
+        "t": "02:45",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "03:04",
+        "t": "04:21",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "04:38",
-        "p": "La que se avecina",
+        "t": "05:47",
+        "p": "El club de los mandangas",
         "g": "Programa"
       },
       {
-        "t": "06:04",
+        "t": "06:13",
         "p": "Love Shopping TV FDF",
         "g": "Programa"
       },
       {
-        "t": "06:34",
+        "t": "06:43",
         "p": "Miramimúsica",
         "g": "Programa"
       },
@@ -709,94 +714,84 @@
         "g": "Programa"
       },
       {
-        "t": "07:07",
+        "t": "07:12",
         "p": "Love Shopping TV FDF",
         "g": "Programa"
       },
       {
-        "t": "07:37",
+        "t": "07:42",
         "p": "Aída",
         "g": "Programa"
       },
       {
-        "t": "08:27",
+        "t": "08:38",
         "p": "Aída",
         "g": "Programa"
       },
       {
-        "t": "09:23",
+        "t": "09:41",
         "p": "Aída",
         "g": "Programa"
       },
       {
-        "t": "10:22",
+        "t": "10:48",
         "p": "Aída",
         "g": "Programa"
       },
       {
-        "t": "11:22",
+        "t": "11:49",
         "p": "Aída",
         "g": "Programa"
       },
       {
-        "t": "12:27",
+        "t": "12:55",
         "p": "Aída",
         "g": "Programa"
       },
       {
-        "t": "13:46",
+        "t": "14:03",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "15:32",
+        "t": "15:57",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "17:28",
+        "t": "17:48",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "19:10",
+        "t": "19:37",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
-        "t": "21:02",
+        "t": "21:06",
         "p": "La que se avecina",
         "g": "Programa"
       },
       {
         "t": "22:55",
-        "p": "Los mercenarios",
+        "p": "A Working Man",
         "g": "Programa"
       }
     ],
     "neox": [
       {
-        "t": "01:10",
-        "p": "El señor de los anillos: los anillos de poder",
-        "g": "Programa"
-      },
-      {
-        "t": "02:20",
-        "p": "Adar y su ejército marchan sobre Ostirith.",
-        "g": "Programa"
-      },
-      {
-        "t": "03:30",
+        "t": "02:15",
         "p": "European Poker Tour",
         "g": "Programa"
       },
       {
-        "t": "04:00",
+        "t": "02:40",
         "p": "Sportium Game Show",
         "g": "Programa"
       },
       {
-        "t": "04:45",
+        "t": "03:20",
         "p": "Minutos musicales",
         "g": "Programa"
       },
@@ -806,200 +801,200 @@
         "g": "Programa"
       },
       {
-        "t": "10:55",
+        "t": "10:50",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "11:22",
+        "t": "11:17",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "11:49",
+        "t": "11:44",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "12:16",
+        "t": "12:11",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "12:43",
+        "t": "12:38",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "13:10",
+        "t": "13:05",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "13:37",
+        "t": "13:32",
         "p": "Friends",
         "g": "Programa"
       },
       {
-        "t": "14:05",
+        "t": "14:00",
         "p": "Los Simpson",
         "g": "Programa"
       },
       {
-        "t": "14:30",
+        "t": "14:25",
         "p": "Los Simpson",
         "g": "Programa"
       },
       {
-        "t": "14:55",
+        "t": "14:50",
         "p": "Los Simpson",
         "g": "Programa"
       },
       {
-        "t": "15:20",
+        "t": "15:15",
         "p": "Los Simpson",
         "g": "Programa"
       },
       {
-        "t": "15:45",
+        "t": "15:40",
         "p": "Los Simpson",
         "g": "Programa"
       },
       {
-        "t": "16:10",
+        "t": "16:05",
         "p": "Los Simpson",
         "g": "Programa"
       },
       {
-        "t": "16:35",
+        "t": "16:30",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "16:57",
+        "t": "16:52",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "17:19",
+        "t": "17:14",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "17:41",
+        "t": "17:36",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "18:03",
+        "t": "17:58",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "18:25",
+        "t": "18:20",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "18:47",
+        "t": "18:42",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "19:09",
+        "t": "19:04",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "19:31",
+        "t": "19:26",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "19:53",
+        "t": "19:48",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "20:15",
+        "t": "20:10",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "20:37",
+        "t": "20:32",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
-        "t": "20:59",
+        "t": "20:54",
         "p": "The Big Bang Theory",
         "g": "Programa"
       },
       {
         "t": "21:15",
-        "p": "Navy, investigación criminal",
+        "p": "Chicago P.D.",
         "g": "Programa"
       },
       {
         "t": "22:05",
-        "p": "Navy, investigación criminal",
+        "p": "Chicago P.D.",
         "g": "Programa"
       },
       {
         "t": "22:55",
-        "p": "Navy, investigación criminal",
+        "p": "Chicago P.D.",
         "g": "Programa"
       },
       {
         "t": "23:45",
-        "p": "Navy, investigación criminal",
+        "p": "Chicago P.D.",
         "g": "Programa"
       }
     ],
     "divinity": [
       {
-        "t": "00:05",
-        "p": "Fire Country",
+        "t": "00:30",
+        "p": "Chicago Med",
         "g": "Programa"
       },
       {
-        "t": "00:55",
-        "p": "Chicago Fire",
+        "t": "01:20",
+        "p": "Chicago Med",
         "g": "Programa"
       },
       {
-        "t": "01:45",
-        "p": "Chicago Fire",
+        "t": "02:05",
+        "p": "Chicago Med",
         "g": "Programa"
       },
       {
-        "t": "02:30",
-        "p": "Chicago Fire",
+        "t": "02:50",
+        "p": "Chicago Med",
         "g": "Programa"
       },
       {
-        "t": "03:15",
-        "p": "Chicago Fire",
+        "t": "03:35",
+        "p": "Chicago Med",
         "g": "Programa"
       },
       {
-        "t": "03:55",
-        "p": "Chicago Fire",
+        "t": "04:20",
+        "p": "Chicago Med",
         "g": "Programa"
       },
       {
-        "t": "04:35",
-        "p": "Chicago Fire",
+        "t": "05:00",
+        "p": "Familia",
         "g": "Programa"
       },
       {
-        "t": "05:15",
-        "p": "Chicago Fire",
+        "t": "05:45",
+        "p": "Familia",
         "g": "Programa"
       },
       {
-        "t": "06:00",
-        "p": "Chicago Fire",
+        "t": "06:25",
+        "p": "Conectamos Empleo",
         "g": "Programa"
       },
       {
@@ -1008,18 +1003,18 @@
         "g": "Programa"
       },
       {
-        "t": "07:20",
+        "t": "07:00",
         "p": "Pasión prohibida",
         "g": "Programa"
       },
       {
-        "t": "07:50",
+        "t": "07:45",
+        "p": "Pasión prohibida",
+        "g": "Programa"
+      },
+      {
+        "t": "08:00",
         "p": "Love Shopping TV",
-        "g": "Programa"
-      },
-      {
-        "t": "08:20",
-        "p": "Pasión prohibida",
         "g": "Programa"
       },
       {
@@ -1028,86 +1023,91 @@
         "g": "Programa"
       },
       {
-        "t": "09:15",
+        "t": "09:00",
         "p": "Bones",
         "g": "Programa"
       },
       {
-        "t": "10:05",
+        "t": "09:45",
         "p": "Bones",
         "g": "Programa"
       },
       {
-        "t": "10:55",
+        "t": "10:45",
         "p": "Bones",
         "g": "Programa"
       },
       {
-        "t": "11:50",
+        "t": "11:45",
         "p": "Bones",
         "g": "Programa"
       },
       {
-        "t": "12:50",
+        "t": "12:45",
         "p": "9-1-1",
         "g": "Programa"
       },
       {
-        "t": "13:50",
+        "t": "13:30",
         "p": "9-1-1",
         "g": "Programa"
       },
       {
-        "t": "14:50",
+        "t": "14:30",
         "p": "9-1-1",
         "g": "Programa"
       },
       {
-        "t": "15:45",
+        "t": "15:30",
         "p": "Chicago Fire",
         "g": "Programa"
       },
       {
-        "t": "16:45",
+        "t": "16:30",
         "p": "Chicago Fire",
         "g": "Programa"
       },
       {
-        "t": "17:40",
+        "t": "17:30",
         "p": "Chicago Fire",
         "g": "Programa"
       },
       {
-        "t": "18:35",
+        "t": "18:15",
         "p": "Gran Hermano VIP: resumen diario",
         "g": "Programa"
       },
       {
-        "t": "19:30",
+        "t": "18:20",
+        "p": "Gran Hermano VIP: resumen diario",
+        "g": "Programa"
+      },
+      {
+        "t": "19:00",
         "p": "First Dates",
         "g": "Programa"
       },
       {
-        "t": "20:45",
+        "t": "20:15",
         "p": "First Dates",
         "g": "Programa"
       },
       {
         "t": "21:45",
-        "p": "Chicago Med",
+        "p": "Castle",
         "g": "Programa"
       },
       {
         "t": "22:45",
-        "p": "Chicago Med",
+        "p": "Castle",
         "g": "Programa"
       },
       {
-        "t": "23:35",
-        "p": "Chicago Med",
+        "t": "23:30",
+        "p": "Elsbeth",
         "g": "Programa"
       }
     ]
   },
-  "updatedAt": "2026-11-23T21:11:58.958Z"
+  "updatedAt": "2026-11-24T05:54:06.744Z"
 }

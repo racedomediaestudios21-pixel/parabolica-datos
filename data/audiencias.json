@@ -1,86 +1,91 @@
 {
   "ranking": [
     {
-      "name": "Temáticas de Pago",
-      "share": 16.4,
-      "color": "#0a3d62"
-    },
-    {
-      "name": "Antena 3",
-      "share": 10.8,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "La 1",
-      "share": 10.1,
+      "share": 14.6,
       "color": "#00a8e8"
     },
     {
+      "name": "Antena 3",
+      "share": 14,
+      "color": "#3ecf8e"
+    },
+    {
+      "name": "Temáticas de Pago",
+      "share": 9.4,
+      "color": "#0a3d62"
+    },
+    {
       "name": "Telecinco",
-      "share": 7.7,
+      "share": 8.4,
       "color": "#39a935"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 7.6,
+      "share": 8.3,
       "color": "#e51c23"
     },
     {
       "name": "Cuatro",
-      "share": 6.4,
+      "share": 7.3,
       "color": "#3ecf8e"
     },
     {
       "name": "laSexta",
-      "share": 4.9,
+      "share": 5.2,
       "color": "#3ecf8e"
     }
   ],
-  "dataDate": "2026-11-22",
+  "dataDate": "2026-11-23",
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 2 FIN DE SEMANA",
-    "chan": "Antena3",
-    "time": "20:59",
-    "viewers": 1789000,
-    "share": 14.2
+    "prog": "E29N:DEBATE A 8",
+    "chan": "La1",
+    "time": "22:02",
+    "viewers": 3108000,
+    "share": 24.2
   },
-  "minutoOro": null,
+  "minutoOro": {
+    "time": "22:25",
+    "chan": "La1",
+    "prog": "LA GRAN DECISION",
+    "viewers": 3321000
+  },
   "prime": [
     {
       "chan": "La1",
-      "prog": "PELICULA DE LA SEMANA <EL ESTRANGULADOR DE BOSTON(2023)>",
-      "share": 11.2,
-      "viewers": 12.350002
-    },
-    {
-      "chan": "Antena3",
-      "prog": "EL SECRETO",
-      "share": 12,
-      "viewers": 9.860004
+      "prog": "LA GRAN DECISION",
+      "share": 18.6,
+      "viewers": 20.260003
     },
     {
       "chan": "Cuatro",
-      "prog": "CUARTO MILENIO",
-      "share": 6.6,
-      "viewers": 7.270006
+      "prog": "HORIZONTE",
+      "share": 10,
+      "viewers": 13.390005
     },
     {
-      "chan": "TV3",
-      "prog": "TELENOTICIES VESPRE",
-      "share": 22.9,
-      "viewers": 4.220008
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 7.9,
+      "viewers": 10.550007
     },
     {
-      "chan": "La Sexta",
-      "prog": "SALVADOS <ELVIRA>",
-      "share": 4,
-      "viewers": 38.80001
+      "chan": "Telecinco",
+      "prog": "EL DEBATE FINAL DE LAS TENTACIONES",
+      "share": 10,
+      "viewers": 6.180009
+    },
+    {
+      "chan": "Cuatro",
+      "prog": "EL COMITE",
+      "share": 9.6,
+      "viewers": 0.596
     }
   ],
-  "consumoMin": 178,
+  "consumoMin": 168,
   "espectadoresTotales": {
-    "viewers": 27990000,
-    "percent": 58.8
+    "viewers": 27745000,
+    "percent": 58.3
   },
-  "updatedAt": "2026-11-24T05:54:07.028Z"
+  "updatedAt": "2026-11-24T17:29:19.392Z"
 }

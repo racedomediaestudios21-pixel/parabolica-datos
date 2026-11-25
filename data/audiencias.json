@@ -1,91 +1,96 @@
 {
   "ranking": [
     {
-      "name": "La 1",
-      "share": 14.6,
-      "color": "#00a8e8"
-    },
-    {
       "name": "Antena 3",
-      "share": 14,
+      "share": 13.7,
       "color": "#3ecf8e"
     },
     {
+      "name": "La 1",
+      "share": 13.1,
+      "color": "#00a8e8"
+    },
+    {
       "name": "Temáticas de Pago",
-      "share": 9.4,
+      "share": 11.5,
       "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 8.4,
+      "share": 8.2,
       "color": "#39a935"
     },
     {
+      "name": "Cuatro",
+      "share": 7.6,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "Autonómicas (FORTA)",
-      "share": 8.3,
+      "share": 7.4,
       "color": "#e51c23"
     },
     {
-      "name": "Cuatro",
-      "share": 7.3,
+      "name": "laSexta",
+      "share": 5.7,
       "color": "#3ecf8e"
     },
     {
-      "name": "laSexta",
-      "share": 5.2,
-      "color": "#3ecf8e"
+      "name": "La 2",
+      "share": 3.2,
+      "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-23",
+  "dataDate": "2026-11-24",
   "masVisto": {
-    "prog": "E29N:DEBATE A 8",
-    "chan": "La1",
-    "time": "22:02",
-    "viewers": 3108000,
-    "share": 24.2
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 2147000,
+    "share": 22.2
   },
   "minutoOro": {
-    "time": "22:25",
-    "chan": "La1",
-    "prog": "LA GRAN DECISION",
-    "viewers": 3321000
+    "time": "21:04",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2654000
   },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "LA GRAN DECISION",
-      "share": 18.6,
-      "viewers": 20.260003
+      "chan": "Antena3",
+      "prog": "EL HORMIGUERO <LUIS PIEDRAHITA-GOYO JIMENEZ Y GALDER VARAS>",
+      "share": 13,
+      "viewers": 16.130002
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 10,
-      "viewers": 13.390005
+      "share": 9.9,
+      "viewers": 12.570004
     },
     {
-      "chan": "Telecinco",
-      "prog": "FIRST DATES",
-      "share": 7.9,
-      "viewers": 10.550007
+      "chan": "Antena3",
+      "prog": "EN TIERRA LEJANA",
+      "share": 14.2,
+      "viewers": 9.650006
     },
     {
-      "chan": "Telecinco",
-      "prog": "EL DEBATE FINAL DE LAS TENTACIONES",
-      "share": 10,
-      "viewers": 6.180009
+      "chan": "La Sexta",
+      "prog": "EL INTERMEDIO",
+      "share": 6.3,
+      "viewers": 8.100009
     },
     {
       "chan": "Cuatro",
-      "prog": "EL COMITE",
-      "share": 9.6,
-      "viewers": 0.596
+      "prog": "CODIGO 10",
+      "share": 11.4,
+      "viewers": 0.696
     }
   ],
   "consumoMin": 168,
   "espectadoresTotales": {
-    "viewers": 27745000,
-    "percent": 58.3
+    "viewers": 27453000,
+    "percent": 57.7
   },
-  "updatedAt": "2026-11-25T02:14:57.027Z"
+  "updatedAt": "2026-11-25T12:35:22.522Z"
 }

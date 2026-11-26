@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "ranking": [
-      {
-        "name": "Antena 3",
-        "share": 13.6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 1",
-        "share": 13.4,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 11.4,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 9,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.6,
-        "color": "#39a935"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.6,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.7,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "ANTENA 3 NOTICIAS 2",
-      "chan": "Antena3",
-      "time": "21:04",
-      "viewers": 2213000,
-      "share": 17.9
-    },
-    "minutoOro": {
-      "time": "21:02",
-      "chan": "Antena3",
-      "prog": "PASAPALABRA",
-      "viewers": 2589000
-    },
-    "prime": [
-      {
-        "chan": "Antena3",
-        "prog": "EL HORMIGUERO <JUAN VIVAS>",
-        "share": 13.6,
-        "viewers": 16.780002
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 10.8,
-        "viewers": 13.400004
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 12.6,
-        "viewers": 8.390006
-      },
-      {
-        "chan": "Telecinco",
-        "prog": "LA ISLA DE LAS TENTACIONES",
-        "share": 12.8,
-        "viewers": 7.610008
-      },
-      {
-        "chan": "La1",
-        "prog": "MASTERCHEF CELEBRITY LEGENDS",
-        "share": 11.8,
-        "viewers": 59.10001
-      }
-    ],
-    "consumoMin": 159,
-    "espectadoresTotales": {
-      "viewers": 27483000,
-      "percent": 57.8
-    }
-  },
-  {
     "date": "2026-10-27",
     "ranking": [
       {
@@ -2562,6 +2467,101 @@
     "consumoMin": 168,
     "espectadoresTotales": {
       "viewers": 27453000,
+      "percent": 57.7
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 13.1,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.7,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.3,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 2.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 2",
+      "chan": "Antena3",
+      "time": "21:05",
+      "viewers": 2069000,
+      "share": 17
+    },
+    "minutoOro": {
+      "time": "21:02",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2574000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <MARTA HAZAS Y ELENA FURIASE>",
+        "share": 12.9,
+        "viewers": 16.130002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 11.1,
+        "viewers": 10.540005
+      },
+      {
+        "chan": "La1",
+        "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <ANTONIA SAN JUAN>",
+        "share": 13.5,
+        "viewers": 8.910007
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 6.1,
+        "viewers": 7.810009
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4,
+        "viewers": 0.518
+      }
+    ],
+    "consumoMin": 166,
+    "espectadoresTotales": {
+      "viewers": 27462000,
       "percent": 57.7
     }
   }

@@ -2,7 +2,7 @@
   "ranking": [
     {
       "name": "Antena 3",
-      "share": 13.7,
+      "share": 13.5,
       "color": "#3ecf8e"
     },
     {
@@ -12,85 +12,85 @@
     },
     {
       "name": "Temáticas de Pago",
-      "share": 11.5,
+      "share": 11.7,
       "color": "#0a3d62"
     },
     {
       "name": "Telecinco",
-      "share": 8.2,
+      "share": 9,
       "color": "#39a935"
     },
     {
-      "name": "Cuatro",
-      "share": 7.6,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Autonómicas (FORTA)",
-      "share": 7.4,
+      "share": 8.3,
       "color": "#e51c23"
     },
     {
+      "name": "Cuatro",
+      "share": 7.2,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "laSexta",
-      "share": 5.7,
+      "share": 5.5,
       "color": "#3ecf8e"
     },
     {
       "name": "La 2",
-      "share": 3.2,
+      "share": 2.8,
       "color": "#ff7a00"
     }
   ],
-  "dataDate": "2026-11-24",
+  "dataDate": null,
   "masVisto": {
-    "prog": "ANTENA 3 NOTICIAS 1",
+    "prog": "ANTENA 3 NOTICIAS 2",
     "chan": "Antena3",
-    "time": "14:58",
-    "viewers": 2147000,
-    "share": 22.2
+    "time": "21:05",
+    "viewers": 2069000,
+    "share": 17
   },
   "minutoOro": {
-    "time": "21:04",
+    "time": "21:02",
     "chan": "Antena3",
     "prog": "PASAPALABRA",
-    "viewers": 2654000
+    "viewers": 2574000
   },
   "prime": [
     {
       "chan": "Antena3",
-      "prog": "EL HORMIGUERO <LUIS PIEDRAHITA-GOYO JIMENEZ Y GALDER VARAS>",
-      "share": 13,
+      "prog": "EL HORMIGUERO <MARTA HAZAS Y ELENA FURIASE>",
+      "share": 12.9,
       "viewers": 16.130002
     },
     {
       "chan": "Cuatro",
       "prog": "HORIZONTE",
-      "share": 9.9,
-      "viewers": 12.570004
+      "share": 11.1,
+      "viewers": 10.540005
     },
     {
-      "chan": "Antena3",
-      "prog": "EN TIERRA LEJANA",
-      "share": 14.2,
-      "viewers": 9.650006
+      "chan": "La1",
+      "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <ANTONIA SAN JUAN>",
+      "share": 13.5,
+      "viewers": 8.910007
     },
     {
       "chan": "La Sexta",
       "prog": "EL INTERMEDIO",
-      "share": 6.3,
-      "viewers": 8.100009
+      "share": 6.1,
+      "viewers": 7.810009
     },
     {
-      "chan": "Cuatro",
-      "prog": "CODIGO 10",
-      "share": 11.4,
-      "viewers": 0.696
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4,
+      "viewers": 0.518
     }
   ],
-  "consumoMin": 168,
+  "consumoMin": 166,
   "espectadoresTotales": {
-    "viewers": 27453000,
+    "viewers": 27462000,
     "percent": 57.7
   },
-  "updatedAt": "2026-11-26T04:54:39.803Z"
+  "updatedAt": "2026-11-26T14:58:23.015Z"
 }

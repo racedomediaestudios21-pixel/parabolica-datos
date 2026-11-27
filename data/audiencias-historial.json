@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "ranking": [
-      {
-        "name": "La 1",
-        "share": 14.6,
-        "color": "#00a8e8"
-      },
-      {
-        "name": "Antena 3",
-        "share": 13.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "Temáticas de Pago",
-        "share": 10.3,
-        "color": "#0a3d62"
-      },
-      {
-        "name": "Telecinco",
-        "share": 8.8,
-        "color": "#39a935"
-      },
-      {
-        "name": "Autonómicas (FORTA)",
-        "share": 8.6,
-        "color": "#e51c23"
-      },
-      {
-        "name": "Cuatro",
-        "share": 7.9,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "laSexta",
-        "share": 5.7,
-        "color": "#3ecf8e"
-      },
-      {
-        "name": "La 2",
-        "share": 3.7,
-        "color": "#ff7a00"
-      }
-    ],
-    "masVisto": {
-      "prog": "la emisión GABRIEL RUFIAN-IRENE MONTERO-FERNANDO & DOLLAR de LA REVUELTA",
-      "chan": "La1",
-      "time": "22:02",
-      "viewers": 2654000,
-      "share": 21.7
-    },
-    "minutoOro": null,
-    "prime": [
-      {
-        "chan": "La1",
-        "prog": "LA REVUELTA <GABRIEL RUFIAN-IRENE MONTERO-FERNANDO & DOLLAR>",
-        "share": 21.7,
-        "viewers": 26.540002
-      },
-      {
-        "chan": "Cuatro",
-        "prog": "HORIZONTE",
-        "share": 11.6,
-        "viewers": 14.570004
-      },
-      {
-        "chan": "Antena3",
-        "prog": "EN TIERRA LEJANA",
-        "share": 12.7,
-        "viewers": 8.260007
-      },
-      {
-        "chan": "La2",
-        "prog": "CIFRAS Y LETRAS",
-        "share": 4.6,
-        "viewers": 5.850009
-      },
-      {
-        "chan": "La1",
-        "prog": "MASTERCHEF CELEBRITY LEGENDS",
-        "share": 10.5,
-        "viewers": 0.516
-      }
-    ],
-    "consumoMin": 160,
-    "espectadoresTotales": {
-      "viewers": 27014000,
-      "percent": 56.8
-    }
-  },
-  {
     "date": "2026-10-28",
     "ranking": [
       {
@@ -2472,6 +2382,101 @@
   },
   {
     "date": "2026-11-25",
+    "ranking": [
+      {
+        "name": "Antena 3",
+        "share": 13.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 1",
+        "share": 13.1,
+        "color": "#00a8e8"
+      },
+      {
+        "name": "Temáticas de Pago",
+        "share": 11.7,
+        "color": "#0a3d62"
+      },
+      {
+        "name": "Telecinco",
+        "share": 9,
+        "color": "#39a935"
+      },
+      {
+        "name": "Autonómicas (FORTA)",
+        "share": 8.3,
+        "color": "#e51c23"
+      },
+      {
+        "name": "Cuatro",
+        "share": 7.2,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "laSexta",
+        "share": 5.5,
+        "color": "#3ecf8e"
+      },
+      {
+        "name": "La 2",
+        "share": 2.8,
+        "color": "#ff7a00"
+      }
+    ],
+    "masVisto": {
+      "prog": "ANTENA 3 NOTICIAS 2",
+      "chan": "Antena3",
+      "time": "21:05",
+      "viewers": 2069000,
+      "share": 17
+    },
+    "minutoOro": {
+      "time": "21:02",
+      "chan": "Antena3",
+      "prog": "PASAPALABRA",
+      "viewers": 2574000
+    },
+    "prime": [
+      {
+        "chan": "Antena3",
+        "prog": "EL HORMIGUERO <MARTA HAZAS Y ELENA FURIASE>",
+        "share": 12.9,
+        "viewers": 16.130002
+      },
+      {
+        "chan": "Cuatro",
+        "prog": "HORIZONTE",
+        "share": 11.1,
+        "viewers": 10.540005
+      },
+      {
+        "chan": "La1",
+        "prog": "EL PERRO ANDALUZ BY MANU SANCHEZ <ANTONIA SAN JUAN>",
+        "share": 13.5,
+        "viewers": 8.910007
+      },
+      {
+        "chan": "La Sexta",
+        "prog": "EL INTERMEDIO",
+        "share": 6.1,
+        "viewers": 7.810009
+      },
+      {
+        "chan": "La2",
+        "prog": "CIFRAS Y LETRAS",
+        "share": 4,
+        "viewers": 0.518
+      }
+    ],
+    "consumoMin": 166,
+    "espectadoresTotales": {
+      "viewers": 27462000,
+      "percent": 57.7
+    }
+  },
+  {
+    "date": "2026-11-26",
     "ranking": [
       {
         "name": "Antena 3",

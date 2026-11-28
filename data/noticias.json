@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "t": "Juan Antonio Simarro presenta «Música para contar historias», un concierto para sentir y descubrir la música",
+      "u": "https://laparabolica.tv/juan-antonio-simarro-musica-para-contar-historias/"
+    },
+    {
       "t": "Netflix reinventa la historia de ‘Quasimodo’ con un irreconocible Vincent Cassel",
       "u": "https://laparabolica.tv/quasimodo-el-alma-de-paris-netflix/"
     },
@@ -21,10 +25,6 @@
       "u": "https://laparabolica.tv/blas-canto-aquiles-vol-1-nuevo-album-2026/"
     },
     {
-      "t": "‘El camino azul’: el thriller de Netflix que une a Corea y Japón tras una serie de asesinatos",
-      "u": "https://laparabolica.tv/el-camino-azul-netflix-serie-coreana/"
-    },
-    {
       "t": "La Húngara se suma a la lucha contra el maltrato animal en ‘Patas Arriba’ y presenta a su inseparable Kylie",
       "u": "https://laparabolica.tv/la-hungara-se-suma-a-la-lucha-contra-el-maltrato-animal-en-patas-arriba-y-presenta-a-su-inseparable-kylie/"
     },
@@ -41,5 +41,5 @@
       "u": "https://laparabolica.tv/supervivientes-all-stars-vuelve-esta-noche-a-telecinco/"
     }
   ],
-  "updatedAt": "2026-11-28T01:52:21.659Z"
+  "updatedAt": "2026-11-28T10:11:05.285Z"
 }

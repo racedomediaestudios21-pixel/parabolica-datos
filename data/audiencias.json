@@ -1,85 +1,85 @@
 {
   "ranking": [
     {
+      "name": "Antena 3",
+      "share": 13,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "La 1",
-      "share": 15.9,
+      "share": 12.5,
       "color": "#00a8e8"
     },
     {
-      "name": "Antena 3",
-      "share": 14.5,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Temáticas de Pago",
-      "share": 8.6,
+      "share": 10.8,
       "color": "#0a3d62"
     },
     {
-      "name": "Cuatro",
-      "share": 8.5,
-      "color": "#3ecf8e"
-    },
-    {
       "name": "Telecinco",
-      "share": 7.7,
+      "share": 9,
       "color": "#39a935"
     },
     {
       "name": "Autonómicas (FORTA)",
-      "share": 7.3,
+      "share": 8,
       "color": "#e51c23"
     },
     {
+      "name": "Cuatro",
+      "share": 6.6,
+      "color": "#3ecf8e"
+    },
+    {
       "name": "laSexta",
-      "share": 5.4,
+      "share": 5.6,
       "color": "#3ecf8e"
     }
   ],
-  "dataDate": "2026-11-26",
+  "dataDate": "2026-11-27",
   "masVisto": {
-    "prog": "EL DEBATE.26",
-    "chan": "La1",
-    "time": "22:00",
-    "viewers": 3345000,
-    "share": 23.1
+    "prog": "ANTENA 3 NOTICIAS 1",
+    "chan": "Antena3",
+    "time": "14:58",
+    "viewers": 1996000,
+    "share": 23.2
   },
   "minutoOro": {
-    "time": "23:05",
-    "chan": "La1",
-    "prog": "LA GRAN DECISION",
-    "viewers": 3635000
+    "time": "21:04",
+    "chan": "Antena3",
+    "prog": "PASAPALABRA",
+    "viewers": 2391000
   },
   "prime": [
     {
-      "chan": "La1",
-      "prog": "EL DEBATE.26",
-      "share": 23.1,
-      "viewers": 33.450002
-    },
-    {
-      "chan": "La1",
-      "prog": "LA GRAN DECISION",
-      "share": 18.6,
-      "viewers": 20.170005
-    },
-    {
-      "chan": "Cuatro",
-      "prog": "HORIZONTE ESPECIAL DEBATE A CUATRO",
-      "share": 7.7,
-      "viewers": 10.250008
+      "chan": "Telecinco",
+      "prog": "FIRST DATES",
+      "share": 9.3,
+      "viewers": 10.080003
     },
     {
       "chan": "Telecinco",
-      "prog": "EL DEBATE.26",
-      "share": 6.2,
-      "viewers": 89.60001
+      "prog": "¡DE VIERNES!",
+      "share": 13.5,
+      "viewers": 8.780006
+    },
+    {
+      "chan": "La2",
+      "prog": "CIFRAS Y LETRAS",
+      "share": 4.8,
+      "viewers": 5.310008
+    },
+    {
+      "chan": "La Sexta",
+      "prog": "LASEXTA _XPLICA/.",
+      "share": 4.9,
+      "viewers": 0.396
     }
   ],
-  "consumoMin": 176,
+  "consumoMin": 157,
   "espectadoresTotales": {
-    "viewers": 28322000,
-    "percent": 59.5
+    "viewers": 26491000,
+    "percent": 55.7
   },
-  "updatedAt": "2026-11-28T01:52:20.190Z"
+  "updatedAt": "2026-11-28T10:11:03.460Z"
 }
